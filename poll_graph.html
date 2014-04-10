@@ -16,6 +16,18 @@
 		color:#fff;
 		border-radius:5px;
 	}
+
+    .axis path,
+    .axis line {
+        fill: none;
+        stroke: lightgrey; 
+    	stroke-width: 2px;
+    }
+
+    .axis text {
+        font-family: sans-serif;
+        font-size: 9px;
+    }
 </style>
 </head>
 <body>
@@ -30,14 +42,17 @@
 <td></td>
 </tr> -->
 <tr>
-<td>
+<td rowspan="2">
 <form>
-<label><input type="radio" name="pollSelect" value="ap" onClick='displayPoll("ap")'> Associated Press</label>
+<label><input type="radio" name="pollSelect" value="ap" onClick='displayPoll("ap")' checked> Associated Press</label>
 <label><input type="radio" name="pollSelect" value="coaches" onClick='displayPoll("coaches")'/> Coaches/USA Today</label>
 <label><input type="radio" name="pollSelect" value="rpi" onClick='displayPoll("rpi")'/> RPI</label>
 </form>
 <div id="pollgraph"></div></td>
-<td><div id="confBar"></div></td>
+<td valign="top"><div id="confBar"></div></td>
+</tr>
+<tr>
+<td valign="top"><div id="movers"></div></td>
 </tr>
 </table>
 <script type="text/javascript">
@@ -92,15 +107,17 @@ svg.call(tip);
 
 var externalschool;
 
+var moversObj = {};
+
 function displayPoll(thePoll) {
 	thePollPath = polls[thePoll];
 
 //d3.csv("data/poll-data/2012-13-AP.csv", function(error, data) {
 d3.csv(thePollPath, function(error, data) {
-	var teams = {};
-var teamlines = [];
-var weeks = [];
-conferences = {};
+	teams = {};
+	teamlines = [];
+	weeks = [];
+	conferences = {};
 	dataset = data;
 
 	//d3.selectAll("path#teampath").exit().remove();
@@ -158,6 +175,8 @@ conferences = {};
 		}
 	}
 
+
+
 	for (var school in teams) {
 		rankedWeeks = [];
 		ranks = teams[school];
@@ -181,7 +200,21 @@ conferences = {};
 		ranks.sort(function(a,b) {
 			return d3.ascending(a.Wk, b.Wk);
 		})
+		// Build object with all rank changes keyed by week
+		ranks.forEach(function(d, i) {
+			if (i > 0) {
+				change = ranks[i-1].Rk - ranks[i].Rk
+				ranks[i].Chng = change;
+				if (moversObj[d.Wk]) {
+					moversObj[d.Wk].push({"School": school, "Change": change});
+				} else {
+					moversObj[d.Wk] = [{"School": school, "Change": change}];
+				}
+			}
+		})
 	}
+
+	findTopMovers();
 
 	maxWk = d3.max(weeks, function(d) { return d; });
 
@@ -344,6 +377,91 @@ function highlightPath(thePath,school) {
 var confCanvas,chart;
 var confXScale,confYScale,confXAxis,confXsvg;
 
+var topMovers = {};
+
+function findTopMovers() {
+	for (var week in moversObj) {
+		changes = moversObj[week];
+		changes.sort(function(a,b) {
+			return d3.descending(Math.abs(a.Change), Math.abs(b.Change));
+		})
+		topM = changes.splice(0,7);
+		topM.sort(function(a,b) {
+			return d3.descending(a.Change, b.Change);
+		})
+		topMovers[week] = topM;
+	}
+}
+
+var moversTable, moversThead, moversTbody, moversRows, moversColumns, moversCells;
+
+function createMoversTable() {
+	moversColumns = ["School", "Change"];
+	var dummydata = [];
+	for (var i=0;i<7;i++) {
+		dummydata.push({"School": i, "Change": i});
+	}
+
+	moversTable = d3.select("#movers").append("table")
+					.style("display", "none")
+					.attr("width", "300px");
+
+	moversThead = moversTable.append("thead");
+	moversTbody = moversTable.append("tbody");
+
+	moversThead.append("tr")
+			.selectAll("th")
+			.data(moversColumns)
+			.enter()
+			.append("th")
+				.text(function(column) { return column; })
+				.attr("align", function(d,i) { return i===0?"left":"right"; })
+				.attr("width", function(d,i) { return i===0?"200px":"100px"; })
+
+	moversRows = moversTbody.selectAll("tr")
+				.data(dummydata)
+				.enter()
+				.append("tr");
+
+	// moversCells = moversRows.selectAll("td")
+	// 			.data(function(row) {
+	// 				return moversColumns.map(function(column) {
+	// 					return {column: column, value: row[column]};
+	// 				})
+	// 			})
+	// 			.enter()
+	// 			.append("td")
+	// 				.html(function(d) { return d.value; })
+	// 				.attr("align", function(d,i) { return i===0?"left":"right"; })
+
+	return moversTable;
+}
+
+function updateMoversTable(week) {
+	var moversData = topMovers[week];
+
+	moversTable.style("display", "block");
+
+	moversTbody.selectAll("tr").remove();
+
+	moversRows = moversTbody.selectAll("tr")
+				.data(moversData)
+				.enter()
+				.append("tr");
+
+	moversCells = moversRows.selectAll("td")
+				.data(function(row) {
+					return moversColumns.map(function(column) {
+						return {column: column, value: row[column]};
+					})
+				})
+				.enter()
+				.append("td")
+					.html(function(d) { return d.value; })
+					.attr("align", function(d,i) { return i===0?"left":"right"; })
+
+}
+
 function createConfBar() {
 	confCanvas = d3.select("#confBar").append("svg").attr({
 		width: 300,
@@ -386,15 +504,33 @@ function updateConfBar(week) {
 	confYScale.domain([0,maxCount]);
 
 	chart.selectAll("rect").remove();
+	chart.selectAll(".barValue").remove();
 
 	chart.selectAll("rect")
 			.data(confCounts)
 			.enter()
 			.append("rect")
 			.attr("class", "bars")
+			.attr("fill", "lightsteelblue")
 			.attr("height", function(d) { return (250-confYScale(d)); })
 			.attr("width", ((300/confCounts.length)-2))
 			.attr("transform", function(d,i) { return "translate(" + confXScale(currConfs[i]) + "," + confYScale(d) + ")"; });
+
+	chart.selectAll(".barValue")
+			.data(confCounts)
+			.enter()
+			.append("text")
+			.text(function(d) {
+				return d;
+			})
+			.attr("class", "barValue")
+			.attr("text-anchor", "middle")
+			.attr("x", function(d, i) {
+				return i * (300 /confCounts.length) + (300 / confCounts.length - 2) /2;
+			})
+			.attr("y", function(d) {
+				return (confYScale(d) + 24);
+			});
 }
 
 function backToNormal() {
@@ -409,8 +545,9 @@ function backToNormal() {
 displayPoll("ap");
 
 createConfBar();
+createMoversTable();
 d3.select("body").append("div").attr("class", "d3-slider d3-slider-horizontal")//.style("margin-left", "35px");
-d3.select("div.d3-slider").call(d3.slider().axis(true).min(1).max(20).step(1).on("slide", function(evt, value) { updateConfBar(value); } ));
+d3.select("div.d3-slider").call(d3.slider().axis(true).min(1).max(20).step(1).on("slide", function(evt, value) { updateConfBar(value); updateMoversTable(value); } ));
 //displayPoll("coaches");
 
 </script>

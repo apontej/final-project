@@ -164,17 +164,17 @@
 
     rect.filter(function(d) { return d in datesPlayed; })
         .attr("class", function(d) { if (datesPlayed[d]) { return "day " + colorScale(datesPlayed[d]); } else { return "day"; } })
-        // .on("click", function(d) { 
-        //   if (confsPlayed[d]) { 
-        //     console.log(confsPlayed[d]);
-        //     string = ""; 
-        //     for (var conf in confsPlayed[d]) {
-        //       console.log(confsPlayed[d][conf]);
-        //       string = string + conf + ": " + confsPlayed[d][conf] + "\n"; 
-        //     }
-        //     window.alert(string); 
-        //   } 
-        // })
+        .on("click", function(d) { 
+          if (confsPlayed[d]) { 
+            console.log(confsPlayed[d]);
+            string = ""; 
+            for (var conf in confsPlayed[d]) {
+              console.log(confsPlayed[d][conf]);
+              string = string + conf + ": " + confsPlayed[d][conf] + "\n"; 
+            }
+            window.alert(string); 
+          } 
+        })
         .select("title")
           .text(function(d) { if (datesPlayed[d]) { return d + ": " + datesPlayed[d]; } });
 
@@ -185,6 +185,38 @@
 
   }); // end d3.csv()
   
+  var xscale,yscale,yaxis,ysvg;
+
+  //var confBarVis = d3.select("body").append("svg").attr({width:350, height:550} );
+
+  function createConfBarVis() {
+    xscale = d3.scale.linear().range([50,300]);
+    yscale = d3.scale.ordinal().range([0,500]);
+
+    yaxis = d3.svg.axis()
+                .scale(yscale)
+                .orient("left");
+
+    ysvg = confBarVis.append("g")
+              .attr("class", "axis")
+              .attr("transform", "translate(50,0)");
+  }
+
+  function updateConfBarVis(confs) {
+    maxGames = 0;
+    confsArray = [];
+    for (var conf in confs) {
+      confsArray.push(conf);
+      if (confs[conf] > maxGames) {
+        maxGames = confs[conf];
+      }
+    }
+
+    xscale.domain([0,maxGames]);
+    yscale.domain(confsArray);
+    ysvg.call(yaxis);
+  }
+
   // nifty!
   // stolen from http://bl.ocks.org/mbostock/4063318
   function monthPath(t0) {
