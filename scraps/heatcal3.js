@@ -204,13 +204,18 @@
 
   var cal = new CalHeatMap();
   cal.init({
-    data: datesPlayed,
+    data: "datesPlayed.json",
     dataType: "json",
     start: new Date(2012, 10),
     id: "cal-heatmap",
     domain: "month",
     subDomain: "x_day",
-    range: 6
+    range: 6,
+    cellSize: 20,
+    cellPadding: 3,
+    cellRadius: 4,
+    domainGutter: 15
+    // weekStartOnMonday: 0
   });
   
   var xscale,yscale,yaxis,ysvg;
