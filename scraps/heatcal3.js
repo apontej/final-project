@@ -35,60 +35,60 @@
         })
     );
 
-  console.log(d3.range(2012, 2014));
+  // console.log(d3.range(2012, 2014));
   
-  var svg = d3.select('body').selectAll('svg')
-    .data(d3.range(2012, 2014))
-    .enter()
-      .append('svg')
-      .attr('width', width)
-      .attr('height', height)
-      .attr('class', 'RdYlGn')
-      .append('g')
-        .attr('transform', 'translate(' 
-          + (((width + margin.left + margin.right) 
-            - (cellSize * 53)) / 2) + ','
-            + ((height + margin.top + margin.bottom) 
-              - (cellSize * 7) - 22) + ')')
+  // var svg = d3.select('body').selectAll('svg')
+  //   .data(d3.range(2012, 2014))
+  //   .enter()
+  //     .append('svg')
+  //     .attr('width', width)
+  //     .attr('height', height)
+  //     .attr('class', 'RdYlGn')
+  //     .append('g')
+  //       .attr('transform', 'translate(' 
+  //         + (((width + margin.left + margin.right) 
+  //           - (cellSize * 53)) / 2) + ','
+  //           + ((height + margin.top + margin.bottom) 
+  //             - (cellSize * 7) - 22) + ')')
 
-  var rect = svg.selectAll('.day')
-    .data(function(d) {
-      return d3.time.days(new Date(d, 10, 1),
-        new Date(d + 1, 3, 30));
-      //return d3.time.days(new Date(d, 10, 1),
-      //  new Date(d + 1, 03, 30));
-    })
-    .enter()
-      .append('rect')
-      .attr('class', 'day')
-      .attr('width', cellSize)
-      .attr('height', cellSize)
-      .attr('x', function (d) {
-        return week(d) * cellSize;
-      })
-      .attr('y', function(d) {
-        return day(d) * cellSize;
-      })
-      .datum(dateFormat)
+  // var rect = svg.selectAll('.day')
+  //   .data(function(d) {
+  //     return d3.time.days(new Date(d, 10, 1),
+  //       new Date(d + 1, 3, 30));
+  //     //return d3.time.days(new Date(d, 10, 1),
+  //     //  new Date(d + 1, 03, 30));
+  //   })
+  //   .enter()
+  //     .append('rect')
+  //     .attr('class', 'day')
+  //     .attr('width', cellSize)
+  //     .attr('height', cellSize)
+  //     .attr('x', function (d) {
+  //       return week(d) * cellSize;
+  //     })
+  //     .attr('y', function(d) {
+  //       return day(d) * cellSize;
+  //     })
+  //     .datum(dateFormat)
 
-  rect
-    .append('title')
-    .text(function(d) {
-      return d; 
-    })
+  // rect
+  //   .append('title')
+  //   .text(function(d) {
+  //     return d; 
+  //   })
 
-  svg
-    .selectAll('.month')
-    .data(function(d) {
-      return d3.time.months(new Date(d, 10, 1),
-        new Date(d + 1, 3, 30));
-      // return d3.time.months(new Date(d, 10, 1),
-        // new Date(d + 1, 03, 30));
-    })
-    .enter()
-      .append('path')
-      .attr('class', 'month')
-      .attr('d', monthPath);
+  // svg
+  //   .selectAll('.month')
+  //   .data(function(d) {
+  //     return d3.time.months(new Date(d, 10, 1),
+  //       new Date(d + 1, 3, 30));
+  //     // return d3.time.months(new Date(d, 10, 1),
+  //       // new Date(d + 1, 03, 30));
+  //   })
+  //   .enter()
+  //     .append('path')
+  //     .attr('class', 'month')
+  //     .attr('d', monthPath);
 
   d3.csv('../data/all-games.csv', function(error, csv) {
     // some routine data formatting
@@ -117,7 +117,9 @@
 
     // calculate # of games each day
     dataset.forEach(function(d) {
-      var date = d.date;
+      var date = dateFormat.parse(d.date);
+      date = (+date / 1000).toString();
+      //date = date.toString();
       // create datesPlayed object
       if (datesPlayed[date]) {
         datesPlayed[date]++;
@@ -149,6 +151,7 @@
       // }
     }); // end forEach()
 
+
     // calculate max # of games played
     maxGames = 0;
 
@@ -158,25 +161,25 @@
       }
     }
 
-    // set up domain of color scale from 0 games to maxGames games
-    colorScale
-      .domain([0,maxGames]);
+    // // set up domain of color scale from 0 games to maxGames games
+    // colorScale
+    //   .domain([0,maxGames]);
 
-    rect.filter(function(d) { return d in datesPlayed; })
-        .attr("class", function(d) { if (datesPlayed[d]) { return "day " + colorScale(datesPlayed[d]); } else { return "day"; } })
-        .on("click", function(d) { 
-          if (confsPlayed[d]) { 
-            console.log(confsPlayed[d]);
-            string = ""; 
-            for (var conf in confsPlayed[d]) {
-              console.log(confsPlayed[d][conf]);
-              string = string + conf + ": " + confsPlayed[d][conf] + "\n"; 
-            }
-            window.alert(string); 
-          } 
-        })
-        .select("title")
-          .text(function(d) { if (datesPlayed[d]) { return d + ": " + datesPlayed[d]; } });
+    // rect.filter(function(d) { return d in datesPlayed; })
+    //     .attr("class", function(d) { if (datesPlayed[d]) { return "day " + colorScale(datesPlayed[d]); } else { return "day"; } })
+    //     .on("click", function(d) { 
+    //       if (confsPlayed[d]) { 
+    //         console.log(confsPlayed[d]);
+    //         string = ""; 
+    //         for (var conf in confsPlayed[d]) {
+    //           console.log(confsPlayed[d][conf]);
+    //           string = string + conf + ": " + confsPlayed[d][conf] + "\n"; 
+    //         }
+    //         window.alert(string); 
+    //       } 
+    //     })
+    //     .select("title")
+    //       .text(function(d) { if (datesPlayed[d]) { return d + ": " + datesPlayed[d]; } });
 
 
     // set up domain of color scale
@@ -184,6 +187,31 @@
       //.domain([0, buckets - 1, 154]) // MAGIC # ALERT 
 
   }); // end d3.csv()
+
+  var jsondata;
+
+  d3.json("datesPlayed.json", function(error, json) {
+    jsondata = json;
+  })
+
+  var parser = function(data) {
+    var dates = {};
+    for (var date in datesPlayed) {
+      dates[date] = datesPlayed[date];
+    }
+    return dates;
+  }
+
+  var cal = new CalHeatMap();
+  cal.init({
+    data: datesPlayed,
+    dataType: "json",
+    start: new Date(2012, 10),
+    id: "cal-heatmap",
+    domain: "month",
+    subDomain: "x_day",
+    range: 6
+  });
   
   var xscale,yscale,yaxis,ysvg;
 
@@ -233,3 +261,11 @@
   };
   
 //}); // end .ready() // removed for debugging
+    var saveToFile = function(object, filename){
+        var blob, blobText;
+        blobText = [JSON.stringify(object)];
+        blob = new Blob(blobText, {
+            type: "text/plain;charset=utf-8"
+        });
+        saveAs(blob, filename);
+    }

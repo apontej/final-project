@@ -1,0 +1,5 @@
+README
+
+The main visualization being submitted for the Functional Prototype is contained in poll_graph.html. Its interactivity exists in utilizing the slider across the bottom of the screen.
+
+There is another visualization that has started to be implemented in scraps/heatcal2.html. This will eventually be fleshed out and linked in some way to poll_graph.html.
