@@ -1,0 +1,56 @@
+<html>
+<head>
+    <script src="../libs/jquery-1.10.1.js"></script>
+    <script src="../libs/jquery.xdomainajax.js"></script>
+    <script src="../libs/d3.v3.min.js"></script>
+    <script src="../libs/FileSaver.js"></script>
+    </head>
+<body>
+<script>
+var listing;
+var csvRemove;
+d3.text("../data/listing1.txt", function(text) {
+	listing = text;
+})
+
+function splitListing() {
+	csvRemove = listing.split(".csv\n");
+
+	csvRemove.forEach(function(d,i) {
+		csvRemove[i] = d.split('-')[2];
+	})
+}
+
+var allgameids;
+var assoc = {};
+d3.csv("../data/all-gameids-2012-13.csv", function(csv) {
+	allgameids = csv;
+})
+
+function buildAssoc() {
+	csvRemove.forEach(function(d,i) {
+		assoc[d] = 1;
+	})
+}
+
+var missing = [];
+function compare(start,stop) {
+	for (var i=start;i<stop;i++) {
+		d = allgameids[i];
+		if (assoc[d.gameid] !== 1) {
+			console.log(d);
+			missing.push(d);
+		}
+	}
+}
+
+function runner() {
+	splitListing();
+	buildAssoc();
+	compare();
+}
+
+
+</script>
+</body>
+</html>

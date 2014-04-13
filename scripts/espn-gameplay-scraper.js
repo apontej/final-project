@@ -1,5 +1,3 @@
-$(document).ready(function() {
-
   var plays = []; // hold all our play objects
   var play = null;
   var awayId, homeId, fileName;
@@ -32,25 +30,41 @@ $(document).ready(function() {
       return saveAs(blob, fileName);
     };
 
+    String.prototype.endsWith = function(suffix) {
+       return this.indexOf(suffix, this.length - suffix.length) !== -1;
+     };
+
   // take a team's espn url and parse out the espn id
   var getTeamIdFromLink = function(link) {
     return link.split('/')[indexId].trim();
   }
-  
-  d3.csv('../data/game-ids.csv', function(error, data) {
-    // grab 200 ids to scrape
-    var idsToScrape = [];
-    for (var i = 0; i < 200; i++) {
-      console.log(data[i].game_id);
-      idsToScrape.push(data[i].game_id);
-    }
 
-    idsToScrape.forEach(function(d) {
+var dataset;
+d3.csv('../data/all-gameids-2012-13.csv', function(error, data) {
+  dataset = data;
+})
+
+function getPbP(gameid) {  
+  console.log(gameid);
+  //d3.csv('../data/all-gameids-2012-13.csv', function(error, data) {
+    // grab 200 ids to scrape
+    // var idsToScrape = [];
+    // for (var i = start; i < stop; i++) {
+    //   //console.log(data[i].game_id);
+    //   idsToScrape.push(data[i].game_id);
+    // }
+
+    // idsToScrape.forEach(function(d,i) {
       $.ajax({
-        url: baseUrl + d,
+        url: baseUrl + gameid,
         //url: 'http://espn.go.com/ncb/playbyplay?gameId=323152168',
         type: 'GET',
+        async: false,
         success: function(data, textStatus) {
+
+          plays = [];
+          outputStr = "clock,away_score,home_score\n";
+          plays.push(outputStr);
 
           awayId
             = getTeamIdFromLink($(data.responseText)
@@ -66,15 +80,17 @@ $(document).ready(function() {
             find('.mod-data.mod-pbp tbody tr');
           var numRows = rows.length;
 
+          if (numRows > 0) {
           // dynamically establish baseline number of <td>s in each row
           var numTDsInRow = $(rows[0]).find('td').length;
 
           // grab all the <td>s in each row, and process them
           rows.each(function(i) {
+            outputStr = "";
             // initialize a new object in our plays array ...
-            plays[i] = {}; 
+            //plays[i] = {}; 
             // ... and grab hold of it
-            play = plays[i]; 
+            //play = plays[i]; 
 
             // process each <td>
             var tds = $(this).find('td');
@@ -88,7 +104,8 @@ $(document).ready(function() {
                 // the blank line can be identified
                 // by <td colspan=4>; so make sure colspan != 4
                 // before we write anything
-                  play['clock'] = $(this).text().trim()
+                  //play['c'] = $(this).text().trim()
+                  outputStr += $(this).text().trim() + ",";
               } else if (k % numTDsInRow === 1) { 
                 // we're in the second <td>: away team's play;
                 // check that there are more than 2 <td>s in this row;
@@ -98,20 +115,22 @@ $(document).ready(function() {
                 // as that a half has ended; we'll not  
                 // mention when timeout has happened
                 if (tds.length > 2) {
-                  play['away_play'] = $(this).text().trim();
+                  //play['away_play'] = $(this).text().trim();
                 } else { // ... play stoppage
                   var stoppageEvent = $(this).children().text(); 
                   // twist back to grab the score from the previous row
                   var score = $(this).parent('tr')
                     .prev('tr').find('td:nth-child(3)').text().trim();
-                  play['away_play'] = '';
+                  //play['away_play'] = '';
                   // away score is listed first ... 
-                  play['away_score'] = score.split('-')[0]; 
+                  //play['as'] = score.split('-')[0]; 
+                  outputStr += score.split('-')[0] + ",";
                   // ... and team_score is last
-                  play['team_score'] = score.split('-')[1]; 
-                  play['home_play'] = '';
+                  //play['hs'] = score.split('-')[1];
+                  outputStr += score.split('-')[1] + "\n"; 
+                  //play['home_play'] = '';
                   // and note the event that stopped the game
-                  play['stoppage'] = stoppageEvent;
+                  //play['stoppage'] = stoppageEvent;
                 }
               } else if (k % numTDsInRow === 2) {
                 // we're in the third <td>, the one with the score;
@@ -120,34 +139,42 @@ $(document).ready(function() {
                 // point, but we will just to be safe
                 if (tds.length > 2) {
                   var score = $(this).text().trim().split('-');
-                  play['away_score'] = score[0];
-                  play['home_score'] = score[1];
+                  //play['as'] = score[0];
+                  outputStr += score[0] + ",";
+                  //play['hs'] = score[1];
+                  outputStr += score[1] + "\n";
                 } else {
-                  play['away_score'] = '';
-                  play['home_score'] = '';
-                  play['home_play'] = '';
-                  play['stoppage'] = '';
+                  //play['as'] = '';
+                  outputStr += ",";
+                  //play['hs'] = '';
+                  outputStr += "\n";
+                  //play['home_play'] = '';
+                  //play['stoppage'] = '';
                 }
               } else if (k % numTDsInRow === 3) {
                 // we're in the third <td>: the home play;
                 // again, check tds.length just to be safe
                 if (tds.length > 2) {
-                  play['home_play'] = $(this).text().trim();
+                  //play['home_play'] = $(this).text().trim();
                 } else {
-                  play['home_play'] = '';
+                  //play['home_play'] = '';
                 }
               }
             });
-            
+          if (outputStr.length > 0) {
+            plays.push(outputStr);
+          }
           });
           
+          }
 
           /****** SAVE JSON **********
           ***************************/
-          var fileName =  awayId + '-' + homeId + '-' + d
-            + '.json';
+          //console.log(plays);
+          var fileName =  awayId + '-' + homeId + '-' + gameid
+            + '.csv';
 
-          saveJsonToFile(plays, fileName);
+          saveCsvToFile(plays, fileName);
           /***************************
           ***************************/
 
@@ -184,6 +211,13 @@ $(document).ready(function() {
 
         } // end success
       }); // end $.ajax()
-    }); // end data.forEach()
-  }); // end d3.csv()
-}); 
+    //}); // end data.forEach()
+  //}); // end d3.csv()
+}
+
+function runner(start, stop) {
+  for (var i=start;i<stop;i++) {
+    d = dataset[i];
+    getPbP(d.gameid);
+  }
+}
