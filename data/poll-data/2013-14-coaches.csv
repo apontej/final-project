@@ -1,0 +1,548 @@
+Wk,Date,Rk,School,Prev,Chng,Conf
+21,Final,1,Connecticut* FN,19,18,AAC
+21,Final,2,Kentucky* F,22,20,SEC
+21,Final,3,Florida* RTF,1,2,SEC
+21,Final,4,Wisconsin* F,15,11,Big Ten
+21,Final,5,Arizona* R,5,NC,Pac-12
+21,Final,6,Michigan* R,8,2,Big Ten
+21,Final,7,Wichita State* RT,2,5,MVC
+21,Final,8,Michigan State* T,13,5,Big Ten
+21,Final,9,Louisville* RT,3,6,AAC
+21,Final,10,Virginia* RT,4,6,ACC
+21,Final,11,Iowa State* T,9,2,Big 12
+21,Final,12,San Diego State* R,11,1,MWC
+21,Final,13,Villanova* R,7,6,Big East
+21,Final,14,Kansas* R,10,4,Big 12
+21,Final,15,UCLA* T,23,8,Pac-12
+21,Final,16,Duke*,6,10,ACC
+21,Final,17,Syracuse*,12,5,ACC
+21,Final,18,Baylor*,,,Big 12
+21,Final,19,Dayton*,,,A-10
+21,Final,20,Creighton*,16,4,Big East
+21,Final,21,North Carolina*,18,3,ACC
+21,Final,22,Cincinnati* R,14,8,AAC
+21,Final,23,Tennessee*,,,SEC
+21,Final,24,Stanford*,,,Pac-12
+21,Final,25,Saint Louis* R,21,4,A-10
+Wk,Date,Rk,School,Prev,Chng,Conf
+20,Postseason,1,Florida* RTF,1,NC,SEC
+20,Postseason,2,Wichita State* RT,2,NC,MVC
+20,Postseason,3,Louisville* RT,5,2,AAC
+20,Postseason,4,Virginia* RT,8,4,ACC
+20,Postseason,5,Arizona* R,4,1,Pac-12
+20,Postseason,6,Duke*,6,NC,ACC
+20,Postseason,7,Villanova* R,3,4,Big East
+20,Postseason,8,Michigan* R,9,1,Big Ten
+20,Postseason,9,Iowa State* T,16,7,Big 12
+20,Postseason,10,Kansas* R,10,NC,Big 12
+20,Postseason,11,San Diego State* R,7,4,MWC
+20,Postseason,12,Syracuse*,11,1,ACC
+20,Postseason,13,Michigan State* T,22,9,Big Ten
+20,Postseason,14,Cincinnati* R,12,2,AAC
+20,Postseason,15,Wisconsin* F,13,2,Big Ten
+20,Postseason,16,Creighton*,14,2,Big East
+20,Postseason,17,New Mexico* T,20,3,MWC
+20,Postseason,18,North Carolina*,15,3,ACC
+20,Postseason,19,Connecticut* FN,21,2,AAC
+20,Postseason,20,Oklahoma*,18,2,Big 12
+20,Postseason,21,Saint Louis* R,17,4,A-10
+20,Postseason,22,Kentucky* F,,,SEC
+20,Postseason,23,UCLA* T,,,Pac-12
+20,Postseason,24,Ohio State*,24,NC,Big Ten
+20,Postseason,25,Virginia Commonwealth*,25,NC,A-10
+Wk,Date,Rk,School,Prev,Chng,Conf
+19,2014-03-10,1,Florida* RTF,1,NC,SEC
+19,2014-03-10,2,Wichita State* RT,2,NC,MVC
+19,2014-03-10,3,Villanova* R,6,3,Big East
+19,2014-03-10,4,Arizona* R,3,1,Pac-12
+19,2014-03-10,5,Louisville* RT,9,4,AAC
+19,2014-03-10,6,Duke*,4,2,ACC
+19,2014-03-10,7,San Diego State* R,10,3,MWC
+19,2014-03-10,8,Virginia* RT,5,3,ACC
+19,2014-03-10,9,Michigan* R,12,3,Big Ten
+19,2014-03-10,10,Kansas* R,8,2,Big 12
+19,2014-03-10,11,Syracuse*,7,4,ACC
+19,2014-03-10,12,Cincinnati* R,15,3,AAC
+19,2014-03-10,13,Wisconsin* F,11,2,Big Ten
+19,2014-03-10,14,Creighton*,13,1,Big East
+19,2014-03-10,15,North Carolina*,14,1,ACC
+19,2014-03-10,16,Iowa State* T,17,1,Big 12
+19,2014-03-10,17,Saint Louis* R,16,1,A-10
+19,2014-03-10,18,Oklahoma*,23,5,Big 12
+19,2014-03-10,19,Memphis*,20,1,AAC
+19,2014-03-10,20,New Mexico* T,21,1,MWC
+19,2014-03-10,21,Connecticut* FN,19,2,AAC
+19,2014-03-10,22,Michigan State* T,22,NC,Big Ten
+19,2014-03-10,23,Southern Methodist,18,5,AAC
+19,2014-03-10,24,Ohio State*,,,Big Ten
+19,2014-03-10,25,Virginia Commonwealth*,,,A-10
+Wk,Date,Rk,School,Prev,Chng,Conf
+18,2014-03-03,1,Florida* RTF,1,NC,SEC
+18,2014-03-03,2,Wichita State* RT,2,NC,MVC
+18,2014-03-03,3,Arizona* R,3,NC,Pac-12
+18,2014-03-03,4,Duke*,7,3,ACC
+18,2014-03-03,5,Virginia* RT,11,6,ACC
+18,2014-03-03,6,Villanova* R,9,3,Big East
+18,2014-03-03,7,Syracuse*,5,2,ACC
+18,2014-03-03,8,Kansas* R,6,2,Big 12
+18,2014-03-03,9,Louisville* RT,4,5,AAC
+18,2014-03-03,10,San Diego State* R,13,3,MWC
+18,2014-03-03,11,Wisconsin* F,14,3,Big Ten
+18,2014-03-03,12,Michigan* R,16,4,Big Ten
+18,2014-03-03,13,Creighton*,10,3,Big East
+18,2014-03-03,14,North Carolina*,21,7,ACC
+18,2014-03-03,15,Cincinnati* R,12,3,AAC
+18,2014-03-03,16,Saint Louis* R,8,8,A-10
+18,2014-03-03,17,Iowa State* T,17,NC,Big 12
+18,2014-03-03,18,Southern Methodist,24,6,AAC
+18,2014-03-03,19,Connecticut* FN,,,AAC
+18,2014-03-03,20,Memphis*,22,2,AAC
+18,2014-03-03,21,New Mexico* T,,,MWC
+18,2014-03-03,22,Michigan State* T,18,4,Big Ten
+18,2014-03-03,23,Oklahoma*,25,2,Big 12
+18,2014-03-03,24,Kentucky* F,15,9,SEC
+18,2014-03-03,25,Iowa*,19,6,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+17,2014-02-24,1,Florida* RTF,2,1,SEC
+17,2014-02-24,2,Wichita State* RT,3,1,MVC
+17,2014-02-24,3,Arizona* R,4,1,Pac-12
+17,2014-02-24,4,Louisville* RT,5,1,AAC
+17,2014-02-24,5,Syracuse*,1,4,ACC
+17,2014-02-24,6,Kansas* R,8,2,Big 12
+17,2014-02-24,7,Duke*,6,1,ACC
+17,2014-02-24,8,Saint Louis* R,10,2,A-10
+17,2014-02-24,9,Villanova* R,11,2,Big East
+17,2014-02-24,10,Creighton*,12,2,Big East
+17,2014-02-24,11,Virginia* RT,13,2,ACC
+17,2014-02-24,12,Cincinnati* R,9,3,AAC
+17,2014-02-24,13,San Diego State* R,7,6,MWC
+17,2014-02-24,14,Wisconsin* F,18,4,Big Ten
+17,2014-02-24,15,Kentucky* F,16,1,SEC
+17,2014-02-24,16,Michigan* R,20,4,Big Ten
+17,2014-02-24,17,Iowa State* T,19,2,Big 12
+17,2014-02-24,18,Michigan State* T,14,4,Big Ten
+17,2014-02-24,19,Iowa*,15,4,Big Ten
+17,2014-02-24,20,Ohio State*,23,3,Big Ten
+17,2014-02-24,21,North Carolina*,,,ACC
+17,2014-02-24,22,Memphis*,24,2,AAC
+17,2014-02-24,23,Texas*,17,6,Big 12
+17,2014-02-24,24,Southern Methodist,,,AAC
+17,2014-02-24,25,Oklahoma*,,,Big 12
+Wk,Date,Rk,School,Prev,Chng,Conf
+16,2014-02-17,1,Syracuse*,1,NC,ACC
+16,2014-02-17,2,Florida* RTF,4,2,SEC
+16,2014-02-17,3,Wichita State* RT,2,1,MVC
+16,2014-02-17,4,Arizona* R,3,1,Pac-12
+16,2014-02-17,5,Louisville* RT,8,3,AAC
+16,2014-02-17,6,Duke*,9,3,ACC
+16,2014-02-17,7,San Diego State* R,5,2,MWC
+16,2014-02-17,8,Kansas* R,7,1,Big 12
+16,2014-02-17,9,Cincinnati* R,11,2,AAC
+16,2014-02-17,10,Saint Louis* R,12,2,A-10
+16,2014-02-17,11,Villanova* R,6,5,Big East
+16,2014-02-17,12,Creighton*,17,5,Big East
+16,2014-02-17,13,Virginia* RT,16,3,ACC
+16,2014-02-17,14,Michigan State* T,10,4,Big Ten
+16,2014-02-17,15,Iowa*,15,NC,Big Ten
+16,2014-02-17,16,Kentucky* F,13,3,SEC
+16,2014-02-17,17,Texas*,19,2,Big 12
+16,2014-02-17,18,Wisconsin* F,21,3,Big Ten
+16,2014-02-17,19,Iowa State* T,14,5,Big 12
+16,2014-02-17,20,Michigan* R,18,2,Big Ten
+16,2014-02-17,21,Connecticut* FN,,,AAC
+16,2014-02-17,22,Gonzaga* RT,24,2,WCC
+16,2014-02-17,23,Ohio State*,20,3,Big Ten
+16,2014-02-17,24,Memphis*,22,2,AAC
+16,2014-02-17,25,UCLA* T,,,Pac-12
+Wk,Date,Rk,School,Prev,Chng,Conf
+15,2014-02-10,1,Syracuse*,1,NC,ACC
+15,2014-02-10,2,Wichita State* RT,2,NC,MVC
+15,2014-02-10,3,Arizona* R,3,NC,Pac-12
+15,2014-02-10,4,Florida* RTF,4,NC,SEC
+15,2014-02-10,5,San Diego State* R,5,NC,MWC
+15,2014-02-10,6,Villanova* R,6,NC,Big East
+15,2014-02-10,7,Kansas* R,9,2,Big 12
+15,2014-02-10,8,Louisville* RT,10,2,AAC
+15,2014-02-10,9,Duke*,11,2,ACC
+15,2014-02-10,10,Michigan State* T,8,2,Big Ten
+15,2014-02-10,11,Cincinnati* R,7,4,AAC
+15,2014-02-10,12,Saint Louis* R,15,3,A-10
+15,2014-02-10,13,Kentucky* F,14,1,SEC
+15,2014-02-10,14,Iowa State* T,17,3,Big 12
+15,2014-02-10,15,Iowa*,13,2,Big Ten
+15,2014-02-10,16,Virginia* RT,21,5,ACC
+15,2014-02-10,17,Creighton*,12,5,Big East
+15,2014-02-10,18,Michigan* R,16,2,Big Ten
+15,2014-02-10,19,Texas*,18,1,Big 12
+15,2014-02-10,20,Ohio State*,25,5,Big Ten
+15,2014-02-10,21,Wisconsin* F,24,3,Big Ten
+15,2014-02-10,22,Memphis*,,,AAC
+15,2014-02-10,23,Pittsburgh*,22,1,ACC
+15,2014-02-10,24,Gonzaga* RT,20,4,WCC
+15,2014-02-10,25,Oklahoma*,23,2,Big 12
+Wk,Date,Rk,School,Prev,Chng,Conf
+14,2014-02-03,1,Syracuse*,2,1,ACC
+14,2014-02-03,2,Wichita State* RT,3,1,MVC
+14,2014-02-03,3,Arizona* R,1,2,Pac-12
+14,2014-02-03,4,Florida* RTF,4,NC,SEC
+14,2014-02-03,5,San Diego State* R,5,NC,MWC
+14,2014-02-03,6,Villanova* R,9,3,Big East
+14,2014-02-03,7,Cincinnati* R,15,8,AAC
+14,2014-02-03,8,Michigan State* T,6,2,Big Ten
+14,2014-02-03,9,Kansas* R,7,2,Big 12
+14,2014-02-03,10,Louisville* RT,7,3,AAC
+14,2014-02-03,11,Duke*,16,5,ACC
+14,2014-02-03,12,Creighton*,20,8,Big East
+14,2014-02-03,13,Iowa*,12,1,Big Ten
+14,2014-02-03,14,Kentucky* F,11,3,SEC
+14,2014-02-03,15,Saint Louis* R,21,6,A-10
+14,2014-02-03,16,Michigan* R,14,2,Big Ten
+14,2014-02-03,17,Iowa State* T,18,1,Big 12
+14,2014-02-03,18,Texas*,,,Big 12
+14,2014-02-03,19,Oklahoma State*,10,9,Big 12
+14,2014-02-03,20,Gonzaga* RT,24,4,WCC
+14,2014-02-03,21,Virginia* RT,,,ACC
+14,2014-02-03,22,Pittsburgh*,17,5,ACC
+14,2014-02-03,23,Oklahoma*,25,2,Big 12
+14,2014-02-03,24,Wisconsin* F,13,11,Big Ten
+14,2014-02-03,25,Ohio State*,23,2,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+13,2014-01-27,1,Arizona* R,1,NC,Pac-12
+13,2014-01-27,2,Syracuse*,2,NC,ACC
+13,2014-01-27,3,Wichita State* RT,4,1,MVC
+13,2014-01-27,4,Florida* RTF,6,2,SEC
+13,2014-01-27,5,San Diego State* R,7,2,MWC
+13,2014-01-27,6,Michigan State* T,3,3,Big Ten
+13,2014-01-27,7,Kansas* R,11,4,Big 12
+13,2014-01-27,7,Louisville* RT,9,2,AAC
+13,2014-01-27,9,Villanova* R,5,4,Big East
+13,2014-01-27,10,Oklahoma State*,13,3,Big 12
+13,2014-01-27,11,Kentucky* F,14,3,SEC
+13,2014-01-27,12,Iowa*,10,2,Big Ten
+13,2014-01-27,13,Wisconsin* F,8,5,Big Ten
+13,2014-01-27,14,Michigan* R,25,11,Big Ten
+13,2014-01-27,15,Cincinnati* R,16,1,AAC
+13,2014-01-27,16,Duke*,18,2,ACC
+13,2014-01-27,17,Pittsburgh*,19,2,ACC
+13,2014-01-27,18,Iowa State* T,17,1,Big 12
+13,2014-01-27,19,Massachusetts*,12,7,A-10
+13,2014-01-27,20,Creighton*,24,4,Big East
+13,2014-01-27,21,Saint Louis* R,20,1,A-10
+13,2014-01-27,22,Memphis*,22,NC,AAC
+13,2014-01-27,23,Ohio State*,15,8,Big Ten
+13,2014-01-27,24,Gonzaga* RT,21,3,WCC
+13,2014-01-27,25,Oklahoma*,25,NC,Big 12
+Wk,Date,Rk,School,Prev,Chng,Conf
+12,2014-01-20,1,Arizona* R,1,NC,Pac-12
+12,2014-01-20,2,Syracuse*,2,NC,ACC
+12,2014-01-20,3,Michigan State* T,4,1,Big Ten
+12,2014-01-20,4,Wichita State* RT,5,1,MVC
+12,2014-01-20,5,Villanova* R,6,1,Big East
+12,2014-01-20,6,Florida* RTF,7,1,SEC
+12,2014-01-20,7,San Diego State* R,11,4,MWC
+12,2014-01-20,8,Wisconsin* F,3,5,Big Ten
+12,2014-01-20,9,Louisville* RT,14,5,AAC
+12,2014-01-20,10,Iowa*,16,6,Big Ten
+12,2014-01-20,11,Kansas* R,18,7,Big 12
+12,2014-01-20,12,Massachusetts*,15,3,A-10
+12,2014-01-20,13,Oklahoma State*,8,5,Big 12
+12,2014-01-20,14,Kentucky* F,12,2,SEC
+12,2014-01-20,15,Ohio State*,9,6,Big Ten
+12,2014-01-20,16,Cincinnati* R,23,7,AAC
+12,2014-01-20,17,Iowa State* T,10,7,Big 12
+12,2014-01-20,18,Duke*,20,2,ACC
+12,2014-01-20,19,Pittsburgh*,21,2,ACC
+12,2014-01-20,20,Saint Louis* R,,,A-10
+12,2014-01-20,21,Gonzaga* RT,23,2,WCC
+12,2014-01-20,22,Memphis*,17,5,AAC
+12,2014-01-20,23,Baylor*,13,10,Big 12
+12,2014-01-20,24,Creighton*,19,5,Big East
+12,2014-01-20,25,Michigan* R,,,Big Ten
+12,2014-01-20,25,Oklahoma*,,,Big 12
+Wk,Date,Rk,School,Prev,Chng,Conf
+11,2014-01-13,1,Arizona* R,1,NC,Pac-12
+11,2014-01-13,2,Syracuse*,2,NC,ACC
+11,2014-01-13,3,Wisconsin* F,4,1,Big Ten
+11,2014-01-13,4,Michigan State* T,4,NC,Big Ten
+11,2014-01-13,5,Wichita State* RT,6,1,MVC
+11,2014-01-13,6,Villanova* R,10,4,Big East
+11,2014-01-13,7,Florida* RTF,11,4,SEC
+11,2014-01-13,8,Oklahoma State*,12,4,Big 12
+11,2014-01-13,9,Ohio State*,3,6,Big Ten
+11,2014-01-13,10,Iowa State* T,7,3,Big 12
+11,2014-01-13,11,San Diego State* R,15,4,MWC
+11,2014-01-13,12,Kentucky* F,16,4,SEC
+11,2014-01-13,13,Baylor*,9,4,Big 12
+11,2014-01-13,14,Louisville* RT,8,6,AAC
+11,2014-01-13,15,Massachusetts*,19,4,A-10
+11,2014-01-13,16,Iowa*,23,7,Big Ten
+11,2014-01-13,17,Memphis*,22,5,AAC
+11,2014-01-13,18,Kansas* R,20,2,Big 12
+11,2014-01-13,19,Creighton*,23,4,Big East
+11,2014-01-13,20,Duke*,13,7,ACC
+11,2014-01-13,21,Pittsburgh*,,,ACC
+11,2014-01-13,22,Colorado*,17,5,Pac-12
+11,2014-01-13,23,Gonzaga* RT,18,5,WCC
+11,2014-01-13,23,Cincinnati* R,,,AAC
+11,2014-01-13,25,UCLA* T,25,NC,Pac-12
+Wk,Date,Rk,School,Prev,Chng,Conf
+10,2014-01-06,1,Arizona* R,1,NC,Pac-12
+10,2014-01-06,2,Syracuse*,2,NC,ACC
+10,2014-01-06,3,Ohio State*,3,NC,Big Ten
+10,2014-01-06,4,Wisconsin* F,5,1,Big Ten
+10,2014-01-06,4,Michigan State* T,4,NC,Big Ten
+10,2014-01-06,6,Wichita State* RT,7,1,MVC
+10,2014-01-06,7,Iowa State* T,12,5,Big 12
+10,2014-01-06,8,Louisville* RT,10,2,AAC
+10,2014-01-06,9,Baylor*,11,2,Big 12
+10,2014-01-06,10,Villanova* R,14,4,Big East
+10,2014-01-06,11,Florida* RTF,13,2,SEC
+10,2014-01-06,12,Oklahoma State*,6,6,Big 12
+10,2014-01-06,13,Duke*,8,5,ACC
+10,2014-01-06,13,Oregon*,9,4,Pac-12
+10,2014-01-06,15,San Diego State* R,19,4,MWC
+10,2014-01-06,16,Kentucky* F,16,NC,SEC
+10,2014-01-06,17,Colorado*,24,7,Pac-12
+10,2014-01-06,18,Gonzaga* RT,21,3,WCC
+10,2014-01-06,19,Massachusetts*,22,3,A-10
+10,2014-01-06,20,Kansas* R,17,3,Big 12
+10,2014-01-06,21,Missouri,25,4,SEC
+10,2014-01-06,22,Memphis*,18,4,AAC
+10,2014-01-06,23,Iowa*,23,NC,Big Ten
+10,2014-01-06,23,Creighton*,,,Big East
+10,2014-01-06,25,UCLA* T,,,Pac-12
+Wk,Date,Rk,School,Prev,Chng,Conf
+9,2013-12-30,1,Arizona* R,1,NC,Pac-12
+9,2013-12-30,2,Syracuse*,2,NC,ACC
+9,2013-12-30,3,Ohio State*,3,NC,Big Ten
+9,2013-12-30,4,Michigan State* T,5,1,Big Ten
+9,2013-12-30,5,Wisconsin* F,6,1,Big Ten
+9,2013-12-30,6,Oklahoma State*,7,1,Big 12
+9,2013-12-30,7,Wichita State* RT,8,1,MVC
+9,2013-12-30,8,Duke*,9,1,ACC
+9,2013-12-30,9,Oregon*,10,1,Pac-12
+9,2013-12-30,10,Louisville* RT,4,6,AAC
+9,2013-12-30,11,Baylor*,12,1,Big 12
+9,2013-12-30,12,Iowa State* T,13,1,Big 12
+9,2013-12-30,13,Florida* RTF,14,1,SEC
+9,2013-12-30,14,Villanova* R,11,3,Big East
+9,2013-12-30,15,Connecticut* FN,15,NC,AAC
+9,2013-12-30,16,Kentucky* F,18,2,SEC
+9,2013-12-30,17,Kansas* R,16,1,Big 12
+9,2013-12-30,18,Memphis*,17,1,AAC
+9,2013-12-30,19,San Diego State* R,20,1,MWC
+9,2013-12-30,19,North Carolina*,19,NC,ACC
+9,2013-12-30,21,Gonzaga* RT,21,NC,WCC
+9,2013-12-30,22,Massachusetts*,22,NC,A-10
+9,2013-12-30,23,Iowa*,23,NC,Big Ten
+9,2013-12-30,24,Colorado*,24,NC,Pac-12
+9,2013-12-30,25,Missouri,25,NC,SEC
+Wk,Date,Rk,School,Prev,Chng,Conf
+8,2013-12-23,1,Arizona* R,1,NC,Pac-12
+8,2013-12-23,2,Syracuse*,2,NC,ACC
+8,2013-12-23,3,Ohio State*,2,1,Big Ten
+8,2013-12-23,4,Louisville* RT,4,NC,AAC
+8,2013-12-23,5,Michigan State* T,5,NC,Big Ten
+8,2013-12-23,6,Wisconsin* F,6,NC,Big Ten
+8,2013-12-23,7,Oklahoma State*,7,NC,Big 12
+8,2013-12-23,8,Wichita State* RT,9,1,MVC
+8,2013-12-23,9,Duke*,8,1,ACC
+8,2013-12-23,10,Oregon*,11,1,Pac-12
+8,2013-12-23,11,Villanova* R,12,1,Big East
+8,2013-12-23,12,Baylor*,15,3,Big 12
+8,2013-12-23,13,Iowa State* T,13,NC,Big 12
+8,2013-12-23,14,Florida* RTF,17,3,SEC
+8,2013-12-23,15,Connecticut* FN,10,5,AAC
+8,2013-12-23,16,Kansas* R,19,3,Big 12
+8,2013-12-23,17,Memphis*,14,3,AAC
+8,2013-12-23,18,Kentucky* F,21,3,SEC
+8,2013-12-23,19,North Carolina*,18,1,ACC
+8,2013-12-23,20,San Diego State* R,23,3,MWC
+8,2013-12-23,21,Gonzaga* RT,15,6,WCC
+8,2013-12-23,22,Massachusetts*,20,2,A-10
+8,2013-12-23,23,Iowa*,,,Big Ten
+8,2013-12-23,24,Colorado*,24,NC,Pac-12
+8,2013-12-23,25,Missouri,25,NC,SEC
+Wk,Date,Rk,School,Prev,Chng,Conf
+7,2013-12-16,1,Arizona* R,1,NC,Pac-12
+7,2013-12-16,2,Ohio State*,2,NC,Big Ten
+7,2013-12-16,2,Syracuse*,3,1,ACC
+7,2013-12-16,4,Louisville* RT,4,NC,AAC
+7,2013-12-16,5,Michigan State* T,5,NC,Big Ten
+7,2013-12-16,6,Wisconsin* F,6,NC,Big Ten
+7,2013-12-16,7,Oklahoma State*,9,2,Big 12
+7,2013-12-16,8,Duke*,7,1,ACC
+7,2013-12-16,9,Wichita State* RT,8,1,MVC
+7,2013-12-16,10,Connecticut* FN,12,2,AAC
+7,2013-12-16,11,Oregon*,11,NC,Pac-12
+7,2013-12-16,12,Villanova* R,14,2,Big East
+7,2013-12-16,13,Iowa State* T,16,3,Big 12
+7,2013-12-16,14,Memphis*,15,1,AAC
+7,2013-12-16,15,Gonzaga* RT,16,1,WCC
+7,2013-12-16,15,Baylor*,18,3,Big 12
+7,2013-12-16,17,Florida* RTF,19,2,SEC
+7,2013-12-16,18,North Carolina*,21,3,ACC
+7,2013-12-16,19,Kansas* R,13,6,Big 12
+7,2013-12-16,20,Massachusetts*,20,NC,A-10
+7,2013-12-16,21,Kentucky* F,10,11,SEC
+7,2013-12-16,22,UCLA* T,23,1,Pac-12
+7,2013-12-16,23,San Diego State* R,24,1,MWC
+7,2013-12-16,24,Colorado*,,,Pac-12
+7,2013-12-16,25,Missouri,,,SEC
+Wk,Date,Rk,School,Prev,Chng,Conf
+6,2013-12-09,1,Arizona* R,2,1,Pac-12
+6,2013-12-09,2,Ohio State*,3,1,Big Ten
+6,2013-12-09,3,Syracuse*,5,2,ACC
+6,2013-12-09,4,Louisville* RT,6,2,AAC
+6,2013-12-09,5,Michigan State* T,1,4,Big Ten
+6,2013-12-09,6,Wisconsin* F,9,3,Big Ten
+6,2013-12-09,7,Duke*,8,1,ACC
+6,2013-12-09,8,Wichita State* RT,10,2,MVC
+6,2013-12-09,9,Oklahoma State*,11,2,Big 12
+6,2013-12-09,10,Kentucky* F,4,6,SEC
+6,2013-12-09,11,Oregon*,13,2,Pac-12
+6,2013-12-09,12,Connecticut* FN,14,2,AAC
+6,2013-12-09,13,Kansas* R,7,6,Big 12
+6,2013-12-09,14,Villanova* R,19,5,Big East
+6,2013-12-09,15,Memphis*,15,NC,AAC
+6,2013-12-09,16,Gonzaga* RT,15,1,WCC
+6,2013-12-09,16,Iowa State* T,18,2,Big 12
+6,2013-12-09,18,Baylor*,20,2,Big 12
+6,2013-12-09,19,Florida* RTF,12,7,SEC
+6,2013-12-09,20,Massachusetts*,22,2,A-10
+6,2013-12-09,21,North Carolina*,25,4,ACC
+6,2013-12-09,22,Iowa*,24,2,Big Ten
+6,2013-12-09,23,UCLA* T,17,6,Pac-12
+6,2013-12-09,24,San Diego State* R,,,MWC
+6,2013-12-09,25,Michigan* R,21,4,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+5,2013-12-02,1,Michigan State* T,1,NC,Big Ten
+5,2013-12-02,2,Arizona* R,3,1,Pac-12
+5,2013-12-02,3,Ohio State*,6,3,Big Ten
+5,2013-12-02,4,Kentucky* F,4,NC,SEC
+5,2013-12-02,5,Syracuse*,7,2,ACC
+5,2013-12-02,6,Louisville* RT,9,3,AAC
+5,2013-12-02,7,Kansas* R,2,5,Big 12
+5,2013-12-02,8,Duke*,5,3,ACC
+5,2013-12-02,9,Wisconsin* F,11,2,Big Ten
+5,2013-12-02,10,Wichita State* RT,12,2,MVC
+5,2013-12-02,11,Oklahoma State*,8,3,Big 12
+5,2013-12-02,12,Florida* RTF,13,1,SEC
+5,2013-12-02,13,Oregon*,15,2,Pac-12
+5,2013-12-02,14,Connecticut* FN,14,NC,AAC
+5,2013-12-02,15,Memphis*,19,4,AAC
+5,2013-12-02,15,Gonzaga* RT,10,5,WCC
+5,2013-12-02,17,UCLA* T,21,4,Pac-12
+5,2013-12-02,18,Iowa State* T,22,4,Big 12
+5,2013-12-02,19,Villanova* R,,,Big East
+5,2013-12-02,20,Baylor*,17,3,Big 12
+5,2013-12-02,21,Michigan* R,20,1,Big Ten
+5,2013-12-02,22,Massachusetts*,,,A-10
+5,2013-12-02,23,Indiana,25,2,Big Ten
+5,2013-12-02,24,Iowa*,23,1,Big Ten
+5,2013-12-02,25,North Carolina*,16,9,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+4,2013-11-25,1,Michigan State* T,1,NC,Big Ten
+4,2013-11-25,2,Kansas* R,3,1,Big 12
+4,2013-11-25,3,Arizona* R,4,1,Pac-12
+4,2013-11-25,4,Kentucky* F,5,1,SEC
+4,2013-11-25,5,Duke*,6,1,ACC
+4,2013-11-25,6,Ohio State*,8,2,Big Ten
+4,2013-11-25,7,Syracuse*,7,NC,ACC
+4,2013-11-25,8,Oklahoma State*,9,1,Big 12
+4,2013-11-25,9,Louisville* RT,2,7,AAC
+4,2013-11-25,10,Gonzaga* RT,12,2,WCC
+4,2013-11-25,11,Wisconsin* F,15,4,Big Ten
+4,2013-11-25,12,Wichita State* RT,16,4,MVC
+4,2013-11-25,13,Florida* RTF,14,1,SEC
+4,2013-11-25,14,Connecticut* FN,18,4,AAC
+4,2013-11-25,15,Oregon*,17,2,Pac-12
+4,2013-11-25,16,North Carolina*,19,3,ACC
+4,2013-11-25,17,Baylor*,21,4,Big 12
+4,2013-11-25,18,Creighton*,23,5,Big East
+4,2013-11-25,19,Memphis*,11,8,AAC
+4,2013-11-25,20,Michigan* R,13,7,Big Ten
+4,2013-11-25,21,UCLA* T,24,3,Pac-12
+4,2013-11-25,22,Iowa State* T,,,Big 12
+4,2013-11-25,23,Iowa*,25,2,Big Ten
+4,2013-11-25,24,Virginia Commonwealth*,10,14,A-10
+4,2013-11-25,25,Indiana,22,3,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+3,2013-11-18,1,Michigan State* T,2,1,Big Ten
+3,2013-11-18,2,Louisville* RT,3,1,AAC
+3,2013-11-18,3,Kansas* R,6,3,Big 12
+3,2013-11-18,4,Arizona* R,5,1,Pac-12
+3,2013-11-18,5,Kentucky* F,1,4,SEC
+3,2013-11-18,6,Duke*,4,2,ACC
+3,2013-11-18,7,Syracuse*,7,NC,ACC
+3,2013-11-18,8,Ohio State*,9,1,Big Ten
+3,2013-11-18,9,Oklahoma State*,12,3,Big 12
+3,2013-11-18,10,Virginia Commonwealth*,14,4,A-10
+3,2013-11-18,11,Memphis*,13,2,AAC
+3,2013-11-18,12,Gonzaga* RT,15,3,WCC
+3,2013-11-18,13,Michigan* R,8,5,Big Ten
+3,2013-11-18,14,Florida* RTF,10,4,SEC
+3,2013-11-18,15,Wisconsin* F,19,4,Big Ten
+3,2013-11-18,16,Wichita State* RT,16,NC,MVC
+3,2013-11-18,17,Oregon*,18,1,Pac-12
+3,2013-11-18,18,Connecticut* FN,20,2,AAC
+3,2013-11-18,19,North Carolina*,11,8,ACC
+3,2013-11-18,20,New Mexico* T,21,1,MWC
+3,2013-11-18,21,Baylor*,25,4,Big 12
+3,2013-11-18,22,Indiana,23,1,Big Ten
+3,2013-11-18,23,Creighton*,,,Big East
+3,2013-11-18,24,UCLA* T,24,NC,Pac-12
+3,2013-11-18,25,Iowa*,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+2,2013-11-11,1,Kentucky* F,1,NC,SEC
+2,2013-11-11,2,Michigan State* T,2,NC,Big Ten
+2,2013-11-11,3,Louisville* RT,3,NC,AAC
+2,2013-11-11,4,Duke*,4,NC,ACC
+2,2013-11-11,5,Arizona* R,5,NC,Pac-12
+2,2013-11-11,6,Kansas* R,6,NC,Big 12
+2,2013-11-11,7,Syracuse*,7,NC,ACC
+2,2013-11-11,8,Michigan* R,9,1,Big Ten
+2,2013-11-11,9,Ohio State*,10,1,Big Ten
+2,2013-11-11,10,Florida* RTF,8,2,SEC
+2,2013-11-11,11,North Carolina*,11,NC,ACC
+2,2013-11-11,12,Oklahoma State*,12,NC,Big 12
+2,2013-11-11,13,Memphis*,13,NC,AAC
+2,2013-11-11,14,Virginia Commonwealth*,15,1,A-10
+2,2013-11-11,15,Gonzaga* RT,14,1,WCC
+2,2013-11-11,16,Wichita State* RT,16,NC,MVC
+2,2013-11-11,17,Marquette,17,NC,Big East
+2,2013-11-11,18,Oregon*,18,NC,Pac-12
+2,2013-11-11,19,Wisconsin* F,21,2,Big Ten
+2,2013-11-11,20,Connecticut* FN,19,1,AAC
+2,2013-11-11,21,New Mexico* T,20,1,MWC
+2,2013-11-11,22,Notre Dame,22,NC,ACC
+2,2013-11-11,23,Indiana,24,1,Big Ten
+2,2013-11-11,24,UCLA* T,23,1,Pac-12
+2,2013-11-11,25,Virginia* RT,25,NC,ACC
+2,2013-11-11,25,Baylor*,,,Big 12
+Wk,Date,Rk,School,Prev,Chng,Conf
+1,Preseason,1,Kentucky* F,NA,—,SEC
+1,Preseason,2,Michigan State* T,NA,—,Big Ten
+1,Preseason,3,Louisville* RT,NA,—,AAC
+1,Preseason,4,Duke*,NA,—,ACC
+1,Preseason,5,Arizona* R,NA,—,Pac-12
+1,Preseason,6,Kansas* R,NA,—,Big 12
+1,Preseason,7,Syracuse*,NA,—,ACC
+1,Preseason,8,Florida* RTF,NA,—,SEC
+1,Preseason,9,Michigan* R,NA,—,Big Ten
+1,Preseason,10,Ohio State*,NA,—,Big Ten
+1,Preseason,11,North Carolina*,NA,—,ACC
+1,Preseason,12,Oklahoma State*,NA,—,Big 12
+1,Preseason,13,Memphis*,NA,—,AAC
+1,Preseason,14,Gonzaga* RT,NA,—,WCC
+1,Preseason,15,Virginia Commonwealth*,NA,—,A-10
+1,Preseason,16,Wichita State* RT,NA,—,MVC
+1,Preseason,17,Marquette,NA,—,Big East
+1,Preseason,18,Oregon*,NA,—,Pac-12
+1,Preseason,19,Connecticut* FN,NA,—,AAC
+1,Preseason,20,New Mexico* T,NA,—,MWC
+1,Preseason,21,Wisconsin* F,NA,—,Big Ten
+1,Preseason,22,Notre Dame,NA,—,ACC
+1,Preseason,23,UCLA* T,NA,—,Pac-12
+1,Preseason,24,Indiana,NA,—,Big Ten
+1,Preseason,25,Virginia* RT,NA,—,ACC

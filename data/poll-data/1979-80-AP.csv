@@ -1,0 +1,315 @@
+Wk,Date,Rk,School,Prev,Chng,Conf
+15,Final,1,DePaul* R,1,NC,Ind
+15,Final,2,Louisville* RTFN,4,2,Metro
+15,Final,3,Louisiana State* T,5,2,SEC
+15,Final,4,Kentucky* R,2,2,SEC
+15,Final,5,Oregon State* R,6,1,Pac-10
+15,Final,6,Syracuse* R,3,3,Big East
+15,Final,7,Indiana* R,13,6,Big Ten
+15,Final,8,Maryland* R,7,1,ACC
+15,Final,9,Notre Dame*,14,5,Ind
+15,Final,10,Ohio State*,9,1,Big Ten
+15,Final,11,Georgetown* RT,20,9,Big East
+15,Final,12,Brigham Young* R,12,NC,WAC
+15,Final,13,St. John's (NY)* R,8,5,Big East
+15,Final,14,Duke* T,,,ACC
+15,Final,15,North Carolina*,10,5,ACC
+15,Final,16,Missouri* R,11,5,Big 8
+15,Final,17,Weber State* RT,16,1,Big Sky
+15,Final,18,Arizona State*,15,3,Pac-10
+15,Final,19,Iona*,,,ECACM
+15,Final,20,Purdue* F,18,2,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+14,1980-02-26,1,DePaul* R,1,NC,Ind
+14,1980-02-26,2,Kentucky* R,3,1,SEC
+14,1980-02-26,3,Syracuse* R,4,1,Big East
+14,1980-02-26,4,Louisville* RTFN,2,2,Metro
+14,1980-02-26,5,Louisiana State* T,5,NC,SEC
+14,1980-02-26,6,Oregon State* R,6,NC,Pac-10
+14,1980-02-26,7,Maryland* R,9,2,ACC
+14,1980-02-26,8,St. John's (NY)* R,7,1,Big East
+14,1980-02-26,9,Ohio State*,11,2,Big Ten
+14,1980-02-26,10,North Carolina*,8,2,ACC
+14,1980-02-26,11,Missouri* R,13,2,Big 8
+14,1980-02-26,12,Brigham Young* R,14,2,WAC
+14,1980-02-26,13,Indiana* R,19,6,Big Ten
+14,1980-02-26,14,Notre Dame*,10,4,Ind
+14,1980-02-26,15,Arizona State*,18,3,Pac-10
+14,1980-02-26,16,Weber State* RT,16,NC,Big Sky
+14,1980-02-26,17,Clemson*,12,5,ACC
+14,1980-02-26,18,Purdue* F,15,3,Big Ten
+14,1980-02-26,19,North Carolina State*,,,ACC
+14,1980-02-26,20,Georgetown* RT,,,Big East
+Wk,Date,Rk,School,Prev,Chng,Conf
+13,1980-02-19,1,DePaul* R,1,NC,Ind
+13,1980-02-19,2,Louisville* RTFN,3,1,Metro
+13,1980-02-19,3,Kentucky* R,5,2,SEC
+13,1980-02-19,4,Syracuse* R,2,2,Big East
+13,1980-02-19,5,Louisiana State* T,6,1,SEC
+13,1980-02-19,6,Oregon State* R,4,2,Pac-10
+13,1980-02-19,7,St. John's (NY)* R,7,NC,Big East
+13,1980-02-19,8,North Carolina*,11,3,ACC
+13,1980-02-19,9,Maryland* R,8,1,ACC
+13,1980-02-19,10,Notre Dame*,12,2,Ind
+13,1980-02-19,11,Ohio State*,9,2,Big Ten
+13,1980-02-19,12,Clemson*,10,2,ACC
+13,1980-02-19,13,Missouri* R,14,1,Big 8
+13,1980-02-19,14,Brigham Young* R,13,1,WAC
+13,1980-02-19,15,Purdue* F,15,NC,Big Ten
+13,1980-02-19,16,Weber State* RT,17,1,Big Sky
+13,1980-02-19,17,Duke* T,16,1,ACC
+13,1980-02-19,18,Arizona State*,18,NC,Pac-10
+13,1980-02-19,19,Indiana* R,,,Big Ten
+13,1980-02-19,20,Washington State*,,,Pac-10
+Wk,Date,Rk,School,Prev,Chng,Conf
+12,1980-02-12,1,DePaul* R,1,NC,Ind
+12,1980-02-12,2,Syracuse* R,2,NC,Big East
+12,1980-02-12,3,Louisville* RTFN,3,NC,Metro
+12,1980-02-12,4,Oregon State* R,4,NC,Pac-10
+12,1980-02-12,5,Kentucky* R,5,NC,SEC
+12,1980-02-12,6,Louisiana State* T,6,NC,SEC
+12,1980-02-12,7,St. John's (NY)* R,8,1,Big East
+12,1980-02-12,8,Maryland* R,7,1,ACC
+12,1980-02-12,9,Ohio State*,13,4,Big Ten
+12,1980-02-12,10,Clemson*,16,6,ACC
+12,1980-02-12,11,North Carolina*,11,NC,ACC
+12,1980-02-12,12,Notre Dame*,9,3,Ind
+12,1980-02-12,13,Brigham Young* R,14,1,WAC
+12,1980-02-12,14,Missouri* R,15,1,Big 8
+12,1980-02-12,15,Purdue* F,12,3,Big Ten
+12,1980-02-12,16,Duke* T,10,6,ACC
+12,1980-02-12,17,Weber State* RT,17,NC,Big Sky
+12,1980-02-12,18,Arizona State*,19,1,Pac-10
+12,1980-02-12,19,Kansas State* T,,,Big 8
+12,1980-02-12,20,Iowa* F,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+11,1980-02-05,1,DePaul* R,1,NC,Ind
+11,1980-02-05,2,Syracuse* R,4,2,Big East
+11,1980-02-05,3,Louisville* RTFN,7,4,Metro
+11,1980-02-05,4,Oregon State* R,2,2,Pac-10
+11,1980-02-05,5,Kentucky* R,3,2,SEC
+11,1980-02-05,6,Louisiana State* T,10,4,SEC
+11,1980-02-05,7,Maryland* R,12,5,ACC
+11,1980-02-05,8,St. John's (NY)* R,9,1,Big East
+11,1980-02-05,9,Notre Dame*,8,1,Ind
+11,1980-02-05,10,Duke* T,5,5,ACC
+11,1980-02-05,11,North Carolina*,11,NC,ACC
+11,1980-02-05,12,Purdue* F,17,5,Big Ten
+11,1980-02-05,13,Ohio State*,6,7,Big Ten
+11,1980-02-05,14,Brigham Young* R,19,5,WAC
+11,1980-02-05,15,Missouri* R,14,1,Big 8
+11,1980-02-05,16,Clemson*,16,NC,ACC
+11,1980-02-05,17,Weber State* RT,15,2,Big Sky
+11,1980-02-05,18,Virginia,13,5,ACC
+11,1980-02-05,19,Arizona State*,,,Pac-10
+11,1980-02-05,20,Indiana* R,18,2,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+10,1980-01-29,1,DePaul* R,1,NC,Ind
+10,1980-01-29,2,Oregon State* R,2,NC,Pac-10
+10,1980-01-29,3,Kentucky* R,5,2,SEC
+10,1980-01-29,4,Syracuse* R,6,2,Big East
+10,1980-01-29,5,Duke* T,3,2,ACC
+10,1980-01-29,6,Ohio State*,4,2,Big Ten
+10,1980-01-29,7,Louisville* RTFN,7,NC,Metro
+10,1980-01-29,8,Notre Dame*,8,NC,Ind
+10,1980-01-29,9,St. John's (NY)* R,9,NC,Big East
+10,1980-01-29,10,Louisiana State* T,11,1,SEC
+10,1980-01-29,11,North Carolina*,13,2,ACC
+10,1980-01-29,12,Maryland* R,15,3,ACC
+10,1980-01-29,13,Virginia,17,4,ACC
+10,1980-01-29,14,Missouri* R,10,4,Big 8
+10,1980-01-29,15,Weber State* RT,18,3,Big Sky
+10,1980-01-29,16,Clemson*,12,4,ACC
+10,1980-01-29,17,Purdue* F,14,3,Big Ten
+10,1980-01-29,18,Indiana* R,16,2,Big Ten
+10,1980-01-29,19,Brigham Young* R,20,1,WAC
+10,1980-01-29,20,Kansas State* T,,,Big 8
+Wk,Date,Rk,School,Prev,Chng,Conf
+9,1980-01-22,1,DePaul* R,1,NC,Ind
+9,1980-01-22,2,Oregon State* R,4,2,Pac-10
+9,1980-01-22,3,Duke* T,5,2,ACC
+9,1980-01-22,4,Ohio State*,2,2,Big Ten
+9,1980-01-22,5,Kentucky* R,6,1,SEC
+9,1980-01-22,6,Syracuse* R,3,3,Big East
+9,1980-01-22,7,Louisville* RTFN,7,NC,Metro
+9,1980-01-22,8,Notre Dame*,8,NC,Ind
+9,1980-01-22,9,St. John's (NY)* R,10,1,Big East
+9,1980-01-22,10,Missouri* R,15,5,Big 8
+9,1980-01-22,11,Louisiana State* T,14,3,SEC
+9,1980-01-22,12,Clemson*,17,5,ACC
+9,1980-01-22,13,North Carolina*,9,4,ACC
+9,1980-01-22,14,Purdue* F,11,3,Big Ten
+9,1980-01-22,15,Maryland* R,,,ACC
+9,1980-01-22,16,Indiana* R,19,3,Big Ten
+9,1980-01-22,17,Virginia,12,5,ACC
+9,1980-01-22,18,Weber State* RT,,,Big Sky
+9,1980-01-22,19,Tennessee*,20,1,SEC
+9,1980-01-22,20,Brigham Young* R,18,2,WAC
+Wk,Date,Rk,School,Prev,Chng,Conf
+8,1980-01-15,1,DePaul* R,2,1,Ind
+8,1980-01-15,2,Ohio State*,3,1,Big Ten
+8,1980-01-15,3,Syracuse* R,5,2,Big East
+8,1980-01-15,4,Oregon State* R,9,5,Pac-10
+8,1980-01-15,5,Duke* T,1,4,ACC
+8,1980-01-15,6,Kentucky* R,4,2,SEC
+8,1980-01-15,7,Louisville* RTFN,11,4,Metro
+8,1980-01-15,8,Notre Dame*,7,1,Ind
+8,1980-01-15,9,North Carolina*,15,6,ACC
+8,1980-01-15,10,St. John's (NY)* R,14,4,Big East
+8,1980-01-15,11,Purdue* F,10,1,Big Ten
+8,1980-01-15,12,Virginia,8,4,ACC
+8,1980-01-15,13,Iowa* F,12,1,Big Ten
+8,1980-01-15,14,Louisiana State* T,6,8,SEC
+8,1980-01-15,15,Missouri* R,13,2,Big 8
+8,1980-01-15,16,North Carolina State*,,,ACC
+8,1980-01-15,17,Clemson*,18,1,ACC
+8,1980-01-15,18,Brigham Young* R,17,1,WAC
+8,1980-01-15,19,Indiana* R,19,NC,Big Ten
+8,1980-01-15,20,Tennessee*,,,SEC
+Wk,Date,Rk,School,Prev,Chng,Conf
+7,1980-01-08,1,Duke* T,1,NC,ACC
+7,1980-01-08,2,DePaul* R,3,1,Ind
+7,1980-01-08,3,Ohio State*,5,2,Big Ten
+7,1980-01-08,4,Kentucky* R,2,2,SEC
+7,1980-01-08,5,Syracuse* R,9,4,Big East
+7,1980-01-08,6,Louisiana State* T,4,2,SEC
+7,1980-01-08,7,Notre Dame*,7,NC,Ind
+7,1980-01-08,8,Virginia,13,5,ACC
+7,1980-01-08,9,Oregon State* R,14,5,Pac-10
+7,1980-01-08,10,Purdue* F,8,2,Big Ten
+7,1980-01-08,11,Louisville* RTFN,15,4,Metro
+7,1980-01-08,12,Iowa* F,10,2,Big Ten
+7,1980-01-08,13,Missouri* R,12,1,Big 8
+7,1980-01-08,14,St. John's (NY)* R,17,3,Big East
+7,1980-01-08,15,North Carolina*,6,9,ACC
+7,1980-01-08,16,UCLA* F,16,NC,Pac-10
+7,1980-01-08,17,Brigham Young* R,19,2,WAC
+7,1980-01-08,18,Clemson*,,,ACC
+7,1980-01-08,19,Indiana* R,11,8,Big Ten
+7,1980-01-08,20,Georgetown* RT,18,2,Big East
+Wk,Date,Rk,School,Prev,Chng,Conf
+6,1980-01-02,1,Duke* T,1,NC,ACC
+6,1980-01-02,2,Kentucky* R,2,NC,SEC
+6,1980-01-02,3,DePaul* R,4,1,Ind
+6,1980-01-02,4,Louisiana State* T,5,1,SEC
+6,1980-01-02,5,Ohio State*,7,2,Big Ten
+6,1980-01-02,6,North Carolina*,6,NC,ACC
+6,1980-01-02,7,Notre Dame*,3,4,Ind
+6,1980-01-02,8,Purdue* F,8,NC,Big Ten
+6,1980-01-02,9,Syracuse* R,9,NC,Big East
+6,1980-01-02,10,Iowa* F,11,1,Big Ten
+6,1980-01-02,11,Indiana* R,10,1,Big Ten
+6,1980-01-02,12,Missouri* R,13,1,Big 8
+6,1980-01-02,13,Virginia,14,1,ACC
+6,1980-01-02,14,Oregon State* R,18,4,Pac-10
+6,1980-01-02,15,Louisville* RTFN,12,3,Metro
+6,1980-01-02,16,UCLA* F,16,NC,Pac-10
+6,1980-01-02,17,St. John's (NY)* R,15,2,Big East
+6,1980-01-02,18,Georgetown* RT,17,1,Big East
+6,1980-01-02,19,Brigham Young* R,20,1,WAC
+6,1980-01-02,20,Illinois,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+5,1979-12-26,1,Duke* T,1,NC,ACC
+5,1979-12-26,2,Kentucky* R,3,1,SEC
+5,1979-12-26,3,Notre Dame*,4,1,Ind
+5,1979-12-26,4,DePaul* R,6,2,Ind
+5,1979-12-26,5,Louisiana State* T,7,2,SEC
+5,1979-12-26,6,North Carolina*,8,2,ACC
+5,1979-12-26,7,Ohio State*,2,5,Big Ten
+5,1979-12-26,8,Purdue* F,9,1,Big Ten
+5,1979-12-26,9,Syracuse* R,10,1,Big East
+5,1979-12-26,10,Indiana* R,5,5,Big Ten
+5,1979-12-26,11,Iowa* F,13,2,Big Ten
+5,1979-12-26,12,Louisville* RTFN,11,1,Metro
+5,1979-12-26,13,Missouri* R,16,3,Big 8
+5,1979-12-26,14,Virginia,12,2,ACC
+5,1979-12-26,15,St. John's (NY)* R,15,NC,Big East
+5,1979-12-26,16,UCLA* F,14,2,Pac-10
+5,1979-12-26,17,Georgetown* RT,17,NC,Big East
+5,1979-12-26,18,Oregon State* R,19,1,Pac-10
+5,1979-12-26,19,Arkansas*,20,1,SWC
+5,1979-12-26,20,Brigham Young* R,18,2,WAC
+Wk,Date,Rk,School,Prev,Chng,Conf
+4,1979-12-18,1,Duke* T,2,1,ACC
+4,1979-12-18,2,Ohio State*,3,1,Big Ten
+4,1979-12-18,3,Kentucky* R,5,2,SEC
+4,1979-12-18,4,Notre Dame*,4,NC,Ind
+4,1979-12-18,5,Indiana* R,1,4,Big Ten
+4,1979-12-18,6,DePaul* R,11,5,Ind
+4,1979-12-18,7,Louisiana State* T,6,1,SEC
+4,1979-12-18,8,North Carolina*,8,NC,ACC
+4,1979-12-18,9,Purdue* F,9,NC,Big Ten
+4,1979-12-18,10,Syracuse* R,10,NC,Big East
+4,1979-12-18,11,Louisville* RTFN,12,1,Metro
+4,1979-12-18,12,Virginia,13,1,ACC
+4,1979-12-18,13,Iowa* F,17,4,Big Ten
+4,1979-12-18,14,UCLA* F,7,7,Pac-10
+4,1979-12-18,15,St. John's (NY)* R,15,NC,Big East
+4,1979-12-18,16,Missouri* R,19,3,Big 8
+4,1979-12-18,17,Georgetown* RT,16,1,Big East
+4,1979-12-18,18,Brigham Young* R,18,NC,WAC
+4,1979-12-18,19,Oregon State* R,14,5,Pac-10
+4,1979-12-18,20,Arkansas*,20,NC,SWC
+Wk,Date,Rk,School,Prev,Chng,Conf
+3,1979-12-11,1,Indiana* R,1,NC,Big Ten
+3,1979-12-11,2,Duke* T,2,NC,ACC
+3,1979-12-11,3,Ohio State*,3,NC,Big Ten
+3,1979-12-11,4,Notre Dame*,4,NC,Ind
+3,1979-12-11,5,Kentucky* R,5,NC,SEC
+3,1979-12-11,6,Louisiana State* T,6,NC,SEC
+3,1979-12-11,7,UCLA* F,7,NC,Pac-10
+3,1979-12-11,8,North Carolina*,8,NC,ACC
+3,1979-12-11,9,Purdue* F,12,3,Big Ten
+3,1979-12-11,10,Syracuse* R,11,1,Big East
+3,1979-12-11,11,DePaul* R,10,1,Ind
+3,1979-12-11,12,Louisville* RTFN,14,2,Metro
+3,1979-12-11,13,Virginia,13,NC,ACC
+3,1979-12-11,14,Oregon State* R,15,1,Pac-10
+3,1979-12-11,15,St. John's (NY)* R,9,6,Big East
+3,1979-12-11,16,Georgetown* RT,17,1,Big East
+3,1979-12-11,17,Iowa* F,20,3,Big Ten
+3,1979-12-11,18,Brigham Young* R,18,NC,WAC
+3,1979-12-11,19,Missouri* R,,,Big 8
+3,1979-12-11,20,Arkansas*,,,SWC
+Wk,Date,Rk,School,Prev,Chng,Conf
+2,1979-12-04,1,Indiana* R,1,NC,Big Ten
+2,1979-12-04,2,Duke* T,3,1,ACC
+2,1979-12-04,3,Ohio State*,4,1,Big Ten
+2,1979-12-04,4,Notre Dame*,5,1,Ind
+2,1979-12-04,5,Kentucky* R,2,3,SEC
+2,1979-12-04,6,Louisiana State* T,7,1,SEC
+2,1979-12-04,7,UCLA* F,8,1,Pac-10
+2,1979-12-04,8,North Carolina*,6,2,ACC
+2,1979-12-04,9,St. John's (NY)* R,16,7,Big East
+2,1979-12-04,10,DePaul* R,9,1,Ind
+2,1979-12-04,11,Syracuse* R,12,1,Big East
+2,1979-12-04,12,Purdue* F,11,1,Big Ten
+2,1979-12-04,13,Virginia,13,NC,ACC
+2,1979-12-04,14,Louisville* RTFN,10,4,Metro
+2,1979-12-04,15,Oregon State* R,17,2,Pac-10
+2,1979-12-04,16,Marquette*,18,2,Ind
+2,1979-12-04,17,Georgetown* RT,19,2,Big East
+2,1979-12-04,18,Brigham Young* R,15,3,WAC
+2,1979-12-04,19,Kansas,20,1,Big 8
+2,1979-12-04,20,Iowa* F,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+1,Preseason,1,Indiana* R,NA,—,Big Ten
+1,Preseason,2,Kentucky* R,NA,—,SEC
+1,Preseason,3,Duke* T,NA,—,ACC
+1,Preseason,4,Ohio State*,NA,—,Big Ten
+1,Preseason,5,Notre Dame*,NA,—,Ind
+1,Preseason,6,North Carolina*,NA,—,ACC
+1,Preseason,7,Louisiana State* T,NA,—,SEC
+1,Preseason,8,UCLA* F,NA,—,Pac-10
+1,Preseason,9,DePaul* R,NA,—,Ind
+1,Preseason,10,Louisville* RTFN,NA,—,Metro
+1,Preseason,11,Purdue* F,NA,—,Big Ten
+1,Preseason,12,Syracuse* R,NA,—,Big East
+1,Preseason,13,Virginia,NA,—,ACC
+1,Preseason,14,Texas A&M* RT,NA,—,SWC
+1,Preseason,15,Brigham Young* R,NA,—,WAC
+1,Preseason,16,St. John's (NY)* R,NA,—,Big East
+1,Preseason,17,Oregon State* R,NA,—,Pac-10
+1,Preseason,18,Marquette*,NA,—,Ind
+1,Preseason,19,Georgetown* RT,NA,—,Big East
+1,Preseason,20,Kansas,NA,—,Big 8

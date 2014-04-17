@@ -1,0 +1,295 @@
+Wk,Date,Rk,School,Prev,Chng,Conf
+14,1975-03-11,1,Indiana* R,1,NC,Big Ten
+14,1975-03-11,2,UCLA* RFN,3,1,Pac-8
+14,1975-03-11,3,Louisville* RF,4,1,MVC
+14,1975-03-11,4,Kentucky* RF,6,2,SEC
+14,1975-03-11,5,Maryland* R,2,3,ACC
+14,1975-03-11,6,Marquette*,7,1,Ind
+14,1975-03-11,7,Arizona State* R,8,1,WAC
+14,1975-03-11,8,Alabama* R,5,3,SEC
+14,1975-03-11,9,North Carolina State,9,NC,ACC
+14,1975-03-11,10,North Carolina* T,13,3,ACC
+14,1975-03-11,11,Pennsylvania* R,12,1,Ivy
+14,1975-03-11,12,Southern California,11,1,Pac-8
+14,1975-03-11,13,Utah State*,15,2,Ind
+14,1975-03-11,14,Nevada-Las Vegas* R,16,2,WCC
+14,1975-03-11,15,Notre Dame*,,,Ind
+14,1975-03-11,16,Creighton*,18,2,Ind
+14,1975-03-11,17,Arizona,20,3,WAC
+14,1975-03-11,18,New Mexico State*,,,MVC
+14,1975-03-11,19,Clemson,14,5,ACC
+14,1975-03-11,20,Texas-El Paso*,16,4,WAC
+Wk,Date,Rk,School,Prev,Chng,Conf
+13,1975-03-04,1,Indiana* R,1,NC,Big Ten
+13,1975-03-04,2,Maryland* R,2,NC,ACC
+13,1975-03-04,3,UCLA* RFN,3,NC,Pac-8
+13,1975-03-04,4,Louisville* RF,4,NC,MVC
+13,1975-03-04,5,Alabama* R,7,2,SEC
+13,1975-03-04,6,Kentucky* RF,5,1,SEC
+13,1975-03-04,7,Marquette*,9,2,Ind
+13,1975-03-04,8,Arizona State* R,7,1,WAC
+13,1975-03-04,9,North Carolina State,6,3,ACC
+13,1975-03-04,10,Oregon State*,10,NC,Pac-8
+13,1975-03-04,11,Southern California,12,1,Pac-8
+13,1975-03-04,12,Pennsylvania* R,14,2,Ivy
+13,1975-03-04,13,North Carolina* T,13,NC,ACC
+13,1975-03-04,14,Clemson,15,1,ACC
+13,1975-03-04,15,Utah State*,16,1,Ind
+13,1975-03-04,16,Nevada-Las Vegas* R,16,NC,WCC
+13,1975-03-04,16,Texas-El Paso*,11,5,WAC
+13,1975-03-04,18,Creighton*,,,Ind
+13,1975-03-04,19,Cincinnati*,,,Ind
+13,1975-03-04,20,Arizona,18,2,WAC
+Wk,Date,Rk,School,Prev,Chng,Conf
+12,1975-02-25,1,Indiana* R,1,NC,Big Ten
+12,1975-02-25,2,Maryland* R,3,1,ACC
+12,1975-02-25,3,UCLA* RFN,2,1,Pac-8
+12,1975-02-25,4,Louisville* RF,6,2,MVC
+12,1975-02-25,5,Kentucky* RF,8,3,SEC
+12,1975-02-25,6,North Carolina State,4,2,ACC
+12,1975-02-25,7,Alabama* R,5,2,SEC
+12,1975-02-25,7,Arizona State* R,7,NC,WAC
+12,1975-02-25,9,Marquette*,9,NC,Ind
+12,1975-02-25,10,Oregon State*,11,1,Pac-8
+12,1975-02-25,11,Texas-El Paso*,14,3,WAC
+12,1975-02-25,12,Southern California,10,2,Pac-8
+12,1975-02-25,13,North Carolina* T,12,1,ACC
+12,1975-02-25,14,Pennsylvania* R,,,Ivy
+12,1975-02-25,15,Clemson,,,ACC
+12,1975-02-25,16,Utah State*,15,1,Ind
+12,1975-02-25,16,Nevada-Las Vegas* R,17,1,WCC
+12,1975-02-25,18,Arizona,13,5,WAC
+12,1975-02-25,18,New Mexico State*,,,MVC
+12,1975-02-25,18,Washington,,,Pac-8
+Wk,Date,Rk,School,Prev,Chng,Conf
+11,1975-02-18,1,Indiana* R,1,NC,Big Ten
+11,1975-02-18,2,UCLA* RFN,2,NC,Pac-8
+11,1975-02-18,3,Maryland* R,3,NC,ACC
+11,1975-02-18,4,North Carolina State,4,NC,ACC
+11,1975-02-18,5,Alabama* R,6,1,SEC
+11,1975-02-18,6,Louisville* RF,7,1,MVC
+11,1975-02-18,7,Arizona State* R,8,1,WAC
+11,1975-02-18,8,Kentucky* RF,5,3,SEC
+11,1975-02-18,9,Marquette*,12,3,Ind
+11,1975-02-18,10,Southern California,9,1,Pac-8
+11,1975-02-18,11,Oregon State*,11,NC,Pac-8
+11,1975-02-18,12,North Carolina* T,10,2,ACC
+11,1975-02-18,13,Arizona,14,1,WAC
+11,1975-02-18,14,Texas-El Paso*,20,6,WAC
+11,1975-02-18,15,Utah State*,19,4,Ind
+11,1975-02-18,16,La Salle* RT,13,3,ECC
+11,1975-02-18,17,Nevada-Las Vegas* R,15,2,WCC
+11,1975-02-18,18,Kansas* R,,,Big 8
+11,1975-02-18,18,Notre Dame*,,,Ind
+11,1975-02-18,20,South Carolina,18,2,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+10,1975-02-11,1,Indiana* R,1,NC,Big Ten
+10,1975-02-11,2,UCLA* RFN,2,NC,Pac-8
+10,1975-02-11,3,Maryland* R,4,1,ACC
+10,1975-02-11,4,North Carolina State,6,2,ACC
+10,1975-02-11,5,Kentucky* RF,5,NC,SEC
+10,1975-02-11,6,Alabama* R,7,1,SEC
+10,1975-02-11,7,Louisville* RF,3,4,MVC
+10,1975-02-11,8,Arizona State* R,9,1,WAC
+10,1975-02-11,9,Southern California,8,1,Pac-8
+10,1975-02-11,10,North Carolina* T,11,1,ACC
+10,1975-02-11,11,Oregon State*,14,3,Pac-8
+10,1975-02-11,12,Marquette*,12,NC,Ind
+10,1975-02-11,13,La Salle* RT,18,5,ECC
+10,1975-02-11,14,Arizona,13,1,WAC
+10,1975-02-11,15,Nevada-Las Vegas* R,16,1,WCC
+10,1975-02-11,16,Creighton*,18,2,Ind
+10,1975-02-11,17,New Mexico State*,,,MVC
+10,1975-02-11,18,South Carolina,,,Ind
+10,1975-02-11,19,Utah State*,,,Ind
+10,1975-02-11,20,Texas-El Paso*,,,WAC
+Wk,Date,Rk,School,Prev,Chng,Conf
+9,1975-02-04,1,Indiana* R,1,NC,Big Ten
+9,1975-02-04,2,UCLA* RFN,4,2,Pac-8
+9,1975-02-04,3,Louisville* RF,3,NC,MVC
+9,1975-02-04,4,Maryland* R,8,4,ACC
+9,1975-02-04,5,Kentucky* RF,7,2,SEC
+9,1975-02-04,6,North Carolina State,2,4,ACC
+9,1975-02-04,7,Alabama* R,6,1,SEC
+9,1975-02-04,8,Southern California,5,3,Pac-8
+9,1975-02-04,9,Arizona State* R,9,NC,WAC
+9,1975-02-04,10,Oregon,12,2,Pac-8
+9,1975-02-04,11,North Carolina* T,11,NC,ACC
+9,1975-02-04,12,Marquette*,17,5,Ind
+9,1975-02-04,13,Arizona,13,NC,WAC
+9,1975-02-04,14,Oregon State*,17,3,Pac-8
+9,1975-02-04,15,Clemson,,,ACC
+9,1975-02-04,16,Nevada-Las Vegas* R,16,NC,WCC
+9,1975-02-04,16,Notre Dame*,20,4,Ind
+9,1975-02-04,18,Creighton*,14,4,Ind
+9,1975-02-04,18,La Salle* RT,10,8,ECC
+9,1975-02-04,18,Tennessee,,,SEC
+Wk,Date,Rk,School,Prev,Chng,Conf
+8,1975-01-28,1,Indiana* R,1,NC,Big Ten
+8,1975-01-28,2,North Carolina State,5,3,ACC
+8,1975-01-28,3,Louisville* RF,3,NC,MVC
+8,1975-01-28,4,UCLA* RFN,2,2,Pac-8
+8,1975-01-28,5,Southern California,7,2,Pac-8
+8,1975-01-28,6,Alabama* R,6,NC,SEC
+8,1975-01-28,7,Kentucky* RF,10,3,SEC
+8,1975-01-28,8,Maryland* R,4,4,ACC
+8,1975-01-28,9,Arizona State* R,8,1,WAC
+8,1975-01-28,10,La Salle* RT,11,1,ECC
+8,1975-01-28,11,North Carolina* T,14,3,ACC
+8,1975-01-28,12,Oregon,9,3,Pac-8
+8,1975-01-28,13,Arizona,13,NC,WAC
+8,1975-01-28,14,Creighton*,17,3,Ind
+8,1975-01-28,14,South Carolina,15,1,Ind
+8,1975-01-28,16,Nevada-Las Vegas* R,16,NC,WCC
+8,1975-01-28,17,Marquette*,12,5,Ind
+8,1975-01-28,17,Oregon State*,,,Pac-8
+8,1975-01-28,17,Stanford,18,1,Pac-8
+8,1975-01-28,20,Notre Dame*,,,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+7,1975-01-21,1,Indiana* R,1,NC,Big Ten
+7,1975-01-21,2,UCLA* RFN,2,NC,Pac-8
+7,1975-01-21,3,Louisville* RF,4,1,MVC
+7,1975-01-21,4,Maryland* R,6,2,ACC
+7,1975-01-21,5,North Carolina State,3,2,ACC
+7,1975-01-21,6,Alabama* R,7,1,SEC
+7,1975-01-21,7,Southern California,5,2,Pac-8
+7,1975-01-21,8,Arizona State* R,8,NC,WAC
+7,1975-01-21,9,Oregon,9,NC,Pac-8
+7,1975-01-21,10,Kentucky* RF,10,NC,SEC
+7,1975-01-21,11,La Salle* RT,11,NC,ECC
+7,1975-01-21,12,Marquette*,12,NC,Ind
+7,1975-01-21,13,Arizona,13,NC,WAC
+7,1975-01-21,14,North Carolina* T,14,NC,ACC
+7,1975-01-21,15,South Carolina,15,NC,Ind
+7,1975-01-21,16,Nevada-Las Vegas* R,,,WCC
+7,1975-01-21,17,Creighton*,,,Ind
+7,1975-01-21,18,Stanford,,,Pac-8
+7,1975-01-21,19,Kansas* R,,,Big 8
+7,1975-01-21,19,Utah,,,WAC
+Wk,Date,Rk,School,Prev,Chng,Conf
+6,1975-01-14,1,Indiana* R,1,NC,Big Ten
+6,1975-01-14,2,UCLA* RFN,2,NC,Pac-8
+6,1975-01-14,3,North Carolina State,3,NC,ACC
+6,1975-01-14,4,Louisville* RF,4,NC,MVC
+6,1975-01-14,5,Southern California,5,NC,Pac-8
+6,1975-01-14,6,Maryland* R,6,NC,ACC
+6,1975-01-14,7,Alabama* R,8,1,SEC
+6,1975-01-14,8,Arizona State* R,10,2,WAC
+6,1975-01-14,9,Oregon,7,2,Pac-8
+6,1975-01-14,10,Kentucky* RF,9,1,SEC
+6,1975-01-14,11,La Salle* RT,15,4,ECC
+6,1975-01-14,12,Marquette*,14,2,Ind
+6,1975-01-14,13,Arizona,13,NC,WAC
+6,1975-01-14,14,North Carolina* T,12,2,ACC
+6,1975-01-14,15,South Carolina,16,1,Ind
+6,1975-01-14,16,Tennessee,,,SEC
+6,1975-01-14,17,Bradley,,,MVC
+6,1975-01-14,17,Rutgers*,20,3,Ind
+6,1975-01-14,19,Pennsylvania* R,,,Ivy
+6,1975-01-14,19,New Mexico State*,20,1,MVC
+Wk,Date,Rk,School,Prev,Chng,Conf
+5,1975-01-07,1,Indiana* R,2,1,Big Ten
+5,1975-01-07,2,UCLA* RFN,3,1,Pac-8
+5,1975-01-07,3,North Carolina State,1,2,ACC
+5,1975-01-07,4,Louisville* RF,4,NC,MVC
+5,1975-01-07,5,Southern California,5,NC,Pac-8
+5,1975-01-07,6,Maryland* R,7,1,ACC
+5,1975-01-07,7,Oregon,10,3,Pac-8
+5,1975-01-07,8,Alabama* R,6,2,SEC
+5,1975-01-07,9,Kentucky* RF,9,NC,SEC
+5,1975-01-07,10,Arizona State* R,11,1,WAC
+5,1975-01-07,11,Michigan*,15,4,Big Ten
+5,1975-01-07,12,North Carolina* T,8,4,ACC
+5,1975-01-07,13,Arizona,18,5,WAC
+5,1975-01-07,14,Marquette*,14,NC,Ind
+5,1975-01-07,15,La Salle* RT,,,ECC
+5,1975-01-07,16,Washington,,,Pac-8
+5,1975-01-07,16,Providence,13,3,Ind
+5,1975-01-07,16,South Carolina,12,4,Ind
+5,1975-01-07,16,Wake Forest,,,ACC
+5,1975-01-07,20,New Mexico State*,,,MVC
+5,1975-01-07,20,Rutgers*,,,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+4,1974-12-31,1,North Carolina State,1,NC,ACC
+4,1974-12-31,2,Indiana* R,2,NC,Big Ten
+4,1974-12-31,3,UCLA* RFN,3,NC,Pac-8
+4,1974-12-31,4,Louisville* RF,4,NC,MVC
+4,1974-12-31,5,Southern California,5,NC,Pac-8
+4,1974-12-31,6,Alabama* R,6,NC,SEC
+4,1974-12-31,7,Maryland* R,7,NC,ACC
+4,1974-12-31,8,North Carolina* T,8,NC,ACC
+4,1974-12-31,9,Kentucky* RF,15,6,SEC
+4,1974-12-31,10,Oregon,14,4,Pac-8
+4,1974-12-31,11,Arizona State* R,9,2,WAC
+4,1974-12-31,12,South Carolina,10,2,Ind
+4,1974-12-31,13,Providence,16,3,Ind
+4,1974-12-31,14,Marquette*,18,4,Ind
+4,1974-12-31,15,Michigan*,,,Big Ten
+4,1974-12-31,16,Pennsylvania* R,11,5,Ivy
+4,1974-12-31,17,Kansas* R,,,Big 8
+4,1974-12-31,18,Arizona,12,6,WAC
+4,1974-12-31,19,Bradley,,,MVC
+4,1974-12-31,20,Memphis,,,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+3,1974-12-24,1,North Carolina State,1,NC,ACC
+3,1974-12-24,2,Indiana* R,2,NC,Big Ten
+3,1974-12-24,3,UCLA* RFN,3,NC,Pac-8
+3,1974-12-24,4,Louisville* RF,4,NC,MVC
+3,1974-12-24,5,Southern California,5,NC,Pac-8
+3,1974-12-24,6,Alabama* R,8,2,SEC
+3,1974-12-24,7,Maryland* R,6,1,ACC
+3,1974-12-24,8,North Carolina* T,9,1,ACC
+3,1974-12-24,9,Arizona State* R,10,1,WAC
+3,1974-12-24,10,South Carolina,13,3,Ind
+3,1974-12-24,11,Pennsylvania* R,17,6,Ivy
+3,1974-12-24,12,Arizona,13,1,WAC
+3,1974-12-24,13,Purdue,12,1,Big Ten
+3,1974-12-24,14,Oregon,16,2,Pac-8
+3,1974-12-24,15,Kentucky* RF,20,5,SEC
+3,1974-12-24,16,Providence,,,Ind
+3,1974-12-24,17,Oklahoma,19,2,Big 8
+3,1974-12-24,18,Marquette*,7,11,Ind
+3,1974-12-24,19,Notre Dame*,11,8,Ind
+3,1974-12-24,20,Rutgers*,,,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+2,1974-12-17,1,North Carolina State,1,NC,ACC
+2,1974-12-17,2,Indiana* R,3,1,Big Ten
+2,1974-12-17,3,UCLA* RFN,2,1,Pac-8
+2,1974-12-17,4,Louisville* RF,4,NC,MVC
+2,1974-12-17,5,Southern California,6,1,Pac-8
+2,1974-12-17,6,Maryland* R,10,4,ACC
+2,1974-12-17,7,Marquette*,7,NC,Ind
+2,1974-12-17,8,Alabama* R,8,NC,SEC
+2,1974-12-17,9,North Carolina* T,5,4,ACC
+2,1974-12-17,10,Arizona State* R,14,4,WAC
+2,1974-12-17,11,Notre Dame*,11,NC,Ind
+2,1974-12-17,12,Purdue,16,4,Big Ten
+2,1974-12-17,13,Washington,,,Pac-8
+2,1974-12-17,13,Arizona,15,2,WAC
+2,1974-12-17,13,South Carolina,12,1,Ind
+2,1974-12-17,16,Oregon,19,3,Pac-8
+2,1974-12-17,17,Memphis,18,1,Ind
+2,1974-12-17,17,Pennsylvania* R,13,4,Ivy
+2,1974-12-17,19,Oklahoma,,,Big 8
+2,1974-12-17,20,Kentucky* RF,,,SEC
+Wk,Date,Rk,School,Prev,Chng,Conf
+1,1974-12-10,1,North Carolina State,NA,—,ACC
+1,1974-12-10,2,UCLA* RFN,NA,—,Pac-8
+1,1974-12-10,3,Indiana* R,NA,—,Big Ten
+1,1974-12-10,4,Louisville* RF,NA,—,MVC
+1,1974-12-10,5,North Carolina* T,NA,—,ACC
+1,1974-12-10,6,Southern California,NA,—,Pac-8
+1,1974-12-10,7,Marquette*,NA,—,Ind
+1,1974-12-10,8,Alabama* R,NA,—,SEC
+1,1974-12-10,9,Kansas* R,NA,—,Big 8
+1,1974-12-10,10,Maryland* R,NA,—,ACC
+1,1974-12-10,11,Notre Dame*,NA,—,Ind
+1,1974-12-10,12,South Carolina,NA,—,Ind
+1,1974-12-10,13,Pennsylvania* R,NA,—,Ivy
+1,1974-12-10,14,Arizona State* R,NA,—,WAC
+1,1974-12-10,15,Arizona,NA,—,WAC
+1,1974-12-10,16,Oregon State*,NA,—,Pac-8
+1,1974-12-10,16,Purdue,NA,—,Big Ten
+1,1974-12-10,18,Memphis,NA,—,Ind
+1,1974-12-10,19,Oregon,NA,—,Pac-8
+1,1974-12-10,20,Michigan*,NA,—,Big Ten

@@ -1,0 +1,315 @@
+Wk,Date,Rk,School,Prev,Chng,Conf
+15,1977-03-08,1,Michigan* R,3,2,Big Ten
+15,1977-03-08,2,San Francisco* R,1,1,WCC
+15,1977-03-08,3,North Carolina* RTF,5,2,ACC
+15,1977-03-08,4,UCLA* R,4,NC,Pac-8
+15,1977-03-08,5,Kentucky* R,2,3,SEC
+15,1977-03-08,6,Nevada-Las Vegas* RF,6,NC,Ind
+15,1977-03-08,7,Arkansas* RT,7,NC,SWC
+15,1977-03-08,8,Tennessee* R,10,2,SEC
+15,1977-03-08,9,Syracuse*,11,2,Ind
+15,1977-03-08,10,Utah* R,,,WAC
+15,1977-03-08,11,Kansas State* RT,,,Big 8
+15,1977-03-08,12,Cincinnati* T,20,8,Metro
+15,1977-03-08,13,Louisville* R,9,4,Metro
+15,1977-03-08,14,Marquette* FN,,,Ind
+15,1977-03-08,15,Providence*,8,7,Ind
+15,1977-03-08,16,Indiana State,16,NC,MVC
+15,1977-03-08,17,Minnesota,13,4,Big Ten
+15,1977-03-08,18,Alabama,12,6,SEC
+15,1977-03-08,19,Detroit Mercy*,17,2,Ind
+15,1977-03-08,20,Purdue*,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+14,1977-03-01,1,San Francisco* R,1,NC,WCC
+14,1977-03-01,2,Kentucky* R,2,NC,SEC
+14,1977-03-01,3,Michigan* R,3,NC,Big Ten
+14,1977-03-01,4,UCLA* R,6,2,Pac-8
+14,1977-03-01,5,North Carolina* RTF,8,3,ACC
+14,1977-03-01,6,Nevada-Las Vegas* RF,4,2,Ind
+14,1977-03-01,7,Arkansas* RT,7,NC,SWC
+14,1977-03-01,8,Providence*,12,4,Ind
+14,1977-03-01,9,Louisville* R,10,1,Metro
+14,1977-03-01,10,Tennessee* R,5,5,SEC
+14,1977-03-01,11,Syracuse*,13,2,Ind
+14,1977-03-01,12,Alabama,11,1,SEC
+14,1977-03-01,13,Minnesota,16,3,Big Ten
+14,1977-03-01,14,Wake Forest*,9,5,ACC
+14,1977-03-01,15,Arizona*,,,WAC
+14,1977-03-01,16,Indiana State,,,MVC
+14,1977-03-01,17,Detroit Mercy*,18,1,Ind
+14,1977-03-01,18,Houston,19,1,SWC
+14,1977-03-01,19,Oral Roberts,19,NC,Ind
+14,1977-03-01,20,Cincinnati* T,17,3,Metro
+Wk,Date,Rk,School,Prev,Chng,Conf
+13,1977-02-22,1,San Francisco* R,1,NC,WCC
+13,1977-02-22,2,Kentucky* R,2,NC,SEC
+13,1977-02-22,3,Michigan* R,4,1,Big Ten
+13,1977-02-22,4,Nevada-Las Vegas* RF,7,3,Ind
+13,1977-02-22,5,Tennessee* R,13,8,SEC
+13,1977-02-22,6,UCLA* R,3,3,Pac-8
+13,1977-02-22,7,Arkansas* RT,10,3,SWC
+13,1977-02-22,8,North Carolina* RTF,11,3,ACC
+13,1977-02-22,9,Wake Forest*,9,NC,ACC
+13,1977-02-22,10,Louisville* R,5,5,Metro
+13,1977-02-22,11,Alabama,8,3,SEC
+13,1977-02-22,12,Providence*,16,4,Ind
+13,1977-02-22,13,Syracuse*,18,5,Ind
+13,1977-02-22,14,Utah* R,,,WAC
+13,1977-02-22,15,Creighton,,,MVC
+13,1977-02-22,16,Minnesota,15,1,Big Ten
+13,1977-02-22,17,Cincinnati* T,12,5,Metro
+13,1977-02-22,18,Detroit Mercy*,19,1,Ind
+13,1977-02-22,19,Houston,,,SWC
+13,1977-02-22,19,Oral Roberts,,,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+12,1977-02-15,1,San Francisco* R,1,NC,WCC
+12,1977-02-15,2,Kentucky* R,5,3,SEC
+12,1977-02-15,3,UCLA* R,2,1,Pac-8
+12,1977-02-15,4,Michigan* R,4,NC,Big Ten
+12,1977-02-15,5,Louisville* R,3,2,Metro
+12,1977-02-15,6,Marquette* FN,7,1,Ind
+12,1977-02-15,7,Nevada-Las Vegas* RF,8,1,Ind
+12,1977-02-15,8,Alabama,9,1,SEC
+12,1977-02-15,9,Wake Forest*,6,3,ACC
+12,1977-02-15,10,Arkansas* RT,12,2,SWC
+12,1977-02-15,11,North Carolina* RTF,12,1,ACC
+12,1977-02-15,12,Cincinnati* T,11,1,Metro
+12,1977-02-15,13,Tennessee* R,10,3,SEC
+12,1977-02-15,14,Arizona*,14,NC,WAC
+12,1977-02-15,15,Minnesota,14,1,Big Ten
+12,1977-02-15,16,Providence*,16,NC,Ind
+12,1977-02-15,17,Notre Dame*,,,Ind
+12,1977-02-15,18,Syracuse*,19,1,Ind
+12,1977-02-15,19,Detroit Mercy*,,,Ind
+12,1977-02-15,20,Clemson,20,NC,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+11,1977-02-08,1,San Francisco* R,1,NC,WCC
+11,1977-02-08,2,UCLA* R,2,NC,Pac-8
+11,1977-02-08,3,Louisville* R,7,4,Metro
+11,1977-02-08,4,Michigan* R,5,1,Big Ten
+11,1977-02-08,5,Kentucky* R,6,1,SEC
+11,1977-02-08,6,Wake Forest*,8,2,ACC
+11,1977-02-08,7,Marquette* FN,4,3,Ind
+11,1977-02-08,8,Nevada-Las Vegas* RF,3,5,Ind
+11,1977-02-08,9,Alabama,9,NC,SEC
+11,1977-02-08,10,Tennessee* R,10,NC,SEC
+11,1977-02-08,11,Cincinnati* T,11,NC,Metro
+11,1977-02-08,12,Arkansas* RT,13,1,SWC
+11,1977-02-08,12,North Carolina* RTF,12,NC,ACC
+11,1977-02-08,14,Minnesota,16,2,Big Ten
+11,1977-02-08,14,Arizona*,15,1,WAC
+11,1977-02-08,16,Providence*,17,1,Ind
+11,1977-02-08,17,Utah* R,20,3,WAC
+11,1977-02-08,18,Missouri,19,1,Big 8
+11,1977-02-08,19,Syracuse*,,,Ind
+11,1977-02-08,20,Clemson,18,2,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+10,1977-02-01,1,San Francisco* R,1,NC,WCC
+10,1977-02-01,2,UCLA* R,9,7,Pac-8
+10,1977-02-01,3,Nevada-Las Vegas* RF,5,2,Ind
+10,1977-02-01,4,Marquette* FN,8,4,Ind
+10,1977-02-01,5,Michigan* R,2,3,Big Ten
+10,1977-02-01,6,Kentucky* R,7,1,SEC
+10,1977-02-01,7,Louisville* R,10,3,Metro
+10,1977-02-01,8,Wake Forest*,11,3,ACC
+10,1977-02-01,9,Alabama,4,5,SEC
+10,1977-02-01,10,Tennessee* R,6,4,SEC
+10,1977-02-01,11,Cincinnati* T,12,1,Metro
+10,1977-02-01,12,North Carolina* RTF,3,9,ACC
+10,1977-02-01,13,Arkansas* RT,16,3,SWC
+10,1977-02-01,14,Purdue*,17,3,Big Ten
+10,1977-02-01,15,Arizona*,13,2,WAC
+10,1977-02-01,16,Minnesota,14,2,Big Ten
+10,1977-02-01,17,Providence*,15,2,Ind
+10,1977-02-01,18,Clemson,,,ACC
+10,1977-02-01,19,Missouri,20,1,Big 8
+10,1977-02-01,20,Utah* R,,,WAC
+Wk,Date,Rk,School,Prev,Chng,Conf
+9,1977-01-25,1,San Francisco* R,1,NC,WCC
+9,1977-01-25,2,Michigan* R,5,3,Big Ten
+9,1977-01-25,3,North Carolina* RTF,2,1,ACC
+9,1977-01-25,4,Alabama,4,NC,SEC
+9,1977-01-25,5,Nevada-Las Vegas* RF,6,1,Ind
+9,1977-01-25,6,Tennessee* R,11,5,SEC
+9,1977-01-25,7,Kentucky* R,7,NC,SEC
+9,1977-01-25,8,Marquette* FN,8,NC,Ind
+9,1977-01-25,9,UCLA* R,10,1,Pac-8
+9,1977-01-25,10,Louisville* R,16,6,Metro
+9,1977-01-25,11,Wake Forest*,9,2,ACC
+9,1977-01-25,12,Cincinnati* T,3,9,Metro
+9,1977-01-25,13,Arizona*,14,1,WAC
+9,1977-01-25,14,Minnesota,13,1,Big Ten
+9,1977-01-25,15,Providence*,17,2,Ind
+9,1977-01-25,16,Arkansas* RT,15,1,SWC
+9,1977-01-25,17,Purdue*,12,5,Big Ten
+9,1977-01-25,18,Oregon,,,Pac-8
+9,1977-01-25,19,Indiana State,,,MVC
+9,1977-01-25,20,Missouri,,,Big 8
+Wk,Date,Rk,School,Prev,Chng,Conf
+8,1977-01-18,1,San Francisco* R,1,NC,WCC
+8,1977-01-18,2,North Carolina* RTF,5,3,ACC
+8,1977-01-18,3,Cincinnati* T,2,1,Metro
+8,1977-01-18,4,Alabama,4,NC,SEC
+8,1977-01-18,5,Michigan* R,6,1,Big Ten
+8,1977-01-18,6,Nevada-Las Vegas* RF,7,1,Ind
+8,1977-01-18,7,Kentucky* R,3,4,SEC
+8,1977-01-18,8,Marquette* FN,9,1,Ind
+8,1977-01-18,9,Wake Forest*,8,1,ACC
+8,1977-01-18,10,UCLA* R,12,2,Pac-8
+8,1977-01-18,11,Tennessee* R,17,6,SEC
+8,1977-01-18,12,Purdue*,13,1,Big Ten
+8,1977-01-18,13,Minnesota,11,2,Big Ten
+8,1977-01-18,14,Arizona*,10,4,WAC
+8,1977-01-18,15,Arkansas* RT,16,1,SWC
+8,1977-01-18,16,Louisville* R,14,2,Metro
+8,1977-01-18,17,Providence*,18,1,Ind
+8,1977-01-18,18,Maryland,,,ACC
+8,1977-01-18,19,Memphis,,,Metro
+8,1977-01-18,20,Utah* R,,,WAC
+Wk,Date,Rk,School,Prev,Chng,Conf
+7,1977-01-11,1,San Francisco* R,1,NC,WCC
+7,1977-01-11,2,Cincinnati* T,4,2,Metro
+7,1977-01-11,3,Kentucky* R,2,1,SEC
+7,1977-01-11,4,Alabama,5,1,SEC
+7,1977-01-11,5,North Carolina* RTF,7,2,ACC
+7,1977-01-11,6,Michigan* R,3,3,Big Ten
+7,1977-01-11,7,Nevada-Las Vegas* RF,9,2,Ind
+7,1977-01-11,8,Wake Forest*,13,5,ACC
+7,1977-01-11,9,Marquette* FN,11,2,Ind
+7,1977-01-11,10,Arizona*,10,NC,WAC
+7,1977-01-11,11,Minnesota,12,1,Big Ten
+7,1977-01-11,12,UCLA* R,6,6,Pac-8
+7,1977-01-11,13,Purdue*,18,5,Big Ten
+7,1977-01-11,14,Louisville* R,16,2,Metro
+7,1977-01-11,15,Oregon,,,Pac-8
+7,1977-01-11,16,Arkansas* RT,,,SWC
+7,1977-01-11,17,Tennessee* R,,,SEC
+7,1977-01-11,18,Providence*,14,4,Ind
+7,1977-01-11,19,St. John's (NY)*,,,NJNY7
+7,1977-01-11,19,Holy Cross*,,,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+6,1977-01-04,1,San Francisco* R,3,2,WCC
+6,1977-01-04,2,Kentucky* R,7,5,SEC
+6,1977-01-04,3,Michigan* R,1,2,Big Ten
+6,1977-01-04,4,Cincinnati* T,5,1,Metro
+6,1977-01-04,5,Alabama,4,1,SEC
+6,1977-01-04,6,UCLA* R,8,2,Pac-8
+6,1977-01-04,7,North Carolina* RTF,6,1,ACC
+6,1977-01-04,8,Notre Dame*,2,6,Ind
+6,1977-01-04,9,Nevada-Las Vegas* RF,9,NC,Ind
+6,1977-01-04,10,Arizona*,13,3,WAC
+6,1977-01-04,11,Marquette* FN,14,3,Ind
+6,1977-01-04,12,Minnesota,12,NC,Big Ten
+6,1977-01-04,13,Wake Forest*,10,3,ACC
+6,1977-01-04,14,Providence*,,,Ind
+6,1977-01-04,15,Clemson,11,4,ACC
+6,1977-01-04,16,Louisville* R,15,1,Metro
+6,1977-01-04,17,Missouri,,,Big 8
+6,1977-01-04,18,Purdue*,,,Big Ten
+6,1977-01-04,18,Maryland,16,2,ACC
+6,1977-01-04,20,Utah* R,,,WAC
+Wk,Date,Rk,School,Prev,Chng,Conf
+5,1976-12-28,1,Michigan* R,1,NC,Big Ten
+5,1976-12-28,2,Notre Dame*,2,NC,Ind
+5,1976-12-28,3,San Francisco* R,3,NC,WCC
+5,1976-12-28,4,Alabama,4,NC,SEC
+5,1976-12-28,5,Cincinnati* T,6,1,Metro
+5,1976-12-28,6,North Carolina* RTF,9,3,ACC
+5,1976-12-28,7,Kentucky* R,7,NC,SEC
+5,1976-12-28,8,UCLA* R,8,NC,Pac-8
+5,1976-12-28,9,Nevada-Las Vegas* RF,11,2,Ind
+5,1976-12-28,10,Wake Forest*,12,2,ACC
+5,1976-12-28,11,Clemson,10,1,ACC
+5,1976-12-28,12,Minnesota,16,4,Big Ten
+5,1976-12-28,13,Arizona*,14,1,WAC
+5,1976-12-28,14,Marquette* FN,5,9,Ind
+5,1976-12-28,15,Louisville* R,13,2,Metro
+5,1976-12-28,16,Maryland,,,ACC
+5,1976-12-28,17,Arkansas* RT,,,SWC
+5,1976-12-28,18,Syracuse*,17,1,Ind
+5,1976-12-28,19,Iowa,,,Big Ten
+5,1976-12-28,20,Oregon,18,2,Pac-8
+Wk,Date,Rk,School,Prev,Chng,Conf
+4,1976-12-21,1,Michigan* R,1,NC,Big Ten
+4,1976-12-21,2,Notre Dame*,4,2,Ind
+4,1976-12-21,3,San Francisco* R,5,2,WCC
+4,1976-12-21,4,Alabama,7,3,SEC
+4,1976-12-21,5,Marquette* FN,2,3,Ind
+4,1976-12-21,6,Cincinnati* T,9,3,Metro
+4,1976-12-21,7,Kentucky* R,3,4,SEC
+4,1976-12-21,8,UCLA* R,10,2,Pac-8
+4,1976-12-21,9,North Carolina* RTF,6,3,ACC
+4,1976-12-21,10,Clemson,14,4,ACC
+4,1976-12-21,11,Nevada-Las Vegas* RF,11,NC,Ind
+4,1976-12-21,12,Wake Forest*,12,NC,ACC
+4,1976-12-21,13,Louisville* R,,,Metro
+4,1976-12-21,14,Arizona*,8,6,WAC
+4,1976-12-21,15,Utah* R,,,WAC
+4,1976-12-21,16,Minnesota,18,2,Big Ten
+4,1976-12-21,17,Syracuse*,15,2,Ind
+4,1976-12-21,18,Oregon,20,2,Pac-8
+4,1976-12-21,19,Missouri,,,Big 8
+4,1976-12-21,20,Georgetown,,,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+3,1976-12-14,1,Michigan* R,1,NC,Big Ten
+3,1976-12-14,2,Marquette* FN,2,NC,Ind
+3,1976-12-14,3,Kentucky* R,5,2,SEC
+3,1976-12-14,4,Notre Dame*,11,7,Ind
+3,1976-12-14,5,San Francisco* R,8,3,WCC
+3,1976-12-14,6,North Carolina* RTF,9,3,ACC
+3,1976-12-14,7,Alabama,6,1,SEC
+3,1976-12-14,8,Arizona*,7,1,WAC
+3,1976-12-14,9,Cincinnati* T,10,1,Metro
+3,1976-12-14,10,UCLA* R,3,7,Pac-8
+3,1976-12-14,11,Nevada-Las Vegas* RF,4,7,Ind
+3,1976-12-14,12,Wake Forest*,14,2,ACC
+3,1976-12-14,13,Maryland,15,2,ACC
+3,1976-12-14,14,Clemson,20,6,ACC
+3,1976-12-14,15,Syracuse*,,,Ind
+3,1976-12-14,16,Southern Illinois* RT,18,2,MVC
+3,1976-12-14,17,Purdue*,,,Big Ten
+3,1976-12-14,18,Minnesota,,,Big Ten
+3,1976-12-14,19,Indiana,12,7,Big Ten
+3,1976-12-14,20,Oregon,19,1,Pac-8
+Wk,Date,Rk,School,Prev,Chng,Conf
+2,1976-12-07,1,Michigan* R,2,1,Big Ten
+2,1976-12-07,2,Marquette* FN,1,1,Ind
+2,1976-12-07,3,UCLA* R,4,1,Pac-8
+2,1976-12-07,4,Nevada-Las Vegas* RF,7,3,Ind
+2,1976-12-07,5,Kentucky* R,6,1,SEC
+2,1976-12-07,6,Alabama,,,SEC
+2,1976-12-07,7,Arizona*,9,2,WAC
+2,1976-12-07,8,San Francisco* R,12,4,WCC
+2,1976-12-07,9,North Carolina* RTF,3,6,ACC
+2,1976-12-07,10,Cincinnati* T,10,NC,Metro
+2,1976-12-07,11,Notre Dame*,,,Ind
+2,1976-12-07,12,Indiana,5,7,Big Ten
+2,1976-12-07,13,Tennessee* R,13,NC,SEC
+2,1976-12-07,14,Wake Forest*,,,ACC
+2,1976-12-07,15,Maryland,11,4,ACC
+2,1976-12-07,16,Louisville* R,8,8,Metro
+2,1976-12-07,17,Washington,,,Pac-8
+2,1976-12-07,18,Southern Illinois* RT,,,MVC
+2,1976-12-07,19,Oregon,,,Pac-8
+2,1976-12-07,20,Clemson,,,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+1,Preseason,1,Marquette* FN,NA,—,Ind
+1,Preseason,2,Michigan* R,NA,—,Big Ten
+1,Preseason,3,North Carolina* RTF,NA,—,ACC
+1,Preseason,4,UCLA* R,NA,—,Pac-8
+1,Preseason,5,Indiana,NA,—,Big Ten
+1,Preseason,6,Kentucky* R,NA,—,SEC
+1,Preseason,7,Nevada-Las Vegas* RF,NA,—,Ind
+1,Preseason,8,Louisville* R,NA,—,Metro
+1,Preseason,9,Arizona*,NA,—,WAC
+1,Preseason,10,Cincinnati* T,NA,—,Metro
+1,Preseason,11,Maryland,NA,—,ACC
+1,Preseason,12,San Francisco* R,NA,—,WCC
+1,Preseason,13,Tennessee* R,NA,—,SEC
+1,Preseason,14,North Carolina State,NA,—,ACC
+1,Preseason,15,Missouri,NA,—,Big 8
+1,Preseason,16,Wichita State,NA,—,MVC
+1,Preseason,17,Georgetown,NA,—,Ind
+1,Preseason,18,Rutgers R,NA,—,ECBL
+1,Preseason,19,Pennsylvania,NA,—,Ivy
+1,Preseason,20,Purdue*,NA,—,Big Ten
