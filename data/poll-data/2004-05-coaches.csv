@@ -1,0 +1,494 @@
+Wk,Date,Rk,School,Prev,Chng,Conf
+19,Postseason,1,North Carolina* RFN,1,NC,ACC
+19,Postseason,2,Illinois* RTF,2,NC,Big Ten
+19,Postseason,3,Louisville* RTF,3,NC,CUSA
+19,Postseason,4,Michigan State* F,4,NC,Big Ten
+19,Postseason,5,Kentucky* R,5,NC,SEC
+19,Postseason,6,Arizona* R,6,NC,Pac-10
+19,Postseason,7,Duke* T,7,NC,ACC
+19,Postseason,8,Oklahoma State* T,8,NC,Big 12
+19,Postseason,9,Washington* T,9,NC,Pac-10
+19,Postseason,10,Wisconsin*,10,NC,Big Ten
+19,Postseason,11,Wake Forest*,11,NC,ACC
+19,Postseason,12,West Virginia*,12,NC,Big East
+19,Postseason,13,Villanova*,13,NC,Big East
+19,Postseason,14,Utah* R,14,NC,MWC
+19,Postseason,15,Kansas* R,15,NC,Big 12
+19,Postseason,16,Texas Tech*,16,NC,Big 12
+19,Postseason,17,Connecticut* R,17,NC,Big East
+19,Postseason,18,Gonzaga* RT,18,NC,WCC
+19,Postseason,19,Boston College* R,19,NC,Big East
+19,Postseason,20,Oklahoma* R,20,NC,Big 12
+19,Postseason,21,Syracuse* T,21,NC,Big East
+19,Postseason,22,North Carolina State*,22,NC,ACC
+19,Postseason,23,Milwaukee* RT,23,NC,Horizon
+19,Postseason,24,Florida* T,24,NC,SEC
+19,Postseason,25,Cincinnati*,25,NC,CUSA
+Wk,Date,Rk,School,Prev,Chng,Conf
+18,Postseason,1,North Carolina* RFN,3,2,ACC
+18,Postseason,2,Illinois* RTF,1,1,Big Ten
+18,Postseason,3,Louisville* RTF,4,1,CUSA
+18,Postseason,4,Michigan State* F,15,11,Big Ten
+18,Postseason,5,Kentucky* R,5,NC,SEC
+18,Postseason,6,Arizona* R,9,3,Pac-10
+18,Postseason,7,Duke* T,2,5,ACC
+18,Postseason,8,Oklahoma State* T,8,NC,Big 12
+18,Postseason,9,Washington* T,7,2,Pac-10
+18,Postseason,10,Wisconsin*,19,9,Big Ten
+18,Postseason,11,Wake Forest*,6,5,ACC
+18,Postseason,12,West Virginia*,,,Big East
+18,Postseason,13,Villanova*,22,9,Big East
+18,Postseason,14,Utah* R,17,3,MWC
+18,Postseason,15,Kansas* R,10,5,Big 12
+18,Postseason,16,Texas Tech*,24,8,Big 12
+18,Postseason,17,Connecticut* R,14,3,Big East
+18,Postseason,18,Gonzaga* RT,11,7,WCC
+18,Postseason,19,Boston College* R,12,7,Big East
+18,Postseason,20,Oklahoma* R,16,4,Big 12
+18,Postseason,21,Syracuse* T,13,8,Big East
+18,Postseason,22,North Carolina State*,,,ACC
+18,Postseason,23,Milwaukee* RT,,,Horizon
+18,Postseason,24,Florida* T,18,6,SEC
+18,Postseason,25,Cincinnati*,23,2,CUSA
+Wk,Date,Rk,School,Prev,Chng,Conf
+17,Final,1,Illinois* RTF,1,NC,Big Ten
+17,Final,2,Duke* T,6,4,ACC
+17,Final,3,North Carolina* RFN,2,1,ACC
+17,Final,4,Louisville* RTF,9,5,CUSA
+17,Final,5,Kentucky* R,3,2,SEC
+17,Final,6,Wake Forest*,4,2,ACC
+17,Final,7,Washington* T,10,3,Pac-10
+17,Final,8,Oklahoma State* T,8,NC,Big 12
+17,Final,9,Arizona* R,11,2,Pac-10
+17,Final,10,Kansas* R,7,3,Big 12
+17,Final,11,Gonzaga* RT,13,2,WCC
+17,Final,12,Boston College* R,5,7,Big East
+17,Final,13,Syracuse* T,14,1,Big East
+17,Final,14,Connecticut* R,16,2,Big East
+17,Final,15,Michigan State* F,12,3,Big Ten
+17,Final,16,Oklahoma* R,20,4,Big 12
+17,Final,17,Utah* R,15,2,MWC
+17,Final,18,Florida* T,,,SEC
+17,Final,19,Wisconsin*,23,4,Big Ten
+17,Final,20,Pacific* R,17,3,Big West
+17,Final,21,Alabama* R,19,2,SEC
+17,Final,22,Villanova*,22,NC,Big East
+17,Final,23,Cincinnati*,21,2,CUSA
+17,Final,24,Texas Tech*,,,Big 12
+17,Final,25,Georgia Tech*,,,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+16,2005-02-28,1,Illinois* RTF,1,NC,Big Ten
+16,2005-02-28,2,North Carolina* RFN,2,NC,ACC
+16,2005-02-28,3,Kentucky* R,5,2,SEC
+16,2005-02-28,4,Wake Forest*,6,2,ACC
+16,2005-02-28,5,Boston College* R,3,2,Big East
+16,2005-02-28,6,Duke* T,10,4,ACC
+16,2005-02-28,7,Kansas* R,7,NC,Big 12
+16,2005-02-28,8,Oklahoma State* T,4,4,Big 12
+16,2005-02-28,9,Louisville* RTF,11,2,CUSA
+16,2005-02-28,10,Washington* T,13,3,Pac-10
+16,2005-02-28,11,Arizona* R,8,3,Pac-10
+16,2005-02-28,12,Michigan State* F,9,3,Big Ten
+16,2005-02-28,13,Gonzaga* RT,16,3,WCC
+16,2005-02-28,14,Syracuse* T,15,1,Big East
+16,2005-02-28,15,Utah* R,12,3,MWC
+16,2005-02-28,16,Connecticut* R,19,3,Big East
+16,2005-02-28,17,Pacific* R,18,1,Big West
+16,2005-02-28,18,Charlotte*,21,3,CUSA
+16,2005-02-28,19,Alabama* R,14,5,SEC
+16,2005-02-28,20,Oklahoma* R,23,3,Big 12
+16,2005-02-28,21,Cincinnati*,22,1,CUSA
+16,2005-02-28,22,Villanova*,24,2,Big East
+16,2005-02-28,23,Wisconsin*,20,3,Big Ten
+16,2005-02-28,24,Pittsburgh*,17,7,Big East
+16,2005-02-28,25,Southern Illinois* R,,,MVC
+Wk,Date,Rk,School,Prev,Chng,Conf
+15,2005-02-21,1,Illinois* RTF,1,NC,Big Ten
+15,2005-02-21,2,North Carolina* RFN,4,2,ACC
+15,2005-02-21,3,Boston College* R,6,3,Big East
+15,2005-02-21,4,Oklahoma State* T,7,3,Big 12
+15,2005-02-21,5,Kentucky* R,3,2,SEC
+15,2005-02-21,6,Wake Forest*,5,1,ACC
+15,2005-02-21,7,Kansas* R,2,5,Big 12
+15,2005-02-21,8,Arizona* R,11,3,Pac-10
+15,2005-02-21,9,Michigan State* F,10,1,Big Ten
+15,2005-02-21,10,Duke* T,8,2,ACC
+15,2005-02-21,11,Louisville* RTF,12,1,CUSA
+15,2005-02-21,12,Utah* R,14,2,MWC
+15,2005-02-21,13,Washington* T,13,NC,Pac-10
+15,2005-02-21,14,Alabama* R,17,3,SEC
+15,2005-02-21,15,Syracuse* T,9,6,Big East
+15,2005-02-21,16,Gonzaga* RT,16,NC,WCC
+15,2005-02-21,17,Pittsburgh*,15,2,Big East
+15,2005-02-21,18,Pacific* R,19,1,Big West
+15,2005-02-21,19,Connecticut* R,18,1,Big East
+15,2005-02-21,20,Wisconsin*,20,NC,Big Ten
+15,2005-02-21,21,Charlotte*,23,2,CUSA
+15,2005-02-21,22,Cincinnati*,21,1,CUSA
+15,2005-02-21,23,Oklahoma* R,22,1,Big 12
+15,2005-02-21,24,Villanova*,,,Big East
+15,2005-02-21,25,Texas Tech*,25,NC,Big 12
+Wk,Date,Rk,School,Prev,Chng,Conf
+14,2005-02-14,1,Illinois* RTF,1,NC,Big Ten
+14,2005-02-14,2,Kansas* R,3,1,Big 12
+14,2005-02-14,3,Kentucky* R,5,2,SEC
+14,2005-02-14,4,North Carolina* RFN,2,2,ACC
+14,2005-02-14,5,Wake Forest*,6,1,ACC
+14,2005-02-14,6,Boston College* R,4,2,Big East
+14,2005-02-14,7,Oklahoma State* T,10,3,Big 12
+14,2005-02-14,8,Duke* T,8,NC,ACC
+14,2005-02-14,9,Syracuse* T,7,2,Big East
+14,2005-02-14,10,Michigan State* F,12,2,Big Ten
+14,2005-02-14,11,Arizona* R,13,2,Pac-10
+14,2005-02-14,12,Louisville* RTF,9,3,CUSA
+14,2005-02-14,13,Washington* T,11,2,Pac-10
+14,2005-02-14,14,Utah* R,16,2,MWC
+14,2005-02-14,15,Pittsburgh*,15,NC,Big East
+14,2005-02-14,16,Gonzaga* RT,17,1,WCC
+14,2005-02-14,17,Alabama* R,19,2,SEC
+14,2005-02-14,18,Connecticut* R,14,4,Big East
+14,2005-02-14,19,Pacific* R,24,5,Big West
+14,2005-02-14,20,Wisconsin*,21,1,Big Ten
+14,2005-02-14,21,Cincinnati*,20,1,CUSA
+14,2005-02-14,22,Oklahoma* R,18,4,Big 12
+14,2005-02-14,23,Charlotte*,,,CUSA
+14,2005-02-14,24,Florida* T,,,SEC
+14,2005-02-14,25,Texas Tech*,23,2,Big 12
+Wk,Date,Rk,School,Prev,Chng,Conf
+13,2005-02-07,1,Illinois* RTF,1,NC,Big Ten
+13,2005-02-07,2,North Carolina* RFN,2,NC,ACC
+13,2005-02-07,3,Kansas* R,3,NC,Big 12
+13,2005-02-07,4,Boston College* R,5,1,Big East
+13,2005-02-07,5,Kentucky* R,4,1,SEC
+13,2005-02-07,6,Wake Forest*,7,1,ACC
+13,2005-02-07,7,Syracuse* T,8,1,Big East
+13,2005-02-07,8,Duke* T,6,2,ACC
+13,2005-02-07,9,Louisville* RTF,9,NC,CUSA
+13,2005-02-07,10,Oklahoma State* T,11,1,Big 12
+13,2005-02-07,11,Washington* T,12,1,Pac-10
+13,2005-02-07,12,Michigan State* F,10,2,Big Ten
+13,2005-02-07,13,Arizona* R,13,NC,Pac-10
+13,2005-02-07,14,Connecticut* R,20,6,Big East
+13,2005-02-07,15,Pittsburgh*,15,NC,Big East
+13,2005-02-07,16,Utah* R,22,6,MWC
+13,2005-02-07,17,Gonzaga* RT,21,4,WCC
+13,2005-02-07,18,Oklahoma* R,16,2,Big 12
+13,2005-02-07,19,Alabama* R,14,5,SEC
+13,2005-02-07,20,Cincinnati*,17,3,CUSA
+13,2005-02-07,21,Wisconsin*,19,2,Big Ten
+13,2005-02-07,22,Texas*,18,4,Big 12
+13,2005-02-07,23,Texas Tech*,,,Big 12
+13,2005-02-07,24,Pacific* R,,,Big West
+13,2005-02-07,25,Villanova*,25,NC,Big East
+Wk,Date,Rk,School,Prev,Chng,Conf
+12,2005-01-31,1,Illinois* RTF,1,NC,Big Ten
+12,2005-01-31,2,North Carolina* RFN,3,1,ACC
+12,2005-01-31,3,Kansas* R,7,4,Big 12
+12,2005-01-31,4,Kentucky* R,6,2,SEC
+12,2005-01-31,5,Boston College* R,8,3,Big East
+12,2005-01-31,6,Duke* T,2,4,ACC
+12,2005-01-31,7,Wake Forest*,5,2,ACC
+12,2005-01-31,8,Syracuse* T,4,4,Big East
+12,2005-01-31,9,Louisville* RTF,12,3,CUSA
+12,2005-01-31,10,Michigan State* F,13,3,Big Ten
+12,2005-01-31,11,Oklahoma State* T,9,2,Big 12
+12,2005-01-31,12,Washington* T,10,2,Pac-10
+12,2005-01-31,13,Arizona* R,11,2,Pac-10
+12,2005-01-31,14,Alabama* R,17,3,SEC
+12,2005-01-31,15,Pittsburgh*,18,3,Big East
+12,2005-01-31,16,Oklahoma* R,15,1,Big 12
+12,2005-01-31,17,Cincinnati*,20,3,CUSA
+12,2005-01-31,18,Texas*,14,4,Big 12
+12,2005-01-31,19,Wisconsin*,19,NC,Big Ten
+12,2005-01-31,20,Connecticut* R,16,4,Big East
+12,2005-01-31,21,Gonzaga* RT,23,2,WCC
+12,2005-01-31,22,Utah* R,25,3,MWC
+12,2005-01-31,23,Georgia Tech*,21,2,ACC
+12,2005-01-31,24,Maryland,,,ACC
+12,2005-01-31,25,Villanova*,,,Big East
+Wk,Date,Rk,School,Prev,Chng,Conf
+11,2005-01-24,1,Illinois* RTF,1,NC,Big Ten
+11,2005-01-24,2,Duke* T,4,2,ACC
+11,2005-01-24,3,North Carolina* RFN,6,3,ACC
+11,2005-01-24,4,Syracuse* T,7,3,Big East
+11,2005-01-24,5,Wake Forest*,3,2,ACC
+11,2005-01-24,6,Kentucky* R,8,2,SEC
+11,2005-01-24,7,Kansas* R,2,5,Big 12
+11,2005-01-24,8,Boston College* R,9,1,Big East
+11,2005-01-24,9,Oklahoma State* T,5,4,Big 12
+11,2005-01-24,10,Washington* T,10,NC,Pac-10
+11,2005-01-24,11,Arizona* R,12,1,Pac-10
+11,2005-01-24,12,Louisville* RTF,14,2,CUSA
+11,2005-01-24,13,Michigan State* F,16,3,Big Ten
+11,2005-01-24,14,Texas*,11,3,Big 12
+11,2005-01-24,15,Oklahoma* R,21,6,Big 12
+11,2005-01-24,16,Connecticut* R,13,3,Big East
+11,2005-01-24,17,Alabama* R,22,5,SEC
+11,2005-01-24,18,Pittsburgh*,17,1,Big East
+11,2005-01-24,19,Wisconsin*,23,4,Big Ten
+11,2005-01-24,20,Cincinnati*,18,2,CUSA
+11,2005-01-24,21,Georgia Tech*,15,6,ACC
+11,2005-01-24,22,Mississippi State*,19,3,SEC
+11,2005-01-24,23,Gonzaga* RT,20,3,WCC
+11,2005-01-24,24,Iowa*,24,NC,Big Ten
+11,2005-01-24,25,Utah* R,,,MWC
+Wk,Date,Rk,School,Prev,Chng,Conf
+10,2005-01-17,1,Illinois* RTF,1,NC,Big Ten
+10,2005-01-17,2,Kansas* R,2,NC,Big 12
+10,2005-01-17,3,Wake Forest*,3,NC,ACC
+10,2005-01-17,4,Duke* T,5,1,ACC
+10,2005-01-17,5,Oklahoma State* T,6,1,Big 12
+10,2005-01-17,6,North Carolina* RFN,4,2,ACC
+10,2005-01-17,7,Syracuse* T,7,NC,Big East
+10,2005-01-17,8,Kentucky* R,10,2,SEC
+10,2005-01-17,9,Boston College* R,17,8,Big East
+10,2005-01-17,10,Washington* T,14,4,Pac-10
+10,2005-01-17,11,Texas*,9,2,Big 12
+10,2005-01-17,12,Arizona* R,16,4,Pac-10
+10,2005-01-17,13,Connecticut* R,11,2,Big East
+10,2005-01-17,14,Louisville* RTF,19,5,CUSA
+10,2005-01-17,15,Georgia Tech*,8,7,ACC
+10,2005-01-17,16,Michigan State* F,12,4,Big Ten
+10,2005-01-17,17,Pittsburgh*,18,1,Big East
+10,2005-01-17,18,Cincinnati*,13,5,CUSA
+10,2005-01-17,19,Mississippi State*,15,4,SEC
+10,2005-01-17,20,Gonzaga* RT,20,NC,WCC
+10,2005-01-17,21,Oklahoma* R,25,4,Big 12
+10,2005-01-17,22,Alabama* R,21,1,SEC
+10,2005-01-17,23,Wisconsin*,,,Big Ten
+10,2005-01-17,24,Iowa*,23,1,Big Ten
+10,2005-01-17,25,Marquette,,,CUSA
+Wk,Date,Rk,School,Prev,Chng,Conf
+9,2005-01-10,1,Illinois* RTF,1,NC,Big Ten
+9,2005-01-10,2,Kansas* R,2,NC,Big 12
+9,2005-01-10,3,Wake Forest*,3,NC,ACC
+9,2005-01-10,4,North Carolina* RFN,4,NC,ACC
+9,2005-01-10,5,Duke* T,5,NC,ACC
+9,2005-01-10,6,Oklahoma State* T,6,NC,Big 12
+9,2005-01-10,7,Syracuse* T,7,NC,Big East
+9,2005-01-10,8,Georgia Tech*,10,2,ACC
+9,2005-01-10,9,Texas*,11,2,Big 12
+9,2005-01-10,10,Kentucky* R,8,2,SEC
+9,2005-01-10,11,Connecticut* R,9,2,Big East
+9,2005-01-10,12,Michigan State* F,19,7,Big Ten
+9,2005-01-10,13,Cincinnati*,20,7,CUSA
+9,2005-01-10,14,Washington* T,14,NC,Pac-10
+9,2005-01-10,15,Mississippi State*,22,7,SEC
+9,2005-01-10,16,Arizona* R,13,3,Pac-10
+9,2005-01-10,17,Boston College* R,,,Big East
+9,2005-01-10,18,Pittsburgh*,12,6,Big East
+9,2005-01-10,19,Louisville* RTF,16,3,CUSA
+9,2005-01-10,20,Gonzaga* RT,17,3,WCC
+9,2005-01-10,21,Alabama* R,18,3,SEC
+9,2005-01-10,22,George Washington* RT,25,3,A-10
+9,2005-01-10,23,Iowa*,15,8,Big Ten
+9,2005-01-10,24,West Virginia*,23,1,Big East
+9,2005-01-10,25,Oklahoma* R,,,Big 12
+Wk,Date,Rk,School,Prev,Chng,Conf
+8,2005-01-03,1,Illinois* RTF,1,NC,Big Ten
+8,2005-01-03,2,Kansas* R,2,NC,Big 12
+8,2005-01-03,3,Wake Forest*,4,1,ACC
+8,2005-01-03,4,North Carolina* RFN,5,1,ACC
+8,2005-01-03,5,Duke* T,6,1,ACC
+8,2005-01-03,6,Oklahoma State* T,3,3,Big 12
+8,2005-01-03,7,Syracuse* T,8,1,Big East
+8,2005-01-03,8,Kentucky* R,10,2,SEC
+8,2005-01-03,9,Connecticut* R,11,2,Big East
+8,2005-01-03,10,Georgia Tech*,9,1,ACC
+8,2005-01-03,11,Texas*,12,1,Big 12
+8,2005-01-03,12,Pittsburgh*,7,5,Big East
+8,2005-01-03,13,Arizona* R,14,1,Pac-10
+8,2005-01-03,14,Washington* T,16,2,Pac-10
+8,2005-01-03,15,Iowa*,18,3,Big Ten
+8,2005-01-03,16,Louisville* RTF,19,3,CUSA
+8,2005-01-03,17,Gonzaga* RT,21,4,WCC
+8,2005-01-03,18,Alabama* R,13,5,SEC
+8,2005-01-03,19,Michigan State* F,20,1,Big Ten
+8,2005-01-03,20,Cincinnati*,17,3,CUSA
+8,2005-01-03,21,Maryland,23,2,ACC
+8,2005-01-03,22,Mississippi State*,24,2,SEC
+8,2005-01-03,23,West Virginia*,,,Big East
+8,2005-01-03,24,North Carolina State*,15,9,ACC
+8,2005-01-03,25,George Washington* RT,22,3,A-10
+Wk,Date,Rk,School,Prev,Chng,Conf
+7,2004-12-27,1,Illinois* RTF,1,NC,Big Ten
+7,2004-12-27,2,Kansas* R,2,NC,Big 12
+7,2004-12-27,3,Oklahoma State* T,3,NC,Big 12
+7,2004-12-27,4,Wake Forest*,4,NC,ACC
+7,2004-12-27,5,North Carolina* RFN,5,NC,ACC
+7,2004-12-27,6,Duke* T,6,NC,ACC
+7,2004-12-27,7,Pittsburgh*,7,NC,Big East
+7,2004-12-27,8,Syracuse* T,8,NC,Big East
+7,2004-12-27,9,Georgia Tech*,9,NC,ACC
+7,2004-12-27,10,Kentucky* R,10,NC,SEC
+7,2004-12-27,11,Connecticut* R,11,NC,Big East
+7,2004-12-27,12,Texas*,12,NC,Big 12
+7,2004-12-27,13,Alabama* R,14,1,SEC
+7,2004-12-27,14,Arizona* R,15,1,Pac-10
+7,2004-12-27,15,North Carolina State*,13,2,ACC
+7,2004-12-27,16,Washington* T,17,1,Pac-10
+7,2004-12-27,17,Cincinnati*,16,1,CUSA
+7,2004-12-27,18,Iowa*,19,1,Big Ten
+7,2004-12-27,19,Louisville* RTF,18,1,CUSA
+7,2004-12-27,20,Michigan State* F,20,NC,Big Ten
+7,2004-12-27,21,Gonzaga* RT,23,2,WCC
+7,2004-12-27,22,George Washington* RT,22,NC,A-10
+7,2004-12-27,23,Maryland,21,2,ACC
+7,2004-12-27,24,Mississippi State*,24,NC,SEC
+7,2004-12-27,25,Virginia,25,NC,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+6,2004-12-20,1,Illinois* RTF,1,NC,Big Ten
+6,2004-12-20,2,Kansas* R,2,NC,Big 12
+6,2004-12-20,3,Oklahoma State* T,4,1,Big 12
+6,2004-12-20,4,Wake Forest*,5,1,ACC
+6,2004-12-20,5,North Carolina* RFN,6,1,ACC
+6,2004-12-20,6,Duke* T,7,1,ACC
+6,2004-12-20,7,Pittsburgh*,10,3,Big East
+6,2004-12-20,8,Syracuse* T,8,NC,Big East
+6,2004-12-20,9,Georgia Tech*,3,6,ACC
+6,2004-12-20,10,Kentucky* R,11,1,SEC
+6,2004-12-20,11,Connecticut* R,13,2,Big East
+6,2004-12-20,12,Texas*,12,NC,Big 12
+6,2004-12-20,13,North Carolina State*,9,4,ACC
+6,2004-12-20,14,Alabama* R,15,1,SEC
+6,2004-12-20,15,Arizona* R,16,1,Pac-10
+6,2004-12-20,16,Cincinnati*,17,1,CUSA
+6,2004-12-20,17,Washington* T,20,3,Pac-10
+6,2004-12-20,18,Louisville* RTF,14,4,CUSA
+6,2004-12-20,19,Iowa*,21,2,Big Ten
+6,2004-12-20,20,Michigan State* F,18,2,Big Ten
+6,2004-12-20,21,Maryland,19,2,ACC
+6,2004-12-20,22,George Washington* RT,22,NC,A-10
+6,2004-12-20,23,Gonzaga* RT,,,WCC
+6,2004-12-20,24,Mississippi State*,24,NC,SEC
+6,2004-12-20,25,Virginia,23,2,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+5,2004-12-13,1,Illinois* RTF,1,NC,Big Ten
+5,2004-12-13,2,Kansas* R,2,NC,Big 12
+5,2004-12-13,3,Georgia Tech*,3,NC,ACC
+5,2004-12-13,4,Oklahoma State* T,5,1,Big 12
+5,2004-12-13,5,Wake Forest*,7,2,ACC
+5,2004-12-13,6,North Carolina* RFN,8,2,ACC
+5,2004-12-13,7,Duke* T,9,2,ACC
+5,2004-12-13,8,Syracuse* T,4,4,Big East
+5,2004-12-13,9,North Carolina State*,10,1,ACC
+5,2004-12-13,10,Pittsburgh*,12,2,Big East
+5,2004-12-13,11,Kentucky* R,11,NC,SEC
+5,2004-12-13,12,Texas*,13,1,Big 12
+5,2004-12-13,13,Connecticut* R,6,7,Big East
+5,2004-12-13,14,Louisville* RTF,14,NC,CUSA
+5,2004-12-13,15,Alabama* R,18,3,SEC
+5,2004-12-13,16,Arizona* R,15,1,Pac-10
+5,2004-12-13,17,Cincinnati*,20,3,CUSA
+5,2004-12-13,18,Michigan State* F,16,2,Big Ten
+5,2004-12-13,19,Maryland,17,2,ACC
+5,2004-12-13,20,Washington* T,21,1,Pac-10
+5,2004-12-13,21,Iowa*,24,3,Big Ten
+5,2004-12-13,22,George Washington* RT,25,3,A-10
+5,2004-12-13,23,Virginia,19,4,ACC
+5,2004-12-13,24,Mississippi State*,23,1,SEC
+5,2004-12-13,25,Marquette,,,CUSA
+Wk,Date,Rk,School,Prev,Chng,Conf
+4,2004-12-06,1,Illinois* RTF,3,2,Big Ten
+4,2004-12-06,2,Kansas* R,2,NC,Big 12
+4,2004-12-06,3,Georgia Tech*,4,1,ACC
+4,2004-12-06,4,Syracuse* T,5,1,Big East
+4,2004-12-06,5,Oklahoma State* T,7,2,Big 12
+4,2004-12-06,6,Connecticut* R,6,NC,Big East
+4,2004-12-06,7,Wake Forest*,1,6,ACC
+4,2004-12-06,8,North Carolina* RFN,11,3,ACC
+4,2004-12-06,9,Duke* T,10,1,ACC
+4,2004-12-06,10,North Carolina State*,13,3,ACC
+4,2004-12-06,11,Kentucky* R,8,3,SEC
+4,2004-12-06,12,Pittsburgh*,14,2,Big East
+4,2004-12-06,13,Texas*,15,2,Big 12
+4,2004-12-06,14,Louisville* RTF,17,3,CUSA
+4,2004-12-06,15,Arizona* R,20,5,Pac-10
+4,2004-12-06,16,Michigan State* F,9,7,Big Ten
+4,2004-12-06,17,Maryland,12,5,ACC
+4,2004-12-06,18,Alabama* R,22,4,SEC
+4,2004-12-06,19,Virginia,25,6,ACC
+4,2004-12-06,20,Cincinnati*,24,4,CUSA
+4,2004-12-06,21,Washington* T,16,5,Pac-10
+4,2004-12-06,22,Wisconsin*,23,1,Big Ten
+4,2004-12-06,23,Mississippi State*,21,2,SEC
+4,2004-12-06,24,Iowa*,,,Big Ten
+4,2004-12-06,25,George Washington* RT,,,A-10
+Wk,Date,Rk,School,Prev,Chng,Conf
+3,2004-11-29,1,Wake Forest*,1,NC,ACC
+3,2004-11-29,2,Kansas* R,2,NC,Big 12
+3,2004-11-29,3,Illinois* RTF,4,1,Big Ten
+3,2004-11-29,4,Georgia Tech*,3,1,ACC
+3,2004-11-29,5,Syracuse* T,5,NC,Big East
+3,2004-11-29,6,Connecticut* R,6,NC,Big East
+3,2004-11-29,7,Oklahoma State* T,7,NC,Big 12
+3,2004-11-29,8,Kentucky* R,8,NC,SEC
+3,2004-11-29,9,Michigan State* F,9,NC,Big Ten
+3,2004-11-29,10,Duke* T,10,NC,ACC
+3,2004-11-29,11,North Carolina* RFN,12,1,ACC
+3,2004-11-29,12,Maryland,14,2,ACC
+3,2004-11-29,13,North Carolina State*,16,3,ACC
+3,2004-11-29,14,Pittsburgh*,15,1,Big East
+3,2004-11-29,15,Texas*,13,2,Big 12
+3,2004-11-29,16,Washington* T,23,7,Pac-10
+3,2004-11-29,17,Louisville* RTF,11,6,CUSA
+3,2004-11-29,18,Florida* T,22,4,SEC
+3,2004-11-29,19,Notre Dame,21,2,Big East
+3,2004-11-29,20,Arizona* R,17,3,Pac-10
+3,2004-11-29,21,Mississippi State*,20,1,SEC
+3,2004-11-29,22,Alabama* R,19,3,SEC
+3,2004-11-29,23,Wisconsin*,18,5,Big Ten
+3,2004-11-29,24,Cincinnati*,,,CUSA
+3,2004-11-29,25,Virginia,,,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+2,2004-11-22,1,Wake Forest*,2,1,ACC
+2,2004-11-22,2,Kansas* R,1,1,Big 12
+2,2004-11-22,3,Georgia Tech*,4,1,ACC
+2,2004-11-22,4,Illinois* RTF,5,1,Big Ten
+2,2004-11-22,5,Syracuse* T,6,1,Big East
+2,2004-11-22,6,Connecticut* R,7,1,Big East
+2,2004-11-22,7,Oklahoma State* T,8,1,Big 12
+2,2004-11-22,8,Kentucky* R,9,1,SEC
+2,2004-11-22,9,Michigan State* F,10,1,Big Ten
+2,2004-11-22,10,Duke* T,12,2,ACC
+2,2004-11-22,11,Louisville* RTF,13,2,CUSA
+2,2004-11-22,12,North Carolina* RFN,3,9,ACC
+2,2004-11-22,13,Texas*,15,2,Big 12
+2,2004-11-22,14,Maryland,16,2,ACC
+2,2004-11-22,15,Pittsburgh*,17,2,Big East
+2,2004-11-22,16,North Carolina State*,19,3,ACC
+2,2004-11-22,17,Arizona* R,11,6,Pac-10
+2,2004-11-22,18,Wisconsin*,20,2,Big Ten
+2,2004-11-22,19,Alabama* R,18,1,SEC
+2,2004-11-22,20,Mississippi State*,14,6,SEC
+2,2004-11-22,21,Notre Dame,21,NC,Big East
+2,2004-11-22,22,Florida* T,22,NC,SEC
+2,2004-11-22,23,Washington* T,24,1,Pac-10
+2,2004-11-22,24,Memphis,23,1,CUSA
+2,2004-11-22,25,Gonzaga* RT,,,WCC
+Wk,Date,Rk,School,Prev,Chng,Conf
+1,Preseason,1,Kansas* R,NA,—,Big 12
+1,Preseason,2,Wake Forest*,NA,—,ACC
+1,Preseason,3,North Carolina* RFN,NA,—,ACC
+1,Preseason,4,Georgia Tech*,NA,—,ACC
+1,Preseason,5,Illinois* RTF,NA,—,Big Ten
+1,Preseason,6,Syracuse* T,NA,—,Big East
+1,Preseason,7,Connecticut* R,NA,—,Big East
+1,Preseason,8,Oklahoma State* T,NA,—,Big 12
+1,Preseason,9,Kentucky* R,NA,—,SEC
+1,Preseason,10,Michigan State* F,NA,—,Big Ten
+1,Preseason,11,Arizona* R,NA,—,Pac-10
+1,Preseason,12,Duke* T,NA,—,ACC
+1,Preseason,13,Louisville* RTF,NA,—,CUSA
+1,Preseason,14,Mississippi State*,NA,—,SEC
+1,Preseason,15,Texas*,NA,—,Big 12
+1,Preseason,16,Maryland,NA,—,ACC
+1,Preseason,17,Pittsburgh*,NA,—,Big East
+1,Preseason,18,Alabama* R,NA,—,SEC
+1,Preseason,19,North Carolina State*,NA,—,ACC
+1,Preseason,20,Wisconsin*,NA,—,Big Ten
+1,Preseason,21,Notre Dame,NA,—,Big East
+1,Preseason,22,Florida* T,NA,—,SEC
+1,Preseason,23,Memphis,NA,—,CUSA
+1,Preseason,24,Washington* T,NA,—,Pac-10
+1,Preseason,25,Stanford*,NA,—,Pac-10

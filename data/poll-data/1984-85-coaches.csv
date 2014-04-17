@@ -1,0 +1,338 @@
+Wk,Date,Rk,School,Prev,Chng,Conf
+16,Final,1,Georgetown* TF,1,NC,Big East
+16,Final,2,Michigan* R,3,1,Big Ten
+16,Final,3,St. John's (NY)* RF,2,1,Big East
+16,Final,4,Memphis* RTF,4,NC,Metro
+16,Final,5,Oklahoma* RT,5,NC,Big 8
+16,Final,6,Georgia Tech* RT,11,5,ACC
+16,Final,7,North Carolina* R,7,NC,ACC
+16,Final,8,Louisiana Tech* RT,6,2,Southland
+16,Final,9,Nevada-Las Vegas* RT,10,1,PCAA
+16,Final,10,Illinois*,14,4,Big Ten
+16,Final,11,Virginia Commonwealth* RT,15,4,Sun Belt
+16,Final,12,Duke*,9,3,ACC
+16,Final,13,Kansas*,8,5,Big 8
+16,Final,14,Tulsa* R,13,1,MVC
+16,Final,15,Syracuse*,12,3,Big East
+16,Final,16,Texas Tech* RT,,,SWC
+16,Final,17,Loyola (IL)* RT,18,1,MW City
+16,Final,18,North Carolina State* R,17,1,ACC
+16,Final,19,Louisiana State* R,19,NC,SEC
+16,Final,20,Michigan State*,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+15,1985-03-05,1,Georgetown* TF,2,1,Big East
+15,1985-03-05,2,St. John's (NY)* RF,1,1,Big East
+15,1985-03-05,3,Michigan* R,3,NC,Big Ten
+15,1985-03-05,4,Memphis* RTF,4,NC,Metro
+15,1985-03-05,5,Oklahoma* RT,6,1,Big 8
+15,1985-03-05,6,Louisiana Tech* RT,7,1,Southland
+15,1985-03-05,7,North Carolina* R,11,4,ACC
+15,1985-03-05,8,Kansas*,8,NC,Big 8
+15,1985-03-05,9,Duke*,5,4,ACC
+15,1985-03-05,10,Nevada-Las Vegas* RT,10,NC,PCAA
+15,1985-03-05,11,Georgia Tech* RT,13,2,ACC
+15,1985-03-05,12,Syracuse*,12,NC,Big East
+15,1985-03-05,13,Tulsa* R,14,1,MVC
+15,1985-03-05,14,Illinois*,16,2,Big Ten
+15,1985-03-05,15,Virginia Commonwealth* RT,18,3,Sun Belt
+15,1985-03-05,16,Southern Methodist*,9,7,SWC
+15,1985-03-05,17,North Carolina State* R,19,2,ACC
+15,1985-03-05,18,Loyola (IL)* RT,,,MW City
+15,1985-03-05,19,Louisiana State* R,20,1,SEC
+15,1985-03-05,20,Georgia*,15,5,SEC
+Wk,Date,Rk,School,Prev,Chng,Conf
+14,1985-02-26,1,St. John's (NY)* RF,1,NC,Big East
+14,1985-02-26,2,Georgetown* TF,2,NC,Big East
+14,1985-02-26,3,Michigan* R,6,3,Big Ten
+14,1985-02-26,4,Memphis* RTF,4,NC,Metro
+14,1985-02-26,5,Duke*,5,NC,ACC
+14,1985-02-26,6,Oklahoma* RT,3,3,Big 8
+14,1985-02-26,7,Louisiana Tech* RT,10,3,Southland
+14,1985-02-26,8,Kansas*,13,5,Big 8
+14,1985-02-26,9,Southern Methodist*,8,1,SWC
+14,1985-02-26,10,Nevada-Las Vegas* RT,11,1,PCAA
+14,1985-02-26,11,North Carolina* R,15,4,ACC
+14,1985-02-26,12,Syracuse*,7,5,Big East
+14,1985-02-26,13,Georgia Tech* RT,9,4,ACC
+14,1985-02-26,14,Tulsa* R,12,2,MVC
+14,1985-02-26,15,Georgia*,,,SEC
+14,1985-02-26,16,Illinois*,14,2,Big Ten
+14,1985-02-26,17,Arizona*,,,Pac-10
+14,1985-02-26,18,Virginia Commonwealth* RT,18,NC,Sun Belt
+14,1985-02-26,19,North Carolina State* R,,,ACC
+14,1985-02-26,20,Louisiana State* R,,,SEC
+Wk,Date,Rk,School,Prev,Chng,Conf
+13,1985-02-19,1,St. John's (NY)* RF,1,NC,Big East
+13,1985-02-19,2,Georgetown* TF,2,NC,Big East
+13,1985-02-19,3,Oklahoma* RT,5,2,Big 8
+13,1985-02-19,4,Memphis* RTF,3,1,Metro
+13,1985-02-19,5,Duke*,4,1,ACC
+13,1985-02-19,6,Michigan* R,7,1,Big Ten
+13,1985-02-19,7,Syracuse*,8,1,Big East
+13,1985-02-19,8,Southern Methodist*,9,1,SWC
+13,1985-02-19,9,Georgia Tech* RT,5,4,ACC
+13,1985-02-19,10,Louisiana Tech* RT,13,3,Southland
+13,1985-02-19,11,Nevada-Las Vegas* RT,16,5,PCAA
+13,1985-02-19,12,Tulsa* R,14,2,MVC
+13,1985-02-19,13,Kansas*,10,3,Big 8
+13,1985-02-19,14,Illinois*,15,1,Big Ten
+13,1985-02-19,15,North Carolina* R,12,3,ACC
+13,1985-02-19,16,Iowa*,11,5,Big Ten
+13,1985-02-19,17,Oregon State*,17,NC,Pac-10
+13,1985-02-19,18,Virginia Commonwealth* RT,,,Sun Belt
+13,1985-02-19,19,Maryland*,19,NC,ACC
+13,1985-02-19,20,Alabama-Birmingham*,,,Sun Belt
+13,1985-02-19,20,Southern California* R,,,Pac-10
+Wk,Date,Rk,School,Prev,Chng,Conf
+12,1985-02-12,1,St. John's (NY)* RF,1,NC,Big East
+12,1985-02-12,2,Georgetown* TF,2,NC,Big East
+12,1985-02-12,3,Memphis* RTF,3,NC,Metro
+12,1985-02-12,4,Duke*,5,1,ACC
+12,1985-02-12,5,Georgia Tech* RT,7,2,ACC
+12,1985-02-12,5,Oklahoma* RT,9,4,Big 8
+12,1985-02-12,7,Michigan* R,10,3,Big Ten
+12,1985-02-12,8,Syracuse*,8,NC,Big East
+12,1985-02-12,9,Southern Methodist*,4,5,SWC
+12,1985-02-12,10,Kansas*,14,4,Big 8
+12,1985-02-12,11,Iowa*,13,2,Big Ten
+12,1985-02-12,12,North Carolina* R,15,3,ACC
+12,1985-02-12,13,Louisiana Tech* RT,16,3,Southland
+12,1985-02-12,14,Tulsa* R,17,3,MVC
+12,1985-02-12,15,Illinois*,6,9,Big Ten
+12,1985-02-12,16,Nevada-Las Vegas* RT,12,4,PCAA
+12,1985-02-12,17,Oregon State*,11,6,Pac-10
+12,1985-02-12,18,Villanova* FN,18,NC,Big East
+12,1985-02-12,19,Maryland*,19,NC,ACC
+12,1985-02-12,20,DePaul*,,,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+11,1985-02-05,1,St. John's (NY)* RF,1,NC,Big East
+11,1985-02-05,2,Georgetown* TF,2,NC,Big East
+11,1985-02-05,3,Memphis* RTF,3,NC,Metro
+11,1985-02-05,4,Southern Methodist*,4,NC,SWC
+11,1985-02-05,5,Duke*,5,NC,ACC
+11,1985-02-05,6,Illinois*,7,1,Big Ten
+11,1985-02-05,7,Georgia Tech* RT,9,2,ACC
+11,1985-02-05,8,Syracuse*,8,NC,Big East
+11,1985-02-05,9,Oklahoma* RT,6,3,Big 8
+11,1985-02-05,10,Michigan* R,11,1,Big Ten
+11,1985-02-05,11,Oregon State*,12,1,Pac-10
+11,1985-02-05,12,Nevada-Las Vegas* RT,13,1,PCAA
+11,1985-02-05,13,Iowa*,,,Big Ten
+11,1985-02-05,14,Kansas*,20,6,Big 8
+11,1985-02-05,15,North Carolina* R,14,1,ACC
+11,1985-02-05,16,Louisiana Tech* RT,16,NC,Southland
+11,1985-02-05,17,Tulsa* R,10,7,MVC
+11,1985-02-05,18,Villanova* FN,18,NC,Big East
+11,1985-02-05,19,Maryland*,17,2,ACC
+11,1985-02-05,20,Alabama-Birmingham*,19,1,Sun Belt
+Wk,Date,Rk,School,Prev,Chng,Conf
+10,1985-01-29,1,St. John's (NY)* RF,3,2,Big East
+10,1985-01-29,2,Georgetown* TF,1,1,Big East
+10,1985-01-29,3,Memphis* RTF,4,1,Metro
+10,1985-01-29,4,Southern Methodist*,2,2,SWC
+10,1985-01-29,5,Duke*,5,NC,ACC
+10,1985-01-29,6,Oklahoma* RT,7,1,Big 8
+10,1985-01-29,7,Illinois*,6,1,Big Ten
+10,1985-01-29,8,Syracuse*,12,4,Big East
+10,1985-01-29,9,Georgia Tech* RT,17,8,ACC
+10,1985-01-29,10,Tulsa* R,16,6,MVC
+10,1985-01-29,11,Michigan* R,,,Big Ten
+10,1985-01-29,12,Oregon State*,8,4,Pac-10
+10,1985-01-29,13,Nevada-Las Vegas* RT,19,6,PCAA
+10,1985-01-29,14,North Carolina* R,9,5,ACC
+10,1985-01-29,15,DePaul*,10,5,Ind
+10,1985-01-29,16,Louisiana Tech* RT,11,5,Southland
+10,1985-01-29,17,Maryland*,,,ACC
+10,1985-01-29,18,Villanova* FN,15,3,Big East
+10,1985-01-29,19,Alabama-Birmingham*,19,NC,Sun Belt
+10,1985-01-29,20,Kansas*,14,6,Big 8
+Wk,Date,Rk,School,Prev,Chng,Conf
+9,1985-01-22,1,Georgetown* TF,1,NC,Big East
+9,1985-01-22,2,Southern Methodist*,3,1,SWC
+9,1985-01-22,3,St. John's (NY)* RF,4,1,Big East
+9,1985-01-22,4,Memphis* RTF,5,1,Metro
+9,1985-01-22,5,Duke*,2,3,ACC
+9,1985-01-22,6,Illinois*,13,7,Big Ten
+9,1985-01-22,7,Oklahoma* RT,10,3,Big 8
+9,1985-01-22,8,Oregon State*,11,3,Pac-10
+9,1985-01-22,9,North Carolina* R,7,2,ACC
+9,1985-01-22,10,DePaul*,14,4,Ind
+9,1985-01-22,11,Louisiana Tech* RT,12,1,Southland
+9,1985-01-22,12,Syracuse*,6,6,Big East
+9,1985-01-22,13,Indiana,9,4,Big Ten
+9,1985-01-22,14,Kansas*,8,6,Big 8
+9,1985-01-22,15,Villanova* FN,16,1,Big East
+9,1985-01-22,16,Tulsa* R,20,4,MVC
+9,1985-01-22,17,Georgia Tech* RT,15,2,ACC
+9,1985-01-22,18,Washington* R,,,Pac-10
+9,1985-01-22,19,Nevada-Las Vegas* RT,,,PCAA
+9,1985-01-22,19,Alabama-Birmingham*,,,Sun Belt
+Wk,Date,Rk,School,Prev,Chng,Conf
+8,1985-01-15,1,Georgetown* TF,1,NC,Big East
+8,1985-01-15,2,Duke*,2,NC,ACC
+8,1985-01-15,3,Southern Methodist*,3,NC,SWC
+8,1985-01-15,4,St. John's (NY)* RF,4,NC,Big East
+8,1985-01-15,5,Memphis* RTF,5,NC,Metro
+8,1985-01-15,6,Syracuse*,8,2,Big East
+8,1985-01-15,7,North Carolina* R,6,1,ACC
+8,1985-01-15,8,Kansas*,9,1,Big 8
+8,1985-01-15,9,Indiana,11,2,Big Ten
+8,1985-01-15,10,Oklahoma* RT,7,3,Big 8
+8,1985-01-15,11,Oregon State*,12,1,Pac-10
+8,1985-01-15,12,Louisiana Tech* RT,13,1,Southland
+8,1985-01-15,13,Illinois*,16,3,Big Ten
+8,1985-01-15,14,DePaul*,15,1,Ind
+8,1985-01-15,15,Georgia Tech* RT,10,5,ACC
+8,1985-01-15,16,Villanova* FN,20,4,Big East
+8,1985-01-15,17,Boston College*,17,NC,Big East
+8,1985-01-15,18,Michigan State*,14,4,Big Ten
+8,1985-01-15,19,Virginia Commonwealth* RT,,,Sun Belt
+8,1985-01-15,20,Tulsa* R,,,MVC
+Wk,Date,Rk,School,Prev,Chng,Conf
+7,1985-01-08,1,Georgetown* TF,1,NC,Big East
+7,1985-01-08,2,Duke*,2,NC,ACC
+7,1985-01-08,3,Southern Methodist*,8,5,SWC
+7,1985-01-08,4,St. John's (NY)* RF,4,NC,Big East
+7,1985-01-08,5,Memphis* RTF,3,2,Metro
+7,1985-01-08,6,North Carolina* R,9,3,ACC
+7,1985-01-08,7,Oklahoma* RT,14,7,Big 8
+7,1985-01-08,8,Syracuse*,5,3,Big East
+7,1985-01-08,9,Kansas*,11,2,Big 8
+7,1985-01-08,10,Georgia Tech* RT,7,3,ACC
+7,1985-01-08,11,Indiana,12,1,Big Ten
+7,1985-01-08,12,Oregon State*,,,Pac-10
+7,1985-01-08,13,Louisiana Tech* RT,18,5,Southland
+7,1985-01-08,14,Michigan State*,,,Big Ten
+7,1985-01-08,15,DePaul*,10,5,Ind
+7,1985-01-08,16,Illinois*,6,10,Big Ten
+7,1985-01-08,17,Boston College*,,,Big East
+7,1985-01-08,18,Louisiana State* R,15,3,SEC
+7,1985-01-08,19,Washington* R,13,6,Pac-10
+7,1985-01-08,20,Villanova* FN,,,Big East
+Wk,Date,Rk,School,Prev,Chng,Conf
+6,1985-01-01,1,Georgetown* TF,1,NC,Big East
+6,1985-01-01,2,Duke*,2,NC,ACC
+6,1985-01-01,3,Memphis* RTF,4,1,Metro
+6,1985-01-01,4,St. John's (NY)* RF,8,4,Big East
+6,1985-01-01,5,Syracuse*,6,1,Big East
+6,1985-01-01,6,Illinois*,7,1,Big Ten
+6,1985-01-01,7,Georgia Tech* RT,13,6,ACC
+6,1985-01-01,8,Southern Methodist*,3,5,SWC
+6,1985-01-01,9,North Carolina* R,5,4,ACC
+6,1985-01-01,10,DePaul*,9,1,Ind
+6,1985-01-01,11,Kansas*,11,NC,Big 8
+6,1985-01-01,12,Indiana,10,2,Big Ten
+6,1985-01-01,13,Washington* R,12,1,Pac-10
+6,1985-01-01,14,Oklahoma* RT,17,3,Big 8
+6,1985-01-01,15,Louisiana State* R,19,4,SEC
+6,1985-01-01,16,Maryland*,20,4,ACC
+6,1985-01-01,17,Michigan* R,14,3,Big Ten
+6,1985-01-01,18,Louisiana Tech* RT,16,2,Southland
+6,1985-01-01,19,Virginia Commonwealth* RT,,,Sun Belt
+6,1985-01-01,20,Ohio State*,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+5,1984-12-25,1,Georgetown* TF,1,NC,Big East
+5,1984-12-25,2,Duke*,2,NC,ACC
+5,1984-12-25,3,Southern Methodist*,6,3,SWC
+5,1984-12-25,4,Memphis* RTF,4,NC,Metro
+5,1984-12-25,5,North Carolina* R,9,4,ACC
+5,1984-12-25,6,Syracuse*,10,4,Big East
+5,1984-12-25,7,Illinois*,3,4,Big Ten
+5,1984-12-25,8,St. John's (NY)* RF,8,NC,Big East
+5,1984-12-25,9,DePaul*,5,4,Ind
+5,1984-12-25,10,Indiana,14,4,Big Ten
+5,1984-12-25,11,Kansas*,12,1,Big 8
+5,1984-12-25,12,Washington* R,7,5,Pac-10
+5,1984-12-25,13,Georgia Tech* RT,13,NC,ACC
+5,1984-12-25,14,Michigan* R,20,6,Big Ten
+5,1984-12-25,15,Arkansas*,16,1,SWC
+5,1984-12-25,16,Louisiana Tech* RT,,,Southland
+5,1984-12-25,17,Oklahoma* RT,11,6,Big 8
+5,1984-12-25,18,Virginia Tech*,,,Metro
+5,1984-12-25,19,Louisiana State* R,19,NC,SEC
+5,1984-12-25,20,Maryland*,18,2,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+4,1984-12-18,1,Georgetown* TF,1,NC,Big East
+4,1984-12-18,2,Duke*,3,1,ACC
+4,1984-12-18,3,Illinois*,6,3,Big Ten
+4,1984-12-18,4,Memphis* RTF,5,1,Metro
+4,1984-12-18,5,DePaul*,2,3,Ind
+4,1984-12-18,6,Southern Methodist*,7,1,SWC
+4,1984-12-18,7,Washington* R,9,2,Pac-10
+4,1984-12-18,8,St. John's (NY)* RF,4,4,Big East
+4,1984-12-18,9,North Carolina* R,12,3,ACC
+4,1984-12-18,10,Syracuse*,10,NC,Big East
+4,1984-12-18,11,Oklahoma* RT,12,1,Big 8
+4,1984-12-18,12,Kansas*,15,3,Big 8
+4,1984-12-18,13,Georgia Tech* RT,14,1,ACC
+4,1984-12-18,14,Indiana,16,2,Big Ten
+4,1984-12-18,15,Louisville,17,2,Metro
+4,1984-12-18,16,Arkansas*,20,4,SWC
+4,1984-12-18,17,North Carolina State* R,8,9,ACC
+4,1984-12-18,18,Maryland*,,,ACC
+4,1984-12-18,19,Louisiana State* R,19,NC,SEC
+4,1984-12-18,20,Michigan* R,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+3,1984-12-11,1,Georgetown* TF,1,NC,Big East
+3,1984-12-11,2,DePaul*,2,NC,Ind
+3,1984-12-11,3,Duke*,4,1,ACC
+3,1984-12-11,4,St. John's (NY)* RF,3,1,Big East
+3,1984-12-11,5,Memphis* RTF,6,1,Metro
+3,1984-12-11,6,Illinois*,5,1,Big Ten
+3,1984-12-11,7,Southern Methodist*,9,2,SWC
+3,1984-12-11,8,North Carolina State* R,10,2,ACC
+3,1984-12-11,9,Washington* R,8,1,Pac-10
+3,1984-12-11,10,Syracuse*,13,3,Big East
+3,1984-12-11,11,Virginia Tech*,19,8,Metro
+3,1984-12-11,12,Oklahoma* RT,16,4,Big 8
+3,1984-12-11,12,North Carolina* R,18,6,ACC
+3,1984-12-11,14,Georgia Tech* RT,14,NC,ACC
+3,1984-12-11,15,Kansas*,17,2,Big 8
+3,1984-12-11,16,Indiana,12,4,Big Ten
+3,1984-12-11,17,Louisville,7,10,Metro
+3,1984-12-11,18,Alabama-Birmingham*,15,3,Sun Belt
+3,1984-12-11,19,Louisiana State* R,11,8,SEC
+3,1984-12-11,20,Louisiana Tech* RT,,,Southland
+3,1984-12-11,20,Arkansas*,,,SWC
+Wk,Date,Rk,School,Prev,Chng,Conf
+2,1984-12-04,1,Georgetown* TF,1,NC,Big East
+2,1984-12-04,2,DePaul*,2,NC,Ind
+2,1984-12-04,3,St. John's (NY)* RF,3,NC,Big East
+2,1984-12-04,4,Duke*,6,2,ACC
+2,1984-12-04,5,Illinois*,5,NC,Big Ten
+2,1984-12-04,6,Memphis* RTF,7,1,Metro
+2,1984-12-04,7,Louisville,4,3,Metro
+2,1984-12-04,8,Washington* R,9,1,Pac-10
+2,1984-12-04,9,Southern Methodist*,8,1,SWC
+2,1984-12-04,10,North Carolina State* R,12,2,ACC
+2,1984-12-04,11,Louisiana State* R,14,3,SEC
+2,1984-12-04,12,Indiana,13,1,Big Ten
+2,1984-12-04,13,Syracuse*,,,Big East
+2,1984-12-04,14,Georgia Tech* RT,,,ACC
+2,1984-12-04,15,Alabama-Birmingham*,11,4,Sun Belt
+2,1984-12-04,16,Oklahoma* RT,10,6,Big 8
+2,1984-12-04,17,Kansas*,15,2,Big 8
+2,1984-12-04,18,North Carolina* R,19,1,ACC
+2,1984-12-04,19,Virginia Tech*,20,1,Metro
+2,1984-12-04,20,Nevada-Las Vegas* RT,16,4,PCAA
+Wk,Date,Rk,School,Prev,Chng,Conf
+1,1984-11-27,1,Georgetown* TF,NA,—,Big East
+1,1984-11-27,2,DePaul*,NA,—,Ind
+1,1984-11-27,3,St. John's (NY)* RF,NA,—,Big East
+1,1984-11-27,4,Louisville,NA,—,Metro
+1,1984-11-27,5,Illinois*,NA,—,Big Ten
+1,1984-11-27,6,Duke*,NA,—,ACC
+1,1984-11-27,7,Memphis* RTF,NA,—,Metro
+1,1984-11-27,8,Southern Methodist*,NA,—,SWC
+1,1984-11-27,9,Washington* R,NA,—,Pac-10
+1,1984-11-27,10,Oklahoma* RT,NA,—,Big 8
+1,1984-11-27,11,Alabama-Birmingham*,NA,—,Sun Belt
+1,1984-11-27,12,North Carolina State* R,NA,—,ACC
+1,1984-11-27,13,Indiana,NA,—,Big Ten
+1,1984-11-27,14,Louisiana State* R,NA,—,SEC
+1,1984-11-27,15,Kansas*,NA,—,Big 8
+1,1984-11-27,16,Nevada-Las Vegas* RT,NA,—,PCAA
+1,1984-11-27,17,Kentucky*,NA,—,SEC
+1,1984-11-27,18,Arkansas*,NA,—,SWC
+1,1984-11-27,19,North Carolina* R,NA,—,ACC
+1,1984-11-27,20,Virginia Tech*,NA,—,Metro

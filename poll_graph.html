@@ -44,9 +44,45 @@
 <tr>
 <td rowspan="2">
 <form>
-<label><input type="radio" name="pollSelect" value="ap" onClick='displayPoll("ap")' checked> Associated Press</label>
+<label><input type="radio" name="pollSelect" value="ap" onClick='displayPoll("AP")' checked> Associated Press</label>
 <label><input type="radio" name="pollSelect" value="coaches" onClick='displayPoll("coaches")'/> Coaches/USA Today</label>
 <label><input type="radio" name="pollSelect" value="rpi" onClick='displayPoll("rpi")'/> RPI</label>
+&nbsp;&nbsp;
+<select id="yearselect" autofocus>
+	<option value="1980-81" onClick='displayPoll("AP","1980-81")'>1980-81</option>
+	<option value="1981-82" onClick='displayPoll("AP","1981-82")'>1981-82</option>
+	<option value="1982-83" onClick='displayPoll("AP","1982-83")'>1982-83</option>
+	<option value="1983-84" onClick='displayPoll("AP","1983-84")'>1983-84</option>
+	<option value="1984-85" onClick='displayPoll("AP","1984-85")'>1984-85</option>
+	<option value="1985-86" onClick='displayPoll("AP","1985-86")'>1985-86</option>
+	<option value="1986-87" onClick='displayPoll("AP","1986-87")'>1986-87</option>
+	<option value="1987-88" onClick='displayPoll("AP","1987-88")'>1987-88</option>
+	<option value="1988-89" onClick='displayPoll("AP","1988-89")'>1988-89</option>
+	<option value="1989-90" onClick='displayPoll("AP","1989-90")'>1989-90</option>
+	<option value="1990-91" onClick='displayPoll("AP","1990-91")'>1990-91</option>
+	<option value="1991-92" onClick='displayPoll("AP","1991-92")'>1991-92</option>
+	<option value="1992-93" onClick='displayPoll("AP","1992-93")'>1992-93</option>
+	<option value="1993-94" onClick='displayPoll("AP","1993-94")'>1993-94</option>
+	<option value="1994-95" onClick='displayPoll("AP","1994-95")'>1994-95</option>
+	<option value="1995-96" onClick='displayPoll("AP","1995-96")'>1995-96</option>
+	<option value="1996-97" onClick='displayPoll("AP","1996-97")'>1996-97</option>
+	<option value="1997-98" onClick='displayPoll("AP","1997-98")'>1997-98</option>
+	<option value="1998-99" onClick='displayPoll("AP","1998-99")'>1998-99</option>
+	<option value="1999-00" onClick='displayPoll("AP","1999-00")'>1999-00</option>
+	<option value="2000-01" onClick='displayPoll("AP","2000-01")'>2000-01</option>
+	<option value="2001-02" onClick='displayPoll("AP","2001-02")'>2001-02</option>
+	<option value="2002-03" onClick='displayPoll("AP","2002-03")'>2002-03</option>
+	<option value="2003-04" onClick='displayPoll("AP","2003-04")'>2003-04</option>
+	<option value="2004-05" onClick='displayPoll("AP","2004-05")'>2004-05</option>
+	<option value="2005-06" onClick='displayPoll("AP","2005-06")'>2005-06</option>
+	<option value="2006-07" onClick='displayPoll("AP","2006-07")'>2006-07</option>
+	<option value="2007-08" onClick='displayPoll("AP","2007-08")'>2007-08</option>
+	<option value="2008-09" onClick='displayPoll("AP","2008-09")'>2008-09</option>
+	<option value="2009-10" onClick='displayPoll("AP","2009-10")'>2009-10</option>
+	<option value="2010-11" onClick='displayPoll("AP","2010-11")'>2010-11</option>
+	<option value="2011-12" onClick='displayPoll("AP","2011-12")'>2011-12</option>
+	<option value="2012-13" onClick='displayPoll("AP","2012-13")' selected>2012-13</option>
+</select>
 </form>
 <div id="pollgraph"></div></td>
 <td valign="top"><div id="confBar"></div></td>
@@ -56,6 +92,18 @@
 </tr>
 </table>
 <script type="text/javascript">
+
+var mapteams = { 
+				"Louisiana State": "LSU", 
+				"St. John's (NY)": "St. John's", 
+				"Southern California": "USC", 
+				"Nevada-Las Vegas": "UNLV",
+				"Texas-El Paso": "UTEP",
+				"Central Florida": "UCF",
+				"Alabama-Birmingham": "UAB",
+				"College of Charleston": "Charleston",
+				"Loyola (IL)": "Loyola Chicago",
+				"Texas Christian": "TCU"};
 
 var margin = {
 	top:10,
@@ -78,6 +126,7 @@ var teams = {};
 var teamlines = [];
 var weeks = [];
 var conferences = {};
+var currentYear;
 
 origStroke = 3;
 hoverStroke = 10;
@@ -109,8 +158,15 @@ var externalschool;
 
 var moversObj = {};
 
-function displayPoll(thePoll) {
-	thePollPath = polls[thePoll];
+function displayPoll(thePoll, year) {
+	baseUrl = "data/poll-data/";
+	if (year === undefined) {
+		year = currentYear;
+	} else {
+		currentYear = year;
+	}
+	thePollPath = baseUrl + year + "-" + thePoll + ".csv";
+	// thePollPath = polls[thePoll];
 
 //d3.csv("data/poll-data/2012-13-AP.csv", function(error, data) {
 d3.csv(thePollPath, function(error, data) {
@@ -155,6 +211,10 @@ d3.csv(thePollPath, function(error, data) {
 				school = school.substring(0,lastIndex-1);
 				line.School = school;
 			}
+		}
+		if (mapteams[school] !== undefined) {
+			console.log("             ",mapteams[school]);
+			school = mapteams[school];
 		}
 		if (teams[school]) {
 			teams[school].push(line);
@@ -282,7 +342,7 @@ d3.csv(thePollPath, function(error, data) {
 				var thePath = d3.select(this);
 				//thepath.style("stroke-width", hoverStroke);
 				theClass = getClassFromPath(thePath);
-				console.log(theClass);
+				//console.log(theClass);
 				tip.show(theClass);
 				return highlightPath(thePath);
 			})
@@ -307,7 +367,7 @@ d3.csv(thePollPath, function(error, data) {
 				.on("mouseover", function() {
 					//thisSchool = this.indexOf
 					theSchool = this.innerHTML;
-					console.log(theSchool);
+					//console.log(theSchool);
 					theSchool = theSchool.substring((theSchool.indexOf(" ")+1));
 					//console.log(theSchool);
 					return highlightPath(null,theSchool);
@@ -330,23 +390,25 @@ d3.csv(thePollPath, function(error, data) {
 		.attr("transform", "translate("+margin.left+",0)")
 		.call(yaxis);
 
+	updateMoversTable(1);
+	updateConfBar(1);
 /*	svg.append("path")
 		.attr("d", teamline(teams["Gonzaga"]))
 		.style("fill", "none")
 		.style("stroke", "black");*/
 
 	//console.log(dataset);
-})
-}
+}) // end d3.csv
+} // end function
 
 var allPaths;
 
 function getClassFromPath(thePath) {
 	theClass = thePath[0][0].className.animVal;
-	console.log(theClass);
+	//console.log(theClass);
 	tpi = theClass.indexOf("teampath");
 	theClass = theClass.substring(1,(tpi-1));
-	console.log(theClass);
+	//console.log(theClass);
 	return theClass;
 }
 
@@ -367,7 +429,7 @@ function highlightPath(thePath,school) {
 	if (school) {
 		school = getIDsBy(undefined,undefined,undefined,school,undefined).espn_id;
 		school = "x" + school.toString();
-		console.log(school);
+		//console.log(school);
 		thePath = d3.select("path."+school);
 		thePath.style("stroke-width", hoverStroke)
 				.style("opacity", 1);
@@ -444,22 +506,36 @@ function updateMoversTable(week) {
 
 	moversTbody.selectAll("tr").remove();
 
-	moversRows = moversTbody.selectAll("tr")
-				.data(moversData)
-				.enter()
-				.append("tr");
+	if (moversData !== undefined) {
 
-	moversCells = moversRows.selectAll("td")
-				.data(function(row) {
-					return moversColumns.map(function(column) {
-						return {column: column, value: row[column]};
+		moversRows = moversTbody.selectAll("tr")
+					.data(moversData)
+					.enter()
+					.append("tr");
+
+		moversCells = moversRows.selectAll("td")
+					.data(function(row) {
+						return moversColumns.map(function(column) {
+							return {column: column, value: row[column]};
+						})
 					})
-				})
-				.enter()
-				.append("td")
-					.html(function(d) { return d.value; })
-					.attr("align", function(d,i) { return i===0?"left":"right"; })
+					.enter()
+					.append("td")
+						.html(function(d) { return d.value; })
+						.attr("align", function(d,i) { return i===0?"left":"right"; })
+	} else {
+		moversRows = moversTbody.selectAll("tr")
+						.data([1])
+						.enter()
+						.append("tr");
 
+		moversCells = moversRows.selectAll("td")
+					.data(["No changes in first week of season"])
+					.enter()
+					.append("td")
+						.html(function(d) { return d; })
+						.attr("colspan", 2);
+	}
 }
 
 function createConfBar() {
@@ -539,13 +615,20 @@ function backToNormal() {
 					.style("stroke-width", origStroke);
 }
 
+d3.select("#yearselect").on("change", change)
+function change() {
+	displayPoll("AP",d3.select("#yearselect").property("value"));
+	console.log(d3.select("#yearselect").property("value"));
+}
+
 //d3.select("input[value=\"ap\"]").on("click", displayPoll("ap"));
 //d3.select("input[value=\"coaches\"]").on("click", displayPoll("coaches"));
 
-displayPoll("ap");
 
 createConfBar();
 createMoversTable();
+displayPoll("AP", "2012-13");
+
 d3.select("body").append("div").attr("class", "d3-slider d3-slider-horizontal")//.style("margin-left", "35px");
 d3.select("div.d3-slider").call(d3.slider().axis(true).min(1).max(20).step(1).on("slide", function(evt, value) { updateConfBar(value); updateMoversTable(value); } ));
 //displayPoll("coaches");

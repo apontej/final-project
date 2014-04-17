@@ -1,0 +1,469 @@
+Wk,Date,Rk,School,Prev,Chng,Conf
+18,Final,1,North Carolina* T,4,3,ACC
+18,Final,2,Arkansas* RFN,1,1,SEC
+18,Final,3,Purdue* R,6,3,Big Ten
+18,Final,4,Connecticut* R,2,2,Big East
+18,Final,5,Missouri* R,3,2,Big 8
+18,Final,6,Duke* RF,5,1,ACC
+18,Final,7,Kentucky* RT,10,3,SEC
+18,Final,8,Massachusetts* RT,9,1,A-10
+18,Final,9,Arizona* RF,7,2,Pac-10
+18,Final,10,Louisville* RT,14,4,Metro
+18,Final,11,Michigan*,8,3,Big Ten
+18,Final,12,Temple*,12,NC,A-10
+18,Final,13,Kansas*,11,2,Big 8
+18,Final,14,Florida* RF,17,3,SEC
+18,Final,15,Syracuse*,13,2,Big East
+18,Final,16,California*,16,NC,Pac-10
+18,Final,17,UCLA*,15,2,Pac-10
+18,Final,18,Indiana*,18,NC,Big Ten
+18,Final,19,Oklahoma State*,23,4,Big 8
+18,Final,20,Texas* RT,25,5,SWC
+18,Final,21,Marquette* R,19,2,GMWC
+18,Final,22,Nebraska* T,,,Big 8
+18,Final,23,Minnesota*,20,3,Big Ten
+18,Final,24,Saint Louis*,21,3,GMWC
+18,Final,25,Cincinnati* T,,,GMWC
+Wk,Date,Rk,School,Prev,Chng,Conf
+17,1994-03-07,1,Arkansas* RFN,1,NC,SEC
+17,1994-03-07,2,Connecticut* R,4,2,Big East
+17,1994-03-07,3,Missouri* R,6,3,Big 8
+17,1994-03-07,4,North Carolina* T,5,1,ACC
+17,1994-03-07,5,Duke* RF,2,3,ACC
+17,1994-03-07,6,Purdue* R,9,3,Big Ten
+17,1994-03-07,7,Arizona* RF,8,1,Pac-10
+17,1994-03-07,8,Michigan*,3,5,Big Ten
+17,1994-03-07,9,Massachusetts* RT,11,2,A-10
+17,1994-03-07,10,Kentucky* RT,7,3,SEC
+17,1994-03-07,11,Kansas*,13,2,Big 8
+17,1994-03-07,12,Temple*,12,NC,A-10
+17,1994-03-07,13,Syracuse*,14,1,Big East
+17,1994-03-07,14,Louisville* RT,10,4,Metro
+17,1994-03-07,15,UCLA*,15,NC,Pac-10
+17,1994-03-07,16,California*,20,4,Pac-10
+17,1994-03-07,17,Florida* RF,19,2,SEC
+17,1994-03-07,18,Indiana*,17,1,Big Ten
+17,1994-03-07,19,Marquette* R,22,3,GMWC
+17,1994-03-07,20,Minnesota*,18,2,Big Ten
+17,1994-03-07,21,Saint Louis*,16,5,GMWC
+17,1994-03-07,22,Alabama-Birmingham*,24,2,GMWC
+17,1994-03-07,23,Oklahoma State*,21,2,Big 8
+17,1994-03-07,24,Pennsylvania* R,25,1,Ivy
+17,1994-03-07,25,Texas* RT,,,SWC
+Wk,Date,Rk,School,Prev,Chng,Conf
+16,1994-02-28,1,Arkansas* RFN,1,NC,SEC
+16,1994-02-28,2,Duke* RF,2,NC,ACC
+16,1994-02-28,3,Michigan*,3,NC,Big Ten
+16,1994-02-28,4,Connecticut* R,5,1,Big East
+16,1994-02-28,5,North Carolina* T,4,1,ACC
+16,1994-02-28,6,Missouri* R,6,NC,Big 8
+16,1994-02-28,7,Kentucky* RT,7,NC,SEC
+16,1994-02-28,8,Arizona* RF,9,1,Pac-10
+16,1994-02-28,9,Purdue* R,14,5,Big Ten
+16,1994-02-28,10,Louisville* RT,13,3,Metro
+16,1994-02-28,11,Massachusetts* RT,11,NC,A-10
+16,1994-02-28,12,Temple*,8,4,A-10
+16,1994-02-28,13,Kansas*,10,3,Big 8
+16,1994-02-28,14,Syracuse*,18,4,Big East
+16,1994-02-28,15,UCLA*,15,NC,Pac-10
+16,1994-02-28,16,Saint Louis*,19,3,GMWC
+16,1994-02-28,17,Indiana*,12,5,Big Ten
+16,1994-02-28,18,Minnesota*,20,2,Big Ten
+16,1994-02-28,19,Florida* RF,16,3,SEC
+16,1994-02-28,20,California*,17,3,Pac-10
+16,1994-02-28,21,Oklahoma State*,24,3,Big 8
+16,1994-02-28,22,Marquette* R,22,NC,GMWC
+16,1994-02-28,23,Boston College*,21,2,Big East
+16,1994-02-28,24,Alabama-Birmingham*,,,GMWC
+16,1994-02-28,25,Pennsylvania* R,,,Ivy
+Wk,Date,Rk,School,Prev,Chng,Conf
+15,1994-02-21,1,Arkansas* RFN,1,NC,SEC
+15,1994-02-21,2,Duke* RF,6,4,ACC
+15,1994-02-21,3,Michigan*,7,4,Big Ten
+15,1994-02-21,4,North Carolina* T,2,2,ACC
+15,1994-02-21,5,Connecticut* R,3,2,Big East
+15,1994-02-21,6,Missouri* R,12,6,Big 8
+15,1994-02-21,7,Kentucky* RT,11,4,SEC
+15,1994-02-21,8,Temple*,13,5,A-10
+15,1994-02-21,9,Arizona* RF,15,6,Pac-10
+15,1994-02-21,10,Kansas*,4,6,Big 8
+15,1994-02-21,11,Massachusetts* RT,10,1,A-10
+15,1994-02-21,12,Indiana*,16,4,Big Ten
+15,1994-02-21,13,Louisville* RT,5,8,Metro
+15,1994-02-21,14,Purdue* R,9,5,Big Ten
+15,1994-02-21,15,UCLA*,8,7,Pac-10
+15,1994-02-21,16,Florida* RF,17,1,SEC
+15,1994-02-21,17,California*,19,2,Pac-10
+15,1994-02-21,18,Syracuse*,14,4,Big East
+15,1994-02-21,19,Saint Louis*,18,1,GMWC
+15,1994-02-21,20,Minnesota*,20,NC,Big Ten
+15,1994-02-21,21,Boston College*,,,Big East
+15,1994-02-21,22,Marquette* R,22,NC,GMWC
+15,1994-02-21,23,Georgia Tech,25,2,ACC
+15,1994-02-21,24,Oklahoma State*,,,Big 8
+15,1994-02-21,25,New Mexico State* RT,,,Big West
+Wk,Date,Rk,School,Prev,Chng,Conf
+14,1994-02-14,1,Arkansas* RFN,3,2,SEC
+14,1994-02-14,2,North Carolina* T,1,1,ACC
+14,1994-02-14,3,Connecticut* R,6,3,Big East
+14,1994-02-14,4,Kansas*,5,1,Big 8
+14,1994-02-14,5,Louisville* RT,7,2,Metro
+14,1994-02-14,6,Duke* RF,2,4,ACC
+14,1994-02-14,7,Michigan*,11,4,Big Ten
+14,1994-02-14,8,UCLA*,9,1,Pac-10
+14,1994-02-14,9,Purdue* R,10,1,Big Ten
+14,1994-02-14,10,Massachusetts* RT,13,3,A-10
+14,1994-02-14,11,Kentucky* RT,4,7,SEC
+14,1994-02-14,12,Missouri* R,15,3,Big 8
+14,1994-02-14,13,Temple*,8,5,A-10
+14,1994-02-14,14,Syracuse*,14,NC,Big East
+14,1994-02-14,15,Arizona* RF,16,1,Pac-10
+14,1994-02-14,16,Indiana*,12,4,Big Ten
+14,1994-02-14,17,Florida* RF,20,3,SEC
+14,1994-02-14,18,Saint Louis*,17,1,GMWC
+14,1994-02-14,19,California*,18,1,Pac-10
+14,1994-02-14,20,Minnesota*,23,3,Big Ten
+14,1994-02-14,21,Alabama-Birmingham*,19,2,GMWC
+14,1994-02-14,22,Marquette* R,22,NC,GMWC
+14,1994-02-14,23,Cincinnati* T,,,GMWC
+14,1994-02-14,24,Wisconsin*,21,3,Big Ten
+14,1994-02-14,25,Georgia Tech,,,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+13,1994-02-07,1,North Carolina* T,2,1,ACC
+13,1994-02-07,2,Duke* RF,1,1,ACC
+13,1994-02-07,3,Arkansas* RFN,6,3,SEC
+13,1994-02-07,4,Kentucky* RT,7,3,SEC
+13,1994-02-07,5,Kansas*,3,2,Big 8
+13,1994-02-07,6,Connecticut* R,5,1,Big East
+13,1994-02-07,7,Louisville* RT,9,2,Metro
+13,1994-02-07,8,Temple*,10,2,A-10
+13,1994-02-07,9,UCLA*,4,5,Pac-10
+13,1994-02-07,10,Purdue* R,8,2,Big Ten
+13,1994-02-07,11,Michigan*,13,2,Big Ten
+13,1994-02-07,12,Indiana*,14,2,Big Ten
+13,1994-02-07,13,Massachusetts* RT,11,2,A-10
+13,1994-02-07,14,Syracuse*,15,1,Big East
+13,1994-02-07,15,Missouri* R,20,5,Big 8
+13,1994-02-07,16,Arizona* RF,12,4,Pac-10
+13,1994-02-07,17,Saint Louis*,18,1,GMWC
+13,1994-02-07,18,California*,19,1,Pac-10
+13,1994-02-07,19,Alabama-Birmingham*,17,2,GMWC
+13,1994-02-07,20,Florida* RF,24,4,SEC
+13,1994-02-07,21,Wisconsin*,16,5,Big Ten
+13,1994-02-07,22,Marquette* R,,,GMWC
+13,1994-02-07,23,Minnesota*,22,1,Big Ten
+13,1994-02-07,24,Illinois*,,,Big Ten
+13,1994-02-07,25,Xavier R,,,MW Coll
+Wk,Date,Rk,School,Prev,Chng,Conf
+12,1994-01-31,1,Duke* RF,2,1,ACC
+12,1994-01-31,2,North Carolina* T,4,2,ACC
+12,1994-01-31,3,Kansas*,3,NC,Big 8
+12,1994-01-31,4,UCLA*,1,3,Pac-10
+12,1994-01-31,5,Connecticut* R,6,1,Big East
+12,1994-01-31,6,Arkansas* RFN,5,1,SEC
+12,1994-01-31,7,Kentucky* RT,9,2,SEC
+12,1994-01-31,8,Purdue* R,7,1,Big Ten
+12,1994-01-31,9,Louisville* RT,12,3,Metro
+12,1994-01-31,10,Temple*,10,NC,A-10
+12,1994-01-31,11,Massachusetts* RT,8,3,A-10
+12,1994-01-31,12,Arizona* RF,13,1,Pac-10
+12,1994-01-31,13,Michigan*,15,2,Big Ten
+12,1994-01-31,14,Indiana*,11,3,Big Ten
+12,1994-01-31,15,Syracuse*,14,1,Big East
+12,1994-01-31,16,Wisconsin*,16,NC,Big Ten
+12,1994-01-31,17,Alabama-Birmingham*,20,3,GMWC
+12,1994-01-31,18,Saint Louis*,23,5,GMWC
+12,1994-01-31,19,California*,,,Pac-10
+12,1994-01-31,20,Missouri* R,24,4,Big 8
+12,1994-01-31,21,Maryland*,18,3,ACC
+12,1994-01-31,22,Minnesota*,17,5,Big Ten
+12,1994-01-31,23,New Mexico State* RT,25,2,Big West
+12,1994-01-31,24,Florida* RF,,,SEC
+12,1994-01-31,25,Cincinnati* T,,,GMWC
+Wk,Date,Rk,School,Prev,Chng,Conf
+11,1994-01-24,1,UCLA*,2,1,Pac-10
+11,1994-01-24,2,Duke* RF,5,3,ACC
+11,1994-01-24,3,Kansas*,1,2,Big 8
+11,1994-01-24,4,North Carolina* T,4,NC,ACC
+11,1994-01-24,5,Arkansas* RFN,3,2,SEC
+11,1994-01-24,6,Connecticut* R,10,4,Big East
+11,1994-01-24,7,Purdue* R,12,5,Big Ten
+11,1994-01-24,8,Massachusetts* RT,6,2,A-10
+11,1994-01-24,9,Kentucky* RT,7,2,SEC
+11,1994-01-24,10,Temple*,11,1,A-10
+11,1994-01-24,11,Indiana*,8,3,Big Ten
+11,1994-01-24,12,Louisville* RT,13,1,Metro
+11,1994-01-24,13,Arizona* RF,9,4,Pac-10
+11,1994-01-24,14,Syracuse*,16,2,Big East
+11,1994-01-24,15,Michigan*,15,NC,Big Ten
+11,1994-01-24,16,Wisconsin*,14,2,Big Ten
+11,1994-01-24,17,Minnesota*,20,3,Big Ten
+11,1994-01-24,18,Maryland*,25,7,ACC
+11,1994-01-24,19,West Virginia,24,5,A-10
+11,1994-01-24,20,Alabama-Birmingham*,18,2,GMWC
+11,1994-01-24,21,Georgia Tech,17,4,ACC
+11,1994-01-24,22,Marquette* R,,,GMWC
+11,1994-01-24,23,Saint Louis*,23,NC,GMWC
+11,1994-01-24,24,Missouri* R,,,Big 8
+11,1994-01-24,25,New Mexico State* RT,,,Big West
+Wk,Date,Rk,School,Prev,Chng,Conf
+10,1994-01-17,1,Kansas*,3,2,Big 8
+10,1994-01-17,2,UCLA*,5,3,Pac-10
+10,1994-01-17,3,Arkansas* RFN,4,1,SEC
+10,1994-01-17,4,North Carolina* T,1,3,ACC
+10,1994-01-17,5,Duke* RF,2,3,ACC
+10,1994-01-17,6,Massachusetts* RT,7,1,A-10
+10,1994-01-17,7,Kentucky* RT,8,1,SEC
+10,1994-01-17,8,Indiana*,11,3,Big Ten
+10,1994-01-17,9,Arizona* RF,6,3,Pac-10
+10,1994-01-17,10,Connecticut* R,14,4,Big East
+10,1994-01-17,11,Temple*,13,2,A-10
+10,1994-01-17,12,Purdue* R,9,3,Big Ten
+10,1994-01-17,13,Louisville* RT,15,2,Metro
+10,1994-01-17,14,Wisconsin*,12,2,Big Ten
+10,1994-01-17,15,Michigan*,10,5,Big Ten
+10,1994-01-17,16,Syracuse*,16,NC,Big East
+10,1994-01-17,17,Georgia Tech,17,NC,ACC
+10,1994-01-17,18,Alabama-Birmingham*,22,4,GMWC
+10,1994-01-17,19,Cincinnati* T,21,2,GMWC
+10,1994-01-17,20,Minnesota*,18,2,Big Ten
+10,1994-01-17,21,California*,19,2,Pac-10
+10,1994-01-17,22,Xavier R,25,3,MW Coll
+10,1994-01-17,23,Saint Louis*,,,GMWC
+10,1994-01-17,24,West Virginia,23,1,A-10
+10,1994-01-17,25,Maryland*,,,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+9,1994-01-10,1,North Carolina* T,2,1,ACC
+9,1994-01-10,2,Duke* RF,3,1,ACC
+9,1994-01-10,3,Kansas*,5,2,Big 8
+9,1994-01-10,4,Arkansas* RFN,1,3,SEC
+9,1994-01-10,5,UCLA*,6,1,Pac-10
+9,1994-01-10,6,Arizona* RF,9,3,Pac-10
+9,1994-01-10,7,Massachusetts* RT,8,1,A-10
+9,1994-01-10,8,Kentucky* RT,4,4,SEC
+9,1994-01-10,9,Purdue* R,10,1,Big Ten
+9,1994-01-10,10,Michigan*,13,3,Big Ten
+9,1994-01-10,11,Indiana*,14,3,Big Ten
+9,1994-01-10,12,Wisconsin*,15,3,Big Ten
+9,1994-01-10,13,Temple*,7,6,A-10
+9,1994-01-10,14,Connecticut* R,16,2,Big East
+9,1994-01-10,15,Louisville* RT,11,4,Metro
+9,1994-01-10,16,Syracuse*,18,2,Big East
+9,1994-01-10,17,Georgia Tech,12,5,ACC
+9,1994-01-10,18,Minnesota*,19,1,Big Ten
+9,1994-01-10,19,California*,24,5,Pac-10
+9,1994-01-10,20,Boston College*,20,NC,Big East
+9,1994-01-10,21,Cincinnati* T,17,4,GMWC
+9,1994-01-10,22,Alabama-Birmingham*,,,GMWC
+9,1994-01-10,23,West Virginia,,,A-10
+9,1994-01-10,24,Vanderbilt,22,2,SEC
+9,1994-01-10,25,Xavier R,,,MW Coll
+9,1994-01-10,25,Missouri* R,,,Big 8
+Wk,Date,Rk,School,Prev,Chng,Conf
+8,1994-01-03,1,Arkansas* RFN,1,NC,SEC
+8,1994-01-03,2,North Carolina* T,2,NC,ACC
+8,1994-01-03,3,Duke* RF,3,NC,ACC
+8,1994-01-03,4,Kentucky* RT,5,1,SEC
+8,1994-01-03,5,Kansas*,6,1,Big 8
+8,1994-01-03,6,UCLA*,8,2,Pac-10
+8,1994-01-03,7,Temple*,4,3,A-10
+8,1994-01-03,8,Massachusetts* RT,9,1,A-10
+8,1994-01-03,9,Arizona* RF,12,3,Pac-10
+8,1994-01-03,10,Purdue* R,10,NC,Big Ten
+8,1994-01-03,11,Louisville* RT,11,NC,Metro
+8,1994-01-03,12,Georgia Tech,15,3,ACC
+8,1994-01-03,13,Michigan*,7,6,Big Ten
+8,1994-01-03,14,Indiana*,13,1,Big Ten
+8,1994-01-03,15,Wisconsin*,17,2,Big Ten
+8,1994-01-03,16,Connecticut* R,14,2,Big East
+8,1994-01-03,17,Cincinnati* T,18,1,GMWC
+8,1994-01-03,18,Syracuse*,19,1,Big East
+8,1994-01-03,19,Minnesota*,16,3,Big Ten
+8,1994-01-03,20,Boston College*,23,3,Big East
+8,1994-01-03,21,Illinois*,22,1,Big Ten
+8,1994-01-03,22,Vanderbilt,,,SEC
+8,1994-01-03,23,George Washington*,21,2,A-10
+8,1994-01-03,24,California*,,,Pac-10
+8,1994-01-03,25,Marquette* R,24,1,GMWC
+Wk,Date,Rk,School,Prev,Chng,Conf
+7,1993-12-27,1,Arkansas* RFN,1,NC,SEC
+7,1993-12-27,2,North Carolina* T,2,NC,ACC
+7,1993-12-27,3,Duke* RF,3,NC,ACC
+7,1993-12-27,4,Temple*,4,NC,A-10
+7,1993-12-27,5,Kentucky* RT,5,NC,SEC
+7,1993-12-27,6,Kansas*,6,NC,Big 8
+7,1993-12-27,7,Michigan*,7,NC,Big Ten
+7,1993-12-27,8,UCLA*,9,1,Pac-10
+7,1993-12-27,9,Massachusetts* RT,8,1,A-10
+7,1993-12-27,10,Purdue* R,10,NC,Big Ten
+7,1993-12-27,11,Louisville* RT,11,NC,Metro
+7,1993-12-27,12,Arizona* RF,13,1,Pac-10
+7,1993-12-27,13,Indiana*,12,1,Big Ten
+7,1993-12-27,14,Connecticut* R,15,1,Big East
+7,1993-12-27,15,Georgia Tech,14,1,ACC
+7,1993-12-27,16,Minnesota*,16,NC,Big Ten
+7,1993-12-27,17,Wisconsin*,17,NC,Big Ten
+7,1993-12-27,18,Cincinnati* T,20,2,GMWC
+7,1993-12-27,19,Syracuse*,21,2,Big East
+7,1993-12-27,20,Oklahoma State*,22,2,Big 8
+7,1993-12-27,21,George Washington*,23,2,A-10
+7,1993-12-27,22,Illinois*,19,3,Big Ten
+7,1993-12-27,23,Boston College*,18,5,Big East
+7,1993-12-27,24,Marquette* R,24,NC,GMWC
+7,1993-12-27,25,Western Kentucky* R,25,NC,Sun Belt
+Wk,Date,Rk,School,Prev,Chng,Conf
+6,1993-12-20,1,Arkansas* RFN,1,NC,SEC
+6,1993-12-20,2,North Carolina* T,2,NC,ACC
+6,1993-12-20,3,Duke* RF,3,NC,ACC
+6,1993-12-20,4,Temple*,4,NC,A-10
+6,1993-12-20,5,Kentucky* RT,5,NC,SEC
+6,1993-12-20,6,Kansas*,6,NC,Big 8
+6,1993-12-20,7,Michigan*,7,NC,Big Ten
+6,1993-12-20,8,Massachusetts* RT,8,NC,A-10
+6,1993-12-20,9,UCLA*,9,NC,Pac-10
+6,1993-12-20,10,Purdue* R,11,1,Big Ten
+6,1993-12-20,11,Louisville* RT,10,1,Metro
+6,1993-12-20,12,Indiana*,12,NC,Big Ten
+6,1993-12-20,13,Arizona* RF,13,NC,Pac-10
+6,1993-12-20,14,Georgia Tech,14,NC,ACC
+6,1993-12-20,15,Connecticut* R,16,1,Big East
+6,1993-12-20,16,Minnesota*,15,1,Big Ten
+6,1993-12-20,17,Wisconsin*,18,1,Big Ten
+6,1993-12-20,18,Boston College*,20,2,Big East
+6,1993-12-20,19,Illinois*,19,NC,Big Ten
+6,1993-12-20,20,Cincinnati* T,17,3,GMWC
+6,1993-12-20,21,Syracuse*,21,NC,Big East
+6,1993-12-20,22,Oklahoma State*,22,NC,Big 8
+6,1993-12-20,23,George Washington*,23,NC,A-10
+6,1993-12-20,24,Marquette* R,,,GMWC
+6,1993-12-20,25,Western Kentucky* R,,,Sun Belt
+Wk,Date,Rk,School,Prev,Chng,Conf
+5,1993-12-13,1,Arkansas* RFN,1,NC,SEC
+5,1993-12-13,2,North Carolina* T,2,NC,ACC
+5,1993-12-13,3,Duke* RF,4,1,ACC
+5,1993-12-13,4,Temple*,5,1,A-10
+5,1993-12-13,5,Kentucky* RT,6,1,SEC
+5,1993-12-13,6,Kansas*,7,1,Big 8
+5,1993-12-13,7,Michigan*,3,4,Big Ten
+5,1993-12-13,8,Massachusetts* RT,8,NC,A-10
+5,1993-12-13,9,UCLA*,9,NC,Pac-10
+5,1993-12-13,10,Louisville* RT,10,NC,Metro
+5,1993-12-13,11,Purdue* R,11,NC,Big Ten
+5,1993-12-13,12,Indiana*,12,NC,Big Ten
+5,1993-12-13,13,Arizona* RF,14,1,Pac-10
+5,1993-12-13,14,Georgia Tech,18,4,ACC
+5,1993-12-13,15,Minnesota*,17,2,Big Ten
+5,1993-12-13,16,Connecticut* R,21,5,Big East
+5,1993-12-13,17,Cincinnati* T,20,3,GMWC
+5,1993-12-13,18,Wisconsin*,19,1,Big Ten
+5,1993-12-13,19,Illinois*,16,3,Big Ten
+5,1993-12-13,20,Boston College*,,,Big East
+5,1993-12-13,21,Syracuse*,13,8,Big East
+5,1993-12-13,22,Oklahoma State*,15,7,Big 8
+5,1993-12-13,23,George Washington*,24,1,A-10
+5,1993-12-13,24,Vanderbilt,23,1,SEC
+5,1993-12-13,25,Louisiana State,,,SEC
+Wk,Date,Rk,School,Prev,Chng,Conf
+4,1993-12-06,1,Arkansas* RFN,2,1,SEC
+4,1993-12-06,2,North Carolina* T,4,2,ACC
+4,1993-12-06,3,Michigan*,5,2,Big Ten
+4,1993-12-06,4,Duke* RF,6,2,ACC
+4,1993-12-06,5,Temple*,7,2,A-10
+4,1993-12-06,6,Kentucky* RT,1,5,SEC
+4,1993-12-06,7,Kansas*,3,4,Big 8
+4,1993-12-06,8,Massachusetts* RT,9,1,A-10
+4,1993-12-06,9,UCLA*,10,1,Pac-10
+4,1993-12-06,10,Louisville* RT,11,1,Metro
+4,1993-12-06,11,Purdue* R,14,3,Big Ten
+4,1993-12-06,12,Indiana*,21,9,Big Ten
+4,1993-12-06,13,Syracuse*,18,5,Big East
+4,1993-12-06,14,Arizona* RF,19,5,Pac-10
+4,1993-12-06,15,Oklahoma State*,8,7,Big 8
+4,1993-12-06,16,Illinois*,16,NC,Big Ten
+4,1993-12-06,17,Minnesota*,15,2,Big Ten
+4,1993-12-06,18,Georgia Tech,17,1,ACC
+4,1993-12-06,19,Wisconsin*,24,5,Big Ten
+4,1993-12-06,20,Cincinnati* T,23,3,GMWC
+4,1993-12-06,21,Connecticut* R,,,Big East
+4,1993-12-06,22,Virginia*,12,10,ACC
+4,1993-12-06,23,Vanderbilt,20,3,SEC
+4,1993-12-06,24,George Washington*,22,2,A-10
+4,1993-12-06,25,California*,13,12,Pac-10
+Wk,Date,Rk,School,Prev,Chng,Conf
+3,1993-11-29,1,Kentucky* RT,2,1,SEC
+3,1993-11-29,2,Arkansas* RFN,3,1,SEC
+3,1993-11-29,3,Kansas*,6,3,Big 8
+3,1993-11-29,4,North Carolina* T,1,3,ACC
+3,1993-11-29,5,Michigan*,5,NC,Big Ten
+3,1993-11-29,6,Duke* RF,4,2,ACC
+3,1993-11-29,7,Temple*,8,1,A-10
+3,1993-11-29,8,Oklahoma State*,10,2,Big 8
+3,1993-11-29,9,Massachusetts* RT,18,9,A-10
+3,1993-11-29,10,UCLA*,14,4,Pac-10
+3,1993-11-29,11,Louisville* RT,7,4,Metro
+3,1993-11-29,12,Virginia*,16,4,ACC
+3,1993-11-29,13,California*,12,1,Pac-10
+3,1993-11-29,14,Purdue* R,21,7,Big Ten
+3,1993-11-29,15,Minnesota*,9,6,Big Ten
+3,1993-11-29,16,Illinois*,17,1,Big Ten
+3,1993-11-29,17,Georgia Tech,13,4,ACC
+3,1993-11-29,18,Syracuse*,20,2,Big East
+3,1993-11-29,19,Arizona* RF,19,NC,Pac-10
+3,1993-11-29,20,Vanderbilt,24,4,SEC
+3,1993-11-29,21,Indiana*,11,10,Big Ten
+3,1993-11-29,22,George Washington*,23,1,A-10
+3,1993-11-29,23,Cincinnati* T,22,1,GMWC
+3,1993-11-29,24,Wisconsin*,25,1,Big Ten
+3,1993-11-29,25,Georgetown*,15,10,Big East
+Wk,Date,Rk,School,Prev,Chng,Conf
+2,1993-11-22,1,North Carolina* T,1,NC,ACC
+2,1993-11-22,2,Kentucky* RT,2,NC,SEC
+2,1993-11-22,3,Arkansas* RFN,3,NC,SEC
+2,1993-11-22,4,Duke* RF,4,NC,ACC
+2,1993-11-22,5,Michigan*,5,NC,Big Ten
+2,1993-11-22,6,Kansas*,9,3,Big 8
+2,1993-11-22,7,Louisville* RT,7,NC,Metro
+2,1993-11-22,8,Temple*,8,NC,A-10
+2,1993-11-22,9,Minnesota*,10,1,Big Ten
+2,1993-11-22,10,Oklahoma State*,11,1,Big 8
+2,1993-11-22,11,Indiana*,12,1,Big Ten
+2,1993-11-22,12,California*,6,6,Pac-10
+2,1993-11-22,13,Georgia Tech,14,1,ACC
+2,1993-11-22,14,UCLA*,13,1,Pac-10
+2,1993-11-22,15,Georgetown*,15,NC,Big East
+2,1993-11-22,16,Virginia*,16,NC,ACC
+2,1993-11-22,17,Illinois*,17,NC,Big Ten
+2,1993-11-22,18,Massachusetts* RT,22,4,A-10
+2,1993-11-22,19,Arizona* RF,18,1,Pac-10
+2,1993-11-22,20,Syracuse*,20,NC,Big East
+2,1993-11-22,21,Purdue* R,21,NC,Big Ten
+2,1993-11-22,22,Cincinnati* T,19,3,GMWC
+2,1993-11-22,23,George Washington*,24,1,A-10
+2,1993-11-22,24,Vanderbilt,23,1,SEC
+2,1993-11-22,25,Wisconsin*,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+1,Preseason,1,North Carolina* T,NA,—,ACC
+1,Preseason,2,Kentucky* RT,NA,—,SEC
+1,Preseason,3,Arkansas* RFN,NA,—,SEC
+1,Preseason,4,Duke* RF,NA,—,ACC
+1,Preseason,5,Michigan*,NA,—,Big Ten
+1,Preseason,6,California*,NA,—,Pac-10
+1,Preseason,7,Louisville* RT,NA,—,Metro
+1,Preseason,8,Temple*,NA,—,A-10
+1,Preseason,9,Kansas*,NA,—,Big 8
+1,Preseason,10,Minnesota*,NA,—,Big Ten
+1,Preseason,11,Oklahoma State*,NA,—,Big 8
+1,Preseason,12,Indiana*,NA,—,Big Ten
+1,Preseason,13,UCLA*,NA,—,Pac-10
+1,Preseason,14,Georgia Tech,NA,—,ACC
+1,Preseason,15,Georgetown*,NA,—,Big East
+1,Preseason,16,Virginia*,NA,—,ACC
+1,Preseason,17,Illinois*,NA,—,Big Ten
+1,Preseason,18,Arizona* RF,NA,—,Pac-10
+1,Preseason,19,Cincinnati* T,NA,—,GMWC
+1,Preseason,20,Syracuse*,NA,—,Big East
+1,Preseason,21,Purdue* R,NA,—,Big Ten
+1,Preseason,22,Massachusetts* RT,NA,—,A-10
+1,Preseason,23,Vanderbilt,NA,—,SEC
+1,Preseason,24,George Washington*,NA,—,A-10
+1,Preseason,25,Florida State,NA,—,ACC

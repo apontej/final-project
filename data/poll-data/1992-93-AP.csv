@@ -1,0 +1,468 @@
+Wk,Date,Rk,School,Prev,Chng,Conf
+18,Final,1,Indiana* R,2,1,Big Ten
+18,Final,2,Kentucky* TF,4,2,SEC
+18,Final,3,Michigan* F,3,NC,Big Ten
+18,Final,4,North Carolina* RFN,1,3,ACC
+18,Final,5,Arizona* R,6,1,Pac-10
+18,Final,6,Seton Hall* RT,9,3,Big East
+18,Final,7,Cincinnati* RT,11,4,GMWC
+18,Final,8,Vanderbilt* R,5,3,SEC
+18,Final,9,Kansas* RF,7,2,Big 8
+18,Final,10,Duke*,8,2,ACC
+18,Final,11,Florida State*,10,1,ACC
+18,Final,12,Arkansas* R,14,2,SEC
+18,Final,13,Iowa*,17,4,Big Ten
+18,Final,14,Massachusetts* RT,20,6,A-10
+18,Final,15,Louisville* RT,16,1,Metro
+18,Final,16,Wake Forest*,12,4,ACC
+18,Final,17,New Orleans* R,13,4,Sun Belt
+18,Final,18,Georgia Tech* T,,,ACC
+18,Final,19,Utah* R,15,4,WAC
+18,Final,20,Western Kentucky* T,,,Sun Belt
+18,Final,21,New Mexico* T,,,WAC
+18,Final,22,Purdue*,18,4,Big Ten
+18,Final,23,Oklahoma State*,21,2,Big 8
+18,Final,24,New Mexico State* R,24,NC,Big West
+18,Final,25,Nevada-Las Vegas,19,6,Big West
+Wk,Date,Rk,School,Prev,Chng,Conf
+17,1993-03-08,1,North Carolina* RFN,1,NC,ACC
+17,1993-03-08,2,Indiana* R,2,NC,Big Ten
+17,1993-03-08,3,Michigan* F,4,1,Big Ten
+17,1993-03-08,4,Kentucky* TF,5,1,SEC
+17,1993-03-08,5,Vanderbilt* R,7,2,SEC
+17,1993-03-08,6,Arizona* R,3,3,Pac-10
+17,1993-03-08,7,Kansas* RF,8,1,Big 8
+17,1993-03-08,8,Duke*,6,2,ACC
+17,1993-03-08,9,Seton Hall* RT,10,1,Big East
+17,1993-03-08,10,Florida State*,11,1,ACC
+17,1993-03-08,11,Cincinnati* RT,12,1,GMWC
+17,1993-03-08,12,Wake Forest*,14,2,ACC
+17,1993-03-08,13,New Orleans* R,17,4,Sun Belt
+17,1993-03-08,14,Arkansas* R,13,1,SEC
+17,1993-03-08,15,Utah* R,9,6,WAC
+17,1993-03-08,16,Louisville* RT,22,6,Metro
+17,1993-03-08,17,Iowa*,15,2,Big Ten
+17,1993-03-08,18,Purdue*,24,6,Big Ten
+17,1993-03-08,19,Nevada-Las Vegas,16,3,Big West
+17,1993-03-08,20,Massachusetts* RT,23,3,A-10
+17,1993-03-08,21,Oklahoma State*,19,2,Big 8
+17,1993-03-08,22,Xavier* R,18,4,MW Coll
+17,1993-03-08,23,Tulane*,20,3,Metro
+17,1993-03-08,24,New Mexico State* R,,,Big West
+17,1993-03-08,25,Brigham Young* R,21,4,WAC
+Wk,Date,Rk,School,Prev,Chng,Conf
+16,1993-03-01,1,North Carolina* RFN,3,2,ACC
+16,1993-03-01,2,Indiana* R,1,1,Big Ten
+16,1993-03-01,3,Arizona* R,4,1,Pac-10
+16,1993-03-01,4,Michigan* F,5,1,Big Ten
+16,1993-03-01,5,Kentucky* TF,2,3,SEC
+16,1993-03-01,6,Duke*,9,3,ACC
+16,1993-03-01,7,Vanderbilt* R,8,1,SEC
+16,1993-03-01,8,Kansas* RF,7,1,Big 8
+16,1993-03-01,9,Utah* R,11,2,WAC
+16,1993-03-01,10,Seton Hall* RT,14,4,Big East
+16,1993-03-01,11,Florida State*,6,5,ACC
+16,1993-03-01,12,Cincinnati* RT,10,2,GMWC
+16,1993-03-01,13,Arkansas* R,15,2,SEC
+16,1993-03-01,14,Wake Forest*,12,2,ACC
+16,1993-03-01,15,Iowa*,18,3,Big Ten
+16,1993-03-01,16,Nevada-Las Vegas,13,3,Big West
+16,1993-03-01,17,New Orleans* R,19,2,Sun Belt
+16,1993-03-01,18,Xavier* R,24,6,MW Coll
+16,1993-03-01,19,Oklahoma State*,,,Big 8
+16,1993-03-01,20,Tulane*,16,4,Metro
+16,1993-03-01,21,Brigham Young* R,23,2,WAC
+16,1993-03-01,22,Louisville* RT,,,Metro
+16,1993-03-01,23,Massachusetts* RT,21,2,A-10
+16,1993-03-01,24,Purdue*,17,7,Big Ten
+16,1993-03-01,25,St. John's (NY)*,,,Big East
+Wk,Date,Rk,School,Prev,Chng,Conf
+15,1993-02-22,1,Indiana* R,1,NC,Big Ten
+15,1993-02-22,2,Kentucky* TF,2,NC,SEC
+15,1993-02-22,3,North Carolina* RFN,3,NC,ACC
+15,1993-02-22,4,Arizona* R,4,NC,Pac-10
+15,1993-02-22,5,Michigan* F,5,NC,Big Ten
+15,1993-02-22,6,Florida State*,9,3,ACC
+15,1993-02-22,7,Kansas* RF,6,1,Big 8
+15,1993-02-22,8,Vanderbilt* R,11,3,SEC
+15,1993-02-22,9,Duke*,7,2,ACC
+15,1993-02-22,10,Cincinnati* RT,8,2,GMWC
+15,1993-02-22,11,Utah* R,12,1,WAC
+15,1993-02-22,12,Wake Forest*,10,2,ACC
+15,1993-02-22,13,Nevada-Las Vegas,15,2,Big West
+15,1993-02-22,14,Seton Hall* RT,16,2,Big East
+15,1993-02-22,15,Arkansas* R,13,2,SEC
+15,1993-02-22,16,Tulane*,18,2,Metro
+15,1993-02-22,17,Purdue*,14,3,Big Ten
+15,1993-02-22,18,Iowa*,20,2,Big Ten
+15,1993-02-22,19,New Orleans* R,21,2,Sun Belt
+15,1993-02-22,20,Marquette*,24,4,GMWC
+15,1993-02-22,21,Massachusetts* RT,19,2,A-10
+15,1993-02-22,22,Virginia*,23,1,ACC
+15,1993-02-22,23,Brigham Young* R,,,WAC
+15,1993-02-22,24,Xavier* R,,,MW Coll
+15,1993-02-22,25,Pittsburgh*,17,8,Big East
+Wk,Date,Rk,School,Prev,Chng,Conf
+14,1993-02-15,1,Indiana* R,1,NC,Big Ten
+14,1993-02-15,2,Kentucky* TF,2,NC,SEC
+14,1993-02-15,3,North Carolina* RFN,6,3,ACC
+14,1993-02-15,4,Arizona* R,5,1,Pac-10
+14,1993-02-15,5,Michigan* F,4,1,Big Ten
+14,1993-02-15,6,Kansas* RF,7,1,Big 8
+14,1993-02-15,7,Duke*,3,4,ACC
+14,1993-02-15,8,Cincinnati* RT,8,NC,GMWC
+14,1993-02-15,9,Florida State*,10,1,ACC
+14,1993-02-15,10,Wake Forest*,9,1,ACC
+14,1993-02-15,11,Vanderbilt* R,11,NC,SEC
+14,1993-02-15,12,Utah* R,16,4,WAC
+14,1993-02-15,13,Arkansas* R,14,1,SEC
+14,1993-02-15,14,Purdue*,18,4,Big Ten
+14,1993-02-15,15,Nevada-Las Vegas,12,3,Big West
+14,1993-02-15,16,Seton Hall* RT,19,3,Big East
+14,1993-02-15,17,Pittsburgh*,17,NC,Big East
+14,1993-02-15,18,Tulane*,20,2,Metro
+14,1993-02-15,19,Massachusetts* RT,22,3,A-10
+14,1993-02-15,20,Iowa*,13,7,Big Ten
+14,1993-02-15,21,New Orleans* R,25,4,Sun Belt
+14,1993-02-15,22,Louisville* RT,,,Metro
+14,1993-02-15,23,Virginia*,24,1,ACC
+14,1993-02-15,24,Marquette*,15,9,GMWC
+14,1993-02-15,25,St. John's (NY)*,,,Big East
+Wk,Date,Rk,School,Prev,Chng,Conf
+13,1993-02-08,1,Indiana* R,1,NC,Big Ten
+13,1993-02-08,2,Kentucky* TF,2,NC,SEC
+13,1993-02-08,3,Duke*,5,2,ACC
+13,1993-02-08,4,Michigan* F,7,3,Big Ten
+13,1993-02-08,5,Arizona* R,8,3,Pac-10
+13,1993-02-08,6,North Carolina* RFN,6,NC,ACC
+13,1993-02-08,7,Kansas* RF,3,4,Big 8
+13,1993-02-08,8,Cincinnati* RT,4,4,GMWC
+13,1993-02-08,9,Wake Forest*,13,4,ACC
+13,1993-02-08,10,Florida State*,12,2,ACC
+13,1993-02-08,11,Vanderbilt* R,11,NC,SEC
+13,1993-02-08,12,Nevada-Las Vegas,10,2,Big West
+13,1993-02-08,13,Iowa*,9,4,Big Ten
+13,1993-02-08,14,Arkansas* R,17,3,SEC
+13,1993-02-08,15,Marquette*,20,5,GMWC
+13,1993-02-08,16,Utah* R,21,5,WAC
+13,1993-02-08,17,Pittsburgh*,15,2,Big East
+13,1993-02-08,18,Purdue*,19,1,Big Ten
+13,1993-02-08,19,Seton Hall* RT,14,5,Big East
+13,1993-02-08,20,Tulane*,18,2,Metro
+13,1993-02-08,21,Boston College,,,Big East
+13,1993-02-08,22,Massachusetts* RT,,,A-10
+13,1993-02-08,23,Kansas State*,,,Big 8
+13,1993-02-08,24,Virginia*,24,NC,ACC
+13,1993-02-08,25,New Orleans* R,,,Sun Belt
+Wk,Date,Rk,School,Prev,Chng,Conf
+12,1993-02-01,1,Indiana* R,2,1,Big Ten
+12,1993-02-01,2,Kentucky* TF,4,2,SEC
+12,1993-02-01,3,Kansas* RF,1,2,Big 8
+12,1993-02-01,4,Cincinnati* RT,6,2,GMWC
+12,1993-02-01,5,Duke*,7,2,ACC
+12,1993-02-01,6,North Carolina* RFN,3,3,ACC
+12,1993-02-01,7,Michigan* F,5,2,Big Ten
+12,1993-02-01,8,Arizona* R,8,NC,Pac-10
+12,1993-02-01,9,Iowa*,11,2,Big Ten
+12,1993-02-01,10,Nevada-Las Vegas,10,NC,Big West
+12,1993-02-01,11,Vanderbilt* R,11,NC,SEC
+12,1993-02-01,12,Florida State*,19,7,ACC
+12,1993-02-01,13,Wake Forest*,,,ACC
+12,1993-02-01,14,Seton Hall* RT,9,5,Big East
+12,1993-02-01,15,Pittsburgh*,13,2,Big East
+12,1993-02-01,16,Oklahoma,20,4,Big 8
+12,1993-02-01,17,Arkansas* R,16,1,SEC
+12,1993-02-01,18,Tulane*,23,5,Metro
+12,1993-02-01,19,Purdue*,14,5,Big Ten
+12,1993-02-01,20,Marquette*,24,4,GMWC
+12,1993-02-01,21,Utah* R,17,4,WAC
+12,1993-02-01,22,Georgia Tech* T,18,4,ACC
+12,1993-02-01,23,Georgetown,21,2,Big East
+12,1993-02-01,24,Virginia*,15,9,ACC
+12,1993-02-01,25,Michigan State,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+11,1993-01-25,1,Kansas* RF,1,NC,Big 8
+11,1993-01-25,2,Indiana* R,2,NC,Big Ten
+11,1993-01-25,3,North Carolina* RFN,3,NC,ACC
+11,1993-01-25,4,Kentucky* TF,4,NC,SEC
+11,1993-01-25,5,Michigan* F,5,NC,Big Ten
+11,1993-01-25,6,Cincinnati* RT,9,3,GMWC
+11,1993-01-25,7,Duke*,6,1,ACC
+11,1993-01-25,8,Arizona* R,11,3,Pac-10
+11,1993-01-25,9,Seton Hall* RT,10,1,Big East
+11,1993-01-25,10,Nevada-Las Vegas,15,5,Big West
+11,1993-01-25,11,Vanderbilt* R,19,8,SEC
+11,1993-01-25,11,Iowa*,14,3,Big Ten
+11,1993-01-25,13,Pittsburgh*,20,7,Big East
+11,1993-01-25,14,Purdue*,13,1,Big Ten
+11,1993-01-25,15,Virginia*,7,8,ACC
+11,1993-01-25,16,Arkansas* R,8,8,SEC
+11,1993-01-25,17,Utah* R,22,5,WAC
+11,1993-01-25,18,Georgia Tech* T,16,2,ACC
+11,1993-01-25,19,Florida State*,,,ACC
+11,1993-01-25,20,Oklahoma,12,8,Big 8
+11,1993-01-25,21,Georgetown,18,3,Big East
+11,1993-01-25,22,Connecticut,17,5,Big East
+11,1993-01-25,23,Tulane*,,,Metro
+11,1993-01-25,24,Marquette*,,,GMWC
+11,1993-01-25,25,Houston,,,SWC
+Wk,Date,Rk,School,Prev,Chng,Conf
+10,1993-01-18,1,Kansas* RF,4,3,Big 8
+10,1993-01-18,2,Indiana* R,6,4,Big Ten
+10,1993-01-18,3,North Carolina* RFN,5,2,ACC
+10,1993-01-18,4,Kentucky* TF,1,3,SEC
+10,1993-01-18,5,Michigan* F,2,3,Big Ten
+10,1993-01-18,6,Duke*,3,3,ACC
+10,1993-01-18,7,Virginia*,14,7,ACC
+10,1993-01-18,8,Arkansas* R,9,1,SEC
+10,1993-01-18,9,Cincinnati* RT,11,2,GMWC
+10,1993-01-18,10,Seton Hall* RT,7,3,Big East
+10,1993-01-18,11,Arizona* R,12,1,Pac-10
+10,1993-01-18,12,Oklahoma,10,2,Big 8
+10,1993-01-18,13,Purdue*,17,4,Big Ten
+10,1993-01-18,14,Iowa*,13,1,Big Ten
+10,1993-01-18,15,Nevada-Las Vegas,18,3,Big West
+10,1993-01-18,16,Georgia Tech* T,8,8,ACC
+10,1993-01-18,17,Connecticut,15,2,Big East
+10,1993-01-18,18,Georgetown,20,2,Big East
+10,1993-01-18,19,Vanderbilt* R,,,SEC
+10,1993-01-18,20,Pittsburgh*,,,Big East
+10,1993-01-18,21,Michigan State,23,2,Big Ten
+10,1993-01-18,22,Utah* R,25,3,WAC
+10,1993-01-18,23,UCLA*,16,7,Pac-10
+10,1993-01-18,24,Ohio State,21,3,Big Ten
+10,1993-01-18,25,Long Beach State* T,,,Big West
+Wk,Date,Rk,School,Prev,Chng,Conf
+9,1993-01-11,1,Kentucky* TF,2,1,SEC
+9,1993-01-11,2,Michigan* F,3,1,Big Ten
+9,1993-01-11,3,Duke*,1,2,ACC
+9,1993-01-11,4,Kansas* RF,4,NC,Big 8
+9,1993-01-11,5,North Carolina* RFN,6,1,ACC
+9,1993-01-11,6,Indiana* R,5,1,Big Ten
+9,1993-01-11,7,Seton Hall* RT,7,NC,Big East
+9,1993-01-11,8,Georgia Tech* T,10,2,ACC
+9,1993-01-11,9,Arkansas* R,13,4,SEC
+9,1993-01-11,10,Oklahoma,11,1,Big 8
+9,1993-01-11,11,Cincinnati* RT,16,5,GMWC
+9,1993-01-11,12,Arizona* R,20,8,Pac-10
+9,1993-01-11,13,Iowa*,8,5,Big Ten
+9,1993-01-11,14,Virginia*,25,11,ACC
+9,1993-01-11,15,Connecticut,19,4,Big East
+9,1993-01-11,16,UCLA*,15,1,Pac-10
+9,1993-01-11,17,Purdue*,9,8,Big Ten
+9,1993-01-11,18,Nevada-Las Vegas,12,6,Big West
+9,1993-01-11,19,Minnesota,,,Big Ten
+9,1993-01-11,20,Georgetown,17,3,Big East
+9,1993-01-11,21,Ohio State,,,Big Ten
+9,1993-01-11,22,Boston College,,,Big East
+9,1993-01-11,23,Michigan State,14,9,Big Ten
+9,1993-01-11,24,Syracuse,21,3,Big East
+9,1993-01-11,25,Utah* R,,,WAC
+Wk,Date,Rk,School,Prev,Chng,Conf
+8,1993-01-04,1,Duke*,1,NC,ACC
+8,1993-01-04,2,Kentucky* TF,3,1,SEC
+8,1993-01-04,3,Michigan* F,6,3,Big Ten
+8,1993-01-04,4,Kansas* RF,2,2,Big 8
+8,1993-01-04,5,Indiana* R,4,1,Big Ten
+8,1993-01-04,6,North Carolina* RFN,5,1,ACC
+8,1993-01-04,7,Seton Hall* RT,7,NC,Big East
+8,1993-01-04,8,Iowa*,8,NC,Big Ten
+8,1993-01-04,9,Purdue*,13,4,Big Ten
+8,1993-01-04,10,Georgia Tech* T,14,4,ACC
+8,1993-01-04,11,Oklahoma,15,4,Big 8
+8,1993-01-04,12,Nevada-Las Vegas,16,4,Big West
+8,1993-01-04,13,Arkansas* R,9,4,SEC
+8,1993-01-04,14,Michigan State,17,3,Big Ten
+8,1993-01-04,15,UCLA*,11,4,Pac-10
+8,1993-01-04,16,Cincinnati* RT,21,5,GMWC
+8,1993-01-04,17,Georgetown,10,7,Big East
+8,1993-01-04,18,Vanderbilt* R,24,6,SEC
+8,1993-01-04,19,Connecticut,23,4,Big East
+8,1993-01-04,20,Arizona* R,22,2,Pac-10
+8,1993-01-04,21,Syracuse,12,9,Big East
+8,1993-01-04,22,Massachusetts* RT,,,A-10
+8,1993-01-04,23,Florida State*,18,5,ACC
+8,1993-01-04,24,Pittsburgh*,,,Big East
+8,1993-01-04,25,Virginia*,,,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+7,1992-12-28,1,Duke*,1,NC,ACC
+7,1992-12-28,2,Kansas* RF,2,NC,Big 8
+7,1992-12-28,3,Kentucky* TF,3,NC,SEC
+7,1992-12-28,4,Indiana* R,4,NC,Big Ten
+7,1992-12-28,5,North Carolina* RFN,5,NC,ACC
+7,1992-12-28,6,Michigan* F,6,NC,Big Ten
+7,1992-12-28,7,Seton Hall* RT,7,NC,Big East
+7,1992-12-28,8,Iowa*,8,NC,Big Ten
+7,1992-12-28,9,Arkansas* R,10,1,SEC
+7,1992-12-28,10,Georgetown,11,1,Big East
+7,1992-12-28,11,UCLA*,12,1,Pac-10
+7,1992-12-28,12,Syracuse,13,1,Big East
+7,1992-12-28,13,Purdue*,15,2,Big Ten
+7,1992-12-28,14,Georgia Tech* T,16,2,ACC
+7,1992-12-28,15,Oklahoma,9,6,Big 8
+7,1992-12-28,16,Nevada-Las Vegas,19,3,Big West
+7,1992-12-28,17,Michigan State,20,3,Big Ten
+7,1992-12-28,18,Florida State*,18,NC,ACC
+7,1992-12-28,19,California*,21,2,Pac-10
+7,1992-12-28,20,Nebraska*,17,3,Big 8
+7,1992-12-28,21,Cincinnati* RT,23,2,GMWC
+7,1992-12-28,22,Arizona* R,14,8,Pac-10
+7,1992-12-28,23,Connecticut,22,1,Big East
+7,1992-12-28,24,Vanderbilt* R,25,1,SEC
+7,1992-12-28,25,Brigham Young* R,,,WAC
+Wk,Date,Rk,School,Prev,Chng,Conf
+6,1992-12-21,1,Duke*,1,NC,ACC
+6,1992-12-21,2,Kansas* RF,2,NC,Big 8
+6,1992-12-21,3,Kentucky* TF,3,NC,SEC
+6,1992-12-21,4,Indiana* R,4,NC,Big Ten
+6,1992-12-21,5,North Carolina* RFN,5,NC,ACC
+6,1992-12-21,6,Michigan* F,6,NC,Big Ten
+6,1992-12-21,7,Seton Hall* RT,7,NC,Big East
+6,1992-12-21,8,Iowa*,8,NC,Big Ten
+6,1992-12-21,9,Oklahoma,9,NC,Big 8
+6,1992-12-21,10,Arkansas* R,12,2,SEC
+6,1992-12-21,11,Georgetown,11,NC,Big East
+6,1992-12-21,12,UCLA*,13,1,Pac-10
+6,1992-12-21,13,Syracuse,14,1,Big East
+6,1992-12-21,14,Arizona* R,15,1,Pac-10
+6,1992-12-21,15,Purdue*,16,1,Big Ten
+6,1992-12-21,16,Georgia Tech* T,17,1,ACC
+6,1992-12-21,17,Nebraska*,20,3,Big 8
+6,1992-12-21,18,Florida State*,10,8,ACC
+6,1992-12-21,19,Nevada-Las Vegas,22,3,Big West
+6,1992-12-21,20,Michigan State,23,3,Big Ten
+6,1992-12-21,21,California*,25,4,Pac-10
+6,1992-12-21,22,Connecticut,24,2,Big East
+6,1992-12-21,23,Cincinnati* RT,19,4,GMWC
+6,1992-12-21,24,Tulane*,18,6,Metro
+6,1992-12-21,25,Vanderbilt* R,,,SEC
+Wk,Date,Rk,School,Prev,Chng,Conf
+5,1992-12-14,1,Duke*,1,NC,ACC
+5,1992-12-14,2,Kansas* RF,2,NC,Big 8
+5,1992-12-14,3,Kentucky* TF,3,NC,SEC
+5,1992-12-14,4,Indiana* R,4,NC,Big Ten
+5,1992-12-14,5,North Carolina* RFN,5,NC,ACC
+5,1992-12-14,6,Michigan* F,6,NC,Big Ten
+5,1992-12-14,7,Seton Hall* RT,7,NC,Big East
+5,1992-12-14,8,Iowa*,8,NC,Big Ten
+5,1992-12-14,9,Oklahoma,11,2,Big 8
+5,1992-12-14,10,Florida State*,10,NC,ACC
+5,1992-12-14,11,Georgetown,11,NC,Big East
+5,1992-12-14,12,Arkansas* R,16,4,SEC
+5,1992-12-14,13,UCLA*,13,NC,Pac-10
+5,1992-12-14,14,Syracuse,15,1,Big East
+5,1992-12-14,15,Arizona* R,14,1,Pac-10
+5,1992-12-14,16,Purdue*,18,2,Big Ten
+5,1992-12-14,17,Georgia Tech* T,17,NC,ACC
+5,1992-12-14,18,Tulane*,20,2,Metro
+5,1992-12-14,19,Cincinnati* RT,19,NC,GMWC
+5,1992-12-14,20,Nebraska*,25,5,Big 8
+5,1992-12-14,21,Louisville* RT,9,12,Metro
+5,1992-12-14,22,Nevada-Las Vegas,22,NC,Big West
+5,1992-12-14,23,Michigan State,24,1,Big Ten
+5,1992-12-14,24,Connecticut,,,Big East
+5,1992-12-14,25,California*,,,Pac-10
+Wk,Date,Rk,School,Prev,Chng,Conf
+4,1992-12-07,1,Duke*,4,3,ACC
+4,1992-12-07,2,Kansas* RF,3,1,Big 8
+4,1992-12-07,3,Kentucky* TF,5,2,SEC
+4,1992-12-07,4,Indiana* R,2,2,Big Ten
+4,1992-12-07,5,North Carolina* RFN,7,2,ACC
+4,1992-12-07,6,Michigan* F,1,5,Big Ten
+4,1992-12-07,7,Seton Hall* RT,6,1,Big East
+4,1992-12-07,8,Iowa*,10,2,Big Ten
+4,1992-12-07,9,Louisville* RT,12,3,Metro
+4,1992-12-07,10,Florida State*,11,1,ACC
+4,1992-12-07,11,Georgetown,14,3,Big East
+4,1992-12-07,11,Oklahoma,15,4,Big 8
+4,1992-12-07,13,UCLA*,16,3,Pac-10
+4,1992-12-07,14,Arizona* R,9,5,Pac-10
+4,1992-12-07,15,Syracuse,17,2,Big East
+4,1992-12-07,16,Arkansas* R,,,SEC
+4,1992-12-07,17,Georgia Tech* T,13,4,ACC
+4,1992-12-07,18,Purdue*,24,6,Big Ten
+4,1992-12-07,19,Cincinnati* RT,22,3,GMWC
+4,1992-12-07,20,Tulane*,20,NC,Metro
+4,1992-12-07,21,Memphis*,8,13,GMWC
+4,1992-12-07,22,Nevada-Las Vegas,23,1,Big West
+4,1992-12-07,23,Massachusetts* RT,19,4,A-10
+4,1992-12-07,24,Michigan State,18,6,Big Ten
+4,1992-12-07,25,Nebraska*,,,Big 8
+Wk,Date,Rk,School,Prev,Chng,Conf
+3,1992-11-30,1,Michigan* F,1,NC,Big Ten
+3,1992-11-30,2,Indiana* R,4,2,Big Ten
+3,1992-11-30,3,Kansas* RF,2,1,Big 8
+3,1992-11-30,4,Duke*,3,1,ACC
+3,1992-11-30,5,Kentucky* TF,5,NC,SEC
+3,1992-11-30,6,Seton Hall* RT,6,NC,Big East
+3,1992-11-30,7,North Carolina* RFN,8,1,ACC
+3,1992-11-30,8,Memphis*,9,1,GMWC
+3,1992-11-30,9,Arizona* R,10,1,Pac-10
+3,1992-11-30,10,Iowa*,11,1,Big Ten
+3,1992-11-30,11,Florida State*,7,4,ACC
+3,1992-11-30,12,Louisville* RT,12,NC,Metro
+3,1992-11-30,13,Georgia Tech* T,14,1,ACC
+3,1992-11-30,14,Georgetown,13,1,Big East
+3,1992-11-30,15,Oklahoma,15,NC,Big 8
+3,1992-11-30,16,UCLA*,21,5,Pac-10
+3,1992-11-30,17,Syracuse,17,NC,Big East
+3,1992-11-30,18,Michigan State,18,NC,Big Ten
+3,1992-11-30,19,Massachusetts* RT,20,1,A-10
+3,1992-11-30,20,Tulane*,19,1,Metro
+3,1992-11-30,21,New Mexico State* R,,,Big West
+3,1992-11-30,22,Cincinnati* RT,23,1,GMWC
+3,1992-11-30,23,Nevada-Las Vegas,22,1,Big West
+3,1992-11-30,24,Purdue*,,,Big Ten
+3,1992-11-30,25,Connecticut,16,9,Big East
+Wk,Date,Rk,School,Prev,Chng,Conf
+2,1992-11-23,1,Michigan* F,1,NC,Big Ten
+2,1992-11-23,2,Kansas* RF,2,NC,Big 8
+2,1992-11-23,3,Duke*,3,NC,ACC
+2,1992-11-23,4,Indiana* R,4,NC,Big Ten
+2,1992-11-23,5,Kentucky* TF,5,NC,SEC
+2,1992-11-23,6,Seton Hall* RT,6,NC,Big East
+2,1992-11-23,7,Florida State*,9,2,ACC
+2,1992-11-23,8,North Carolina* RFN,7,1,ACC
+2,1992-11-23,9,Memphis*,8,1,GMWC
+2,1992-11-23,10,Arizona* R,10,NC,Pac-10
+2,1992-11-23,11,Iowa*,11,NC,Big Ten
+2,1992-11-23,12,Louisville* RT,13,1,Metro
+2,1992-11-23,13,Georgetown,12,1,Big East
+2,1992-11-23,14,Georgia Tech* T,14,NC,ACC
+2,1992-11-23,15,Oklahoma,15,NC,Big 8
+2,1992-11-23,16,Connecticut,16,NC,Big East
+2,1992-11-23,17,Syracuse,18,1,Big East
+2,1992-11-23,18,Michigan State,20,2,Big Ten
+2,1992-11-23,19,Tulane*,17,2,Metro
+2,1992-11-23,20,Massachusetts* RT,23,3,A-10
+2,1992-11-23,21,UCLA*,24,3,Pac-10
+2,1992-11-23,22,Nevada-Las Vegas,22,NC,Big West
+2,1992-11-23,23,Cincinnati* RT,21,2,GMWC
+2,1992-11-23,24,Iowa State*,19,5,Big 8
+2,1992-11-23,25,Nebraska*,25,NC,Big 8
+Wk,Date,Rk,School,Prev,Chng,Conf
+1,Preseason,1,Michigan* F,NA,—,Big Ten
+1,Preseason,2,Kansas* RF,NA,—,Big 8
+1,Preseason,3,Duke*,NA,—,ACC
+1,Preseason,4,Indiana* R,NA,—,Big Ten
+1,Preseason,5,Kentucky* TF,NA,—,SEC
+1,Preseason,6,Seton Hall* RT,NA,—,Big East
+1,Preseason,7,North Carolina* RFN,NA,—,ACC
+1,Preseason,8,Memphis*,NA,—,GMWC
+1,Preseason,9,Florida State*,NA,—,ACC
+1,Preseason,10,Arizona* R,NA,—,Pac-10
+1,Preseason,11,Iowa*,NA,—,Big Ten
+1,Preseason,12,Georgetown,NA,—,Big East
+1,Preseason,13,Louisville* RT,NA,—,Metro
+1,Preseason,14,Georgia Tech* T,NA,—,ACC
+1,Preseason,15,Oklahoma,NA,—,Big 8
+1,Preseason,16,Connecticut,NA,—,Big East
+1,Preseason,17,Tulane*,NA,—,Metro
+1,Preseason,18,Syracuse,NA,—,Big East
+1,Preseason,19,Iowa State*,NA,—,Big 8
+1,Preseason,20,Michigan State,NA,—,Big Ten
+1,Preseason,21,Cincinnati* RT,NA,—,GMWC
+1,Preseason,22,Nevada-Las Vegas,NA,—,Big West
+1,Preseason,23,Massachusetts* RT,NA,—,A-10
+1,Preseason,24,UCLA*,NA,—,Pac-10
+1,Preseason,25,Nebraska*,NA,—,Big 8

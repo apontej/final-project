@@ -1,0 +1,520 @@
+Wk,Date,Rk,School,Prev,Chng,Conf
+20,Postseason,1,Duke* RTFN,3,2,ACC
+20,Postseason,2,Butler* RTF,8,6,Horizon
+20,Postseason,3,West Virginia* TF,5,2,Big East
+20,Postseason,4,Michigan State* RF,12,8,Big Ten
+20,Postseason,5,Kentucky* RT,2,3,SEC
+20,Postseason,6,Kansas* RT,1,5,Big 12
+20,Postseason,7,Kansas State*,7,NC,Big 12
+20,Postseason,8,Syracuse* R,4,4,Big East
+20,Postseason,9,Tennessee*,14,5,SEC
+20,Postseason,10,Baylor*,21,11,Big 12
+20,Postseason,11,Ohio State* RT,6,5,Big Ten
+20,Postseason,12,Purdue* R,11,1,Big Ten
+20,Postseason,13,Northern Iowa* RT,24,11,MVC
+20,Postseason,14,Xavier* R,,,A-10
+20,Postseason,15,Villanova*,9,6,Big East
+20,Postseason,16,New Mexico* R,10,6,MWC
+20,Postseason,17,Cornell* R,,,Ivy
+20,Postseason,18,Maryland* R,20,2,ACC
+20,Postseason,19,Saint Mary's (CA)* T,,,WCC
+20,Postseason,20,Pittsburgh*,16,4,Big East
+20,Postseason,21,Washington* T,,,Pac-10
+20,Postseason,22,Brigham Young*,16,6,MWC
+20,Postseason,23,Gonzaga* R,18,5,WCC
+20,Postseason,24,Wisconsin*,19,5,Big Ten
+20,Postseason,25,Texas A&M*,23,2,Big 12
+Wk,Date,Rk,School,Prev,Chng,Conf
+19,Final,1,Kansas* RT,1,NC,Big 12
+19,Final,2,Kentucky* RT,2,NC,SEC
+19,Final,3,Duke* RTFN,4,1,ACC
+19,Final,4,Syracuse* R,3,1,Big East
+19,Final,5,West Virginia* TF,6,1,Big East
+19,Final,6,Ohio State* RT,7,1,Big Ten
+19,Final,7,Kansas State*,9,2,Big 12
+19,Final,8,Butler* RTF,12,4,Horizon
+19,Final,9,Villanova*,10,1,Big East
+19,Final,10,New Mexico* R,8,2,MWC
+19,Final,11,Purdue* R,5,6,Big Ten
+19,Final,12,Michigan State* RF,11,1,Big Ten
+19,Final,13,Temple* RT,17,4,A-10
+19,Final,14,Tennessee*,13,1,SEC
+19,Final,15,Georgetown*,22,7,Big East
+19,Final,16,Pittsburgh*,16,NC,Big East
+19,Final,16,Brigham Young*,15,1,MWC
+19,Final,18,Gonzaga* R,14,4,WCC
+19,Final,19,Wisconsin*,18,1,Big Ten
+19,Final,20,Maryland* R,19,1,ACC
+19,Final,21,Baylor*,20,1,Big 12
+19,Final,22,Vanderbilt*,23,1,SEC
+19,Final,23,Texas A&M*,24,1,Big 12
+19,Final,24,Northern Iowa* RT,25,1,MVC
+19,Final,25,Texas-El Paso* R,21,4,CUSA
+Wk,Date,Rk,School,Prev,Chng,Conf
+18,2010-03-08,1,Kansas* RT,2,1,Big 12
+18,2010-03-08,2,Kentucky* RT,3,1,SEC
+18,2010-03-08,3,Syracuse* R,1,2,Big East
+18,2010-03-08,4,Duke* RTFN,4,NC,ACC
+18,2010-03-08,5,Purdue* R,6,1,Big Ten
+18,2010-03-08,6,West Virginia* TF,8,2,Big East
+18,2010-03-08,7,Ohio State* RT,7,NC,Big Ten
+18,2010-03-08,8,New Mexico* R,10,2,MWC
+18,2010-03-08,9,Kansas State*,5,4,Big 12
+18,2010-03-08,10,Villanova*,9,1,Big East
+18,2010-03-08,11,Michigan State* RF,12,1,Big Ten
+18,2010-03-08,12,Butler* RTF,11,1,Horizon
+18,2010-03-08,13,Tennessee*,13,NC,SEC
+18,2010-03-08,14,Gonzaga* R,14,NC,WCC
+18,2010-03-08,15,Brigham Young*,15,NC,MWC
+18,2010-03-08,16,Pittsburgh*,18,2,Big East
+18,2010-03-08,17,Temple* RT,16,1,A-10
+18,2010-03-08,18,Wisconsin*,17,1,Big Ten
+18,2010-03-08,19,Maryland* R,23,4,ACC
+18,2010-03-08,20,Baylor*,22,2,Big 12
+18,2010-03-08,21,Texas-El Paso* R,21,NC,CUSA
+18,2010-03-08,22,Georgetown*,20,2,Big East
+18,2010-03-08,23,Vanderbilt*,19,4,SEC
+18,2010-03-08,24,Texas A&M*,24,NC,Big 12
+18,2010-03-08,25,Northern Iowa* RT,,,MVC
+Wk,Date,Rk,School,Prev,Chng,Conf
+17,2010-03-01,1,Syracuse* R,4,3,Big East
+17,2010-03-01,2,Kansas* RT,1,1,Big 12
+17,2010-03-01,3,Kentucky* RT,2,1,SEC
+17,2010-03-01,4,Duke* RTFN,5,1,ACC
+17,2010-03-01,5,Kansas State*,6,1,Big 12
+17,2010-03-01,6,Purdue* R,3,3,Big Ten
+17,2010-03-01,7,Ohio State* RT,9,2,Big Ten
+17,2010-03-01,8,West Virginia* TF,7,1,Big East
+17,2010-03-01,9,Villanova*,8,1,Big East
+17,2010-03-01,10,New Mexico* R,12,2,MWC
+17,2010-03-01,11,Butler* RTF,10,1,Horizon
+17,2010-03-01,12,Michigan State* RF,14,2,Big Ten
+17,2010-03-01,13,Tennessee*,17,4,SEC
+17,2010-03-01,14,Gonzaga* R,15,1,WCC
+17,2010-03-01,15,Brigham Young*,11,4,MWC
+17,2010-03-01,16,Temple* RT,18,2,A-10
+17,2010-03-01,17,Wisconsin*,19,2,Big Ten
+17,2010-03-01,18,Pittsburgh*,16,2,Big East
+17,2010-03-01,19,Vanderbilt*,20,1,SEC
+17,2010-03-01,20,Georgetown*,13,7,Big East
+17,2010-03-01,21,Texas-El Paso* R,25,4,CUSA
+17,2010-03-01,22,Baylor*,,,Big 12
+17,2010-03-01,23,Maryland* R,,,ACC
+17,2010-03-01,24,Texas A&M*,23,1,Big 12
+17,2010-03-01,25,Texas*,21,4,Big 12
+Wk,Date,Rk,School,Prev,Chng,Conf
+16,2010-02-22,1,Kansas* RT,1,NC,Big 12
+16,2010-02-22,2,Kentucky* RT,2,NC,SEC
+16,2010-02-22,3,Purdue* R,4,1,Big Ten
+16,2010-02-22,4,Syracuse* R,5,1,Big East
+16,2010-02-22,5,Duke* RTFN,6,1,ACC
+16,2010-02-22,6,Kansas State*,7,1,Big 12
+16,2010-02-22,7,West Virginia* TF,8,1,Big East
+16,2010-02-22,8,Villanova*,3,5,Big East
+16,2010-02-22,9,Ohio State* RT,12,3,Big Ten
+16,2010-02-22,10,Butler* RTF,13,3,Horizon
+16,2010-02-22,11,Brigham Young*,14,3,MWC
+16,2010-02-22,12,New Mexico* R,15,3,MWC
+16,2010-02-22,13,Georgetown*,10,3,Big East
+16,2010-02-22,14,Michigan State* RF,11,3,Big Ten
+16,2010-02-22,15,Gonzaga* R,9,6,WCC
+16,2010-02-22,16,Pittsburgh*,21,5,Big East
+16,2010-02-22,17,Tennessee*,18,1,SEC
+16,2010-02-22,18,Temple* RT,20,2,A-10
+16,2010-02-22,19,Wisconsin*,16,3,Big Ten
+16,2010-02-22,20,Vanderbilt*,19,1,SEC
+16,2010-02-22,21,Texas*,17,4,Big 12
+16,2010-02-22,22,Northern Iowa* RT,24,2,MVC
+16,2010-02-22,23,Texas A&M*,23,NC,Big 12
+16,2010-02-22,24,Richmond*,,,A-10
+16,2010-02-22,25,Texas-El Paso* R,,,CUSA
+Wk,Date,Rk,School,Prev,Chng,Conf
+15,2010-02-15,1,Kansas* RT,1,NC,Big 12
+15,2010-02-15,2,Kentucky* RT,2,NC,SEC
+15,2010-02-15,3,Villanova*,5,2,Big East
+15,2010-02-15,4,Purdue* R,6,2,Big Ten
+15,2010-02-15,5,Syracuse* R,3,2,Big East
+15,2010-02-15,6,Duke* RTFN,7,1,ACC
+15,2010-02-15,7,Kansas State*,9,2,Big 12
+15,2010-02-15,8,West Virginia* TF,4,4,Big East
+15,2010-02-15,9,Gonzaga* R,11,2,WCC
+15,2010-02-15,10,Georgetown*,8,2,Big East
+15,2010-02-15,11,Michigan State* RF,10,1,Big Ten
+15,2010-02-15,12,Ohio State* RT,16,4,Big Ten
+15,2010-02-15,13,Butler* RTF,15,2,Horizon
+15,2010-02-15,14,Brigham Young*,17,3,MWC
+15,2010-02-15,15,New Mexico* R,19,4,MWC
+15,2010-02-15,16,Wisconsin*,13,3,Big Ten
+15,2010-02-15,17,Texas*,14,3,Big 12
+15,2010-02-15,18,Tennessee*,12,6,SEC
+15,2010-02-15,19,Vanderbilt*,24,5,SEC
+15,2010-02-15,20,Temple* RT,21,1,A-10
+15,2010-02-15,21,Pittsburgh*,23,2,Big East
+15,2010-02-15,22,Baylor*,,,Big 12
+15,2010-02-15,23,Texas A&M*,,,Big 12
+15,2010-02-15,24,Northern Iowa* RT,18,6,MVC
+15,2010-02-15,25,Wake Forest*,,,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+14,2010-02-08,1,Kansas* RT,1,NC,Big 12
+14,2010-02-08,2,Kentucky* RT,3,1,SEC
+14,2010-02-08,3,Syracuse* R,4,1,Big East
+14,2010-02-08,4,West Virginia* TF,6,2,Big East
+14,2010-02-08,5,Villanova*,2,3,Big East
+14,2010-02-08,6,Purdue* R,7,1,Big Ten
+14,2010-02-08,7,Duke* RTFN,9,2,ACC
+14,2010-02-08,8,Georgetown*,8,NC,Big East
+14,2010-02-08,9,Kansas State*,11,2,Big 12
+14,2010-02-08,10,Michigan State* RF,5,5,Big Ten
+14,2010-02-08,11,Gonzaga* R,13,2,WCC
+14,2010-02-08,12,Tennessee*,14,2,SEC
+14,2010-02-08,13,Wisconsin*,16,3,Big Ten
+14,2010-02-08,14,Texas*,10,4,Big 12
+14,2010-02-08,15,Butler* RTF,15,NC,Horizon
+14,2010-02-08,16,Ohio State* RT,18,2,Big Ten
+14,2010-02-08,17,Brigham Young*,12,5,MWC
+14,2010-02-08,18,Northern Iowa* RT,22,4,MVC
+14,2010-02-08,19,New Mexico* R,23,4,MWC
+14,2010-02-08,20,Georgia Tech*,19,1,ACC
+14,2010-02-08,21,Temple* RT,17,4,A-10
+14,2010-02-08,22,Cornell* R,25,3,Ivy
+14,2010-02-08,23,Pittsburgh*,21,2,Big East
+14,2010-02-08,24,Vanderbilt*,20,4,SEC
+14,2010-02-08,25,Nevada-Las Vegas*,,,MWC
+Wk,Date,Rk,School,Prev,Chng,Conf
+13,2010-02-01,1,Kansas* RT,2,1,Big 12
+13,2010-02-01,2,Villanova*,3,1,Big East
+13,2010-02-01,3,Kentucky* RT,1,2,SEC
+13,2010-02-01,4,Syracuse* R,4,NC,Big East
+13,2010-02-01,5,Michigan State* RF,5,NC,Big Ten
+13,2010-02-01,6,West Virginia* TF,9,3,Big East
+13,2010-02-01,7,Purdue* R,12,5,Big Ten
+13,2010-02-01,8,Georgetown*,11,3,Big East
+13,2010-02-01,9,Duke* RTFN,7,2,ACC
+13,2010-02-01,10,Texas*,6,4,Big 12
+13,2010-02-01,11,Kansas State*,13,2,Big 12
+13,2010-02-01,12,Brigham Young*,10,2,MWC
+13,2010-02-01,13,Gonzaga* R,8,5,WCC
+13,2010-02-01,14,Tennessee*,14,NC,SEC
+13,2010-02-01,15,Butler* RTF,18,3,Horizon
+13,2010-02-01,16,Wisconsin*,16,NC,Big Ten
+13,2010-02-01,17,Temple* RT,15,2,A-10
+13,2010-02-01,18,Ohio State* RT,24,6,Big Ten
+13,2010-02-01,19,Georgia Tech*,22,3,ACC
+13,2010-02-01,20,Vanderbilt*,23,3,SEC
+13,2010-02-01,21,Pittsburgh*,17,4,Big East
+13,2010-02-01,22,Northern Iowa* RT,25,3,MVC
+13,2010-02-01,23,New Mexico* R,,,MWC
+13,2010-02-01,24,Baylor*,,,Big 12
+13,2010-02-01,25,Cornell* R,,,Ivy
+Wk,Date,Rk,School,Prev,Chng,Conf
+12,2010-01-25,1,Kentucky* RT,2,1,SEC
+12,2010-01-25,2,Kansas* RT,3,1,Big 12
+12,2010-01-25,3,Villanova*,4,1,Big East
+12,2010-01-25,4,Syracuse* R,5,1,Big East
+12,2010-01-25,5,Michigan State* RF,7,2,Big Ten
+12,2010-01-25,6,Texas*,1,5,Big 12
+12,2010-01-25,7,Duke* RTFN,6,1,ACC
+12,2010-01-25,8,Gonzaga* R,10,2,WCC
+12,2010-01-25,9,West Virginia* TF,12,3,Big East
+12,2010-01-25,10,Brigham Young*,13,3,MWC
+12,2010-01-25,11,Georgetown*,14,3,Big East
+12,2010-01-25,12,Purdue* R,15,3,Big Ten
+12,2010-01-25,13,Kansas State*,9,4,Big 12
+12,2010-01-25,14,Tennessee*,8,6,SEC
+12,2010-01-25,15,Temple* RT,17,2,A-10
+12,2010-01-25,16,Wisconsin*,19,3,Big Ten
+12,2010-01-25,17,Pittsburgh*,11,6,Big East
+12,2010-01-25,18,Butler* RTF,20,2,Horizon
+12,2010-01-25,19,Connecticut,21,2,Big East
+12,2010-01-25,20,Mississippi R,24,4,SEC
+12,2010-01-25,21,Clemson*,16,5,ACC
+12,2010-01-25,22,Georgia Tech*,18,4,ACC
+12,2010-01-25,23,Vanderbilt*,,,SEC
+12,2010-01-25,24,Ohio State* RT,25,1,Big Ten
+12,2010-01-25,25,Northern Iowa* RT,22,3,MVC
+Wk,Date,Rk,School,Prev,Chng,Conf
+11,2010-01-18,1,Texas*,1,NC,Big 12
+11,2010-01-18,2,Kentucky* RT,2,NC,SEC
+11,2010-01-18,3,Kansas* RT,3,NC,Big 12
+11,2010-01-18,4,Villanova*,4,NC,Big East
+11,2010-01-18,5,Syracuse* R,5,NC,Big East
+11,2010-01-18,6,Duke* RTFN,7,1,ACC
+11,2010-01-18,7,Michigan State* RF,8,1,Big Ten
+11,2010-01-18,8,Tennessee*,10,2,SEC
+11,2010-01-18,9,Kansas State*,12,3,Big 12
+11,2010-01-18,10,Gonzaga* R,14,4,WCC
+11,2010-01-18,11,Pittsburgh*,20,9,Big East
+11,2010-01-18,12,West Virginia* TF,9,3,Big East
+11,2010-01-18,13,Brigham Young*,17,4,MWC
+11,2010-01-18,14,Georgetown*,11,3,Big East
+11,2010-01-18,15,Purdue* R,6,9,Big Ten
+11,2010-01-18,16,Clemson*,19,3,ACC
+11,2010-01-18,17,Temple* RT,21,4,A-10
+11,2010-01-18,18,Georgia Tech*,18,NC,ACC
+11,2010-01-18,19,Wisconsin*,16,3,Big Ten
+11,2010-01-18,20,Butler* RTF,22,2,Horizon
+11,2010-01-18,21,Connecticut,15,6,Big East
+11,2010-01-18,22,Northern Iowa* RT,,,MVC
+11,2010-01-18,23,North Carolina,13,10,ACC
+11,2010-01-18,24,Mississippi R,23,1,SEC
+11,2010-01-18,25,Ohio State* RT,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+10,2010-01-11,1,Texas*,2,1,Big 12
+10,2010-01-11,2,Kentucky* RT,3,1,SEC
+10,2010-01-11,3,Kansas* RT,1,2,Big 12
+10,2010-01-11,4,Villanova*,6,2,Big East
+10,2010-01-11,5,Syracuse* R,7,2,Big East
+10,2010-01-11,6,Purdue* R,4,2,Big Ten
+10,2010-01-11,7,Duke* RTFN,5,2,ACC
+10,2010-01-11,8,Michigan State* RF,11,3,Big Ten
+10,2010-01-11,9,West Virginia* TF,8,1,Big East
+10,2010-01-11,10,Tennessee*,15,5,SEC
+10,2010-01-11,11,Georgetown*,12,1,Big East
+10,2010-01-11,12,Kansas State*,10,2,Big 12
+10,2010-01-11,13,North Carolina,9,4,ACC
+10,2010-01-11,14,Gonzaga* R,18,4,WCC
+10,2010-01-11,15,Connecticut,13,2,Big East
+10,2010-01-11,16,Wisconsin*,20,4,Big Ten
+10,2010-01-11,17,Brigham Young*,23,6,MWC
+10,2010-01-11,18,Georgia Tech*,17,1,ACC
+10,2010-01-11,19,Clemson*,21,2,ACC
+10,2010-01-11,20,Pittsburgh*,,,Big East
+10,2010-01-11,21,Temple* RT,25,4,A-10
+10,2010-01-11,22,Butler* RTF,24,2,Horizon
+10,2010-01-11,23,Mississippi R,16,7,SEC
+10,2010-01-11,24,Baylor*,,,Big 12
+10,2010-01-11,25,Florida State*,19,6,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+9,2010-01-04,1,Kansas* RT,1,NC,Big 12
+9,2010-01-04,2,Texas*,2,NC,Big 12
+9,2010-01-04,3,Kentucky* RT,3,NC,SEC
+9,2010-01-04,4,Purdue* R,4,NC,Big Ten
+9,2010-01-04,5,Duke* RTFN,7,2,ACC
+9,2010-01-04,6,Villanova*,8,2,Big East
+9,2010-01-04,7,Syracuse* R,5,2,Big East
+9,2010-01-04,8,West Virginia* TF,6,2,Big East
+9,2010-01-04,9,North Carolina,9,NC,ACC
+9,2010-01-04,10,Kansas State*,12,2,Big 12
+9,2010-01-04,11,Michigan State* RF,11,NC,Big Ten
+9,2010-01-04,12,Georgetown*,13,1,Big East
+9,2010-01-04,13,Connecticut,10,3,Big East
+9,2010-01-04,14,New Mexico* R,17,3,MWC
+9,2010-01-04,15,Tennessee*,14,1,SEC
+9,2010-01-04,16,Mississippi R,21,5,SEC
+9,2010-01-04,17,Georgia Tech*,20,3,ACC
+9,2010-01-04,18,Gonzaga* R,22,4,WCC
+9,2010-01-04,19,Florida State*,25,6,ACC
+9,2010-01-04,20,Wisconsin*,,,Big Ten
+9,2010-01-04,21,Clemson*,18,3,ACC
+9,2010-01-04,22,Washington* T,16,6,Pac-10
+9,2010-01-04,23,Brigham Young*,,,MWC
+9,2010-01-04,24,Butler* RTF,23,1,Horizon
+9,2010-01-04,25,Temple* RT,19,6,A-10
+Wk,Date,Rk,School,Prev,Chng,Conf
+8,2009-12-28,1,Kansas* RT,1,NC,Big 12
+8,2009-12-28,2,Texas*,2,NC,Big 12
+8,2009-12-28,3,Kentucky* RT,3,NC,SEC
+8,2009-12-28,4,Purdue* R,4,NC,Big Ten
+8,2009-12-28,5,Syracuse* R,5,NC,Big East
+8,2009-12-28,6,West Virginia* TF,6,NC,Big East
+8,2009-12-28,7,Duke* RTFN,7,NC,ACC
+8,2009-12-28,8,Villanova*,8,NC,Big East
+8,2009-12-28,9,North Carolina,10,1,ACC
+8,2009-12-28,10,Connecticut,11,1,Big East
+8,2009-12-28,11,Michigan State* RF,9,2,Big Ten
+8,2009-12-28,12,Kansas State*,15,3,Big 12
+8,2009-12-28,13,Georgetown*,13,NC,Big East
+8,2009-12-28,14,Tennessee*,14,NC,SEC
+8,2009-12-28,15,Ohio State* RT,17,2,Big Ten
+8,2009-12-28,16,Washington* T,19,3,Pac-10
+8,2009-12-28,17,New Mexico* R,12,5,MWC
+8,2009-12-28,18,Clemson*,23,5,ACC
+8,2009-12-28,19,Temple* RT,25,6,A-10
+8,2009-12-28,20,Georgia Tech*,22,2,ACC
+8,2009-12-28,21,Mississippi R,21,NC,SEC
+8,2009-12-28,22,Gonzaga* R,24,2,WCC
+8,2009-12-28,23,Butler* RTF,16,7,Horizon
+8,2009-12-28,24,Texas Tech,,,Big 12
+8,2009-12-28,25,Florida State*,,,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+7,2009-12-21,1,Kansas* RT,1,NC,Big 12
+7,2009-12-21,2,Texas*,2,NC,Big 12
+7,2009-12-21,3,Kentucky* RT,3,NC,SEC
+7,2009-12-21,4,Purdue* R,4,NC,Big Ten
+7,2009-12-21,5,Syracuse* R,5,NC,Big East
+7,2009-12-21,6,West Virginia* TF,6,NC,Big East
+7,2009-12-21,7,Duke* RTFN,7,NC,ACC
+7,2009-12-21,8,Villanova*,9,1,Big East
+7,2009-12-21,9,Michigan State* RF,12,3,Big Ten
+7,2009-12-21,10,North Carolina,10,NC,ACC
+7,2009-12-21,11,Connecticut,14,3,Big East
+7,2009-12-21,12,New Mexico* R,19,7,MWC
+7,2009-12-21,13,Georgetown*,11,2,Big East
+7,2009-12-21,14,Tennessee*,8,6,SEC
+7,2009-12-21,15,Kansas State*,22,7,Big 12
+7,2009-12-21,16,Butler* RTF,17,1,Horizon
+7,2009-12-21,17,Ohio State* RT,18,1,Big Ten
+7,2009-12-21,18,Florida*,13,5,SEC
+7,2009-12-21,19,Washington* T,21,2,Pac-10
+7,2009-12-21,20,Nevada-Las Vegas*,23,3,MWC
+7,2009-12-21,21,Mississippi R,25,4,SEC
+7,2009-12-21,22,Georgia Tech*,15,7,ACC
+7,2009-12-21,23,Clemson*,24,1,ACC
+7,2009-12-21,24,Gonzaga* R,15,9,WCC
+7,2009-12-21,25,Temple* RT,,,A-10
+Wk,Date,Rk,School,Prev,Chng,Conf
+6,2009-12-14,1,Kansas* RT,1,NC,Big 12
+6,2009-12-14,2,Texas*,2,NC,Big 12
+6,2009-12-14,3,Kentucky* RT,4,1,SEC
+6,2009-12-14,4,Purdue* R,5,1,Big Ten
+6,2009-12-14,5,Syracuse* R,6,1,Big East
+6,2009-12-14,6,West Virginia* TF,7,1,Big East
+6,2009-12-14,7,Duke* RTFN,8,1,ACC
+6,2009-12-14,8,Tennessee*,9,1,SEC
+6,2009-12-14,9,Villanova*,3,6,Big East
+6,2009-12-14,10,North Carolina,10,NC,ACC
+6,2009-12-14,11,Georgetown*,13,2,Big East
+6,2009-12-14,12,Michigan State* RF,14,2,Big Ten
+6,2009-12-14,13,Florida*,11,2,SEC
+6,2009-12-14,14,Connecticut,12,2,Big East
+6,2009-12-14,15,Gonzaga* R,22,7,WCC
+6,2009-12-14,15,Georgia Tech*,21,6,ACC
+6,2009-12-14,17,Butler* RTF,20,3,Horizon
+6,2009-12-14,18,Ohio State* RT,15,3,Big Ten
+6,2009-12-14,19,New Mexico* R,,,MWC
+6,2009-12-14,20,Texas Tech,,,Big 12
+6,2009-12-14,21,Washington* T,16,5,Pac-10
+6,2009-12-14,22,Kansas State*,,,Big 12
+6,2009-12-14,23,Nevada-Las Vegas*,17,6,MWC
+6,2009-12-14,24,Clemson*,25,1,ACC
+6,2009-12-14,25,Mississippi R,,,SEC
+Wk,Date,Rk,School,Prev,Chng,Conf
+5,2009-12-07,1,Kansas* RT,1,NC,Big 12
+5,2009-12-07,2,Texas*,2,NC,Big 12
+5,2009-12-07,3,Villanova*,3,NC,Big East
+5,2009-12-07,4,Kentucky* RT,4,NC,SEC
+5,2009-12-07,5,Purdue* R,6,1,Big Ten
+5,2009-12-07,6,Syracuse* R,7,1,Big East
+5,2009-12-07,7,West Virginia* TF,8,1,Big East
+5,2009-12-07,8,Duke* RTFN,5,3,ACC
+5,2009-12-07,9,Tennessee*,12,3,SEC
+5,2009-12-07,10,North Carolina,11,1,ACC
+5,2009-12-07,11,Florida*,17,6,SEC
+5,2009-12-07,12,Connecticut,13,1,Big East
+5,2009-12-07,13,Georgetown*,14,1,Big East
+5,2009-12-07,14,Michigan State* RF,9,5,Big Ten
+5,2009-12-07,15,Ohio State* RT,15,NC,Big Ten
+5,2009-12-07,16,Washington* T,10,6,Pac-10
+5,2009-12-07,17,Nevada-Las Vegas*,21,4,MWC
+5,2009-12-07,18,Texas A&M*,22,4,Big 12
+5,2009-12-07,19,Cincinnati,24,5,Big East
+5,2009-12-07,20,Butler* RTF,20,NC,Horizon
+5,2009-12-07,21,Georgia Tech*,23,2,ACC
+5,2009-12-07,22,Gonzaga* R,16,6,WCC
+5,2009-12-07,23,Wisconsin*,,,Big Ten
+5,2009-12-07,24,Vanderbilt*,,,SEC
+5,2009-12-07,25,Clemson*,19,6,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+4,2009-11-30,1,Kansas* RT,1,NC,Big 12
+4,2009-11-30,2,Texas*,3,1,Big 12
+4,2009-11-30,3,Villanova*,4,1,Big East
+4,2009-11-30,4,Kentucky* RT,5,1,SEC
+4,2009-11-30,5,Duke* RTFN,7,2,ACC
+4,2009-11-30,6,Purdue* R,6,NC,Big Ten
+4,2009-11-30,7,Syracuse* R,9,2,Big East
+4,2009-11-30,8,West Virginia* TF,8,NC,Big East
+4,2009-11-30,9,Michigan State* RF,2,7,Big Ten
+4,2009-11-30,10,Washington* T,14,4,Pac-10
+4,2009-11-30,11,North Carolina,12,1,ACC
+4,2009-11-30,12,Tennessee*,11,1,SEC
+4,2009-11-30,13,Connecticut,13,NC,Big East
+4,2009-11-30,14,Georgetown*,19,5,Big East
+4,2009-11-30,15,Ohio State* RT,18,3,Big Ten
+4,2009-11-30,16,Gonzaga* R,,,WCC
+4,2009-11-30,17,Florida*,,,SEC
+4,2009-11-30,18,Louisville*,17,1,Big East
+4,2009-11-30,19,Clemson*,19,NC,ACC
+4,2009-11-30,20,Butler* RTF,10,10,Horizon
+4,2009-11-30,21,Nevada-Las Vegas*,,,MWC
+4,2009-11-30,22,Texas A&M*,,,Big 12
+4,2009-11-30,23,Georgia Tech*,25,2,ACC
+4,2009-11-30,24,Cincinnati,,,Big East
+4,2009-11-30,25,California* R,23,2,Pac-10
+Wk,Date,Rk,School,Prev,Chng,Conf
+3,2009-11-23,1,Kansas* RT,1,NC,Big 12
+3,2009-11-23,2,Michigan State* RF,2,NC,Big Ten
+3,2009-11-23,3,Texas*,3,NC,Big 12
+3,2009-11-23,4,Villanova*,6,2,Big East
+3,2009-11-23,5,Kentucky* RT,5,NC,SEC
+3,2009-11-23,6,Purdue* R,7,1,Big Ten
+3,2009-11-23,7,Duke* RTFN,8,1,ACC
+3,2009-11-23,8,West Virginia* TF,9,1,Big East
+3,2009-11-23,9,Syracuse* R,24,15,Big East
+3,2009-11-23,10,Butler* RTF,10,NC,Horizon
+3,2009-11-23,11,Tennessee*,11,NC,SEC
+3,2009-11-23,12,North Carolina,4,8,ACC
+3,2009-11-23,13,Connecticut,13,NC,Big East
+3,2009-11-23,14,Washington* T,14,NC,Pac-10
+3,2009-11-23,15,Michigan,16,1,Big Ten
+3,2009-11-23,16,Minnesota*,18,2,Big Ten
+3,2009-11-23,17,Louisville*,22,5,Big East
+3,2009-11-23,18,Ohio State* RT,15,3,Big Ten
+3,2009-11-23,19,Clemson*,23,4,ACC
+3,2009-11-23,19,Georgetown*,20,1,Big East
+3,2009-11-23,21,Illinois,25,4,Big Ten
+3,2009-11-23,22,Maryland* R,,,ACC
+3,2009-11-23,23,California* R,12,11,Pac-10
+3,2009-11-23,24,Vanderbilt*,,,SEC
+3,2009-11-23,25,Georgia Tech*,19,6,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+2,2009-11-16,1,Kansas* RT,1,NC,Big 12
+2,2009-11-16,2,Michigan State* RF,2,NC,Big Ten
+2,2009-11-16,3,Texas*,3,NC,Big 12
+2,2009-11-16,4,North Carolina,4,NC,ACC
+2,2009-11-16,5,Kentucky* RT,5,NC,SEC
+2,2009-11-16,6,Villanova*,6,NC,Big East
+2,2009-11-16,7,Purdue* R,7,NC,Big Ten
+2,2009-11-16,8,Duke* RTFN,8,NC,ACC
+2,2009-11-16,9,West Virginia* TF,9,NC,Big East
+2,2009-11-16,10,Butler* RTF,10,NC,Horizon
+2,2009-11-16,11,Tennessee*,11,NC,SEC
+2,2009-11-16,12,California* R,12,NC,Pac-10
+2,2009-11-16,13,Connecticut,14,1,Big East
+2,2009-11-16,14,Washington* T,13,1,Pac-10
+2,2009-11-16,15,Ohio State* RT,17,2,Big Ten
+2,2009-11-16,16,Michigan,15,1,Big Ten
+2,2009-11-16,17,Oklahoma,16,1,Big 12
+2,2009-11-16,18,Minnesota*,18,NC,Big Ten
+2,2009-11-16,19,Georgia Tech*,20,1,ACC
+2,2009-11-16,20,Georgetown*,21,1,Big East
+2,2009-11-16,21,Dayton,22,1,A-10
+2,2009-11-16,22,Louisville*,23,1,Big East
+2,2009-11-16,23,Clemson*,24,1,ACC
+2,2009-11-16,24,Syracuse* R,25,1,Big East
+2,2009-11-16,25,Illinois,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+1,Preseason,1,Kansas* RT,NA,—,Big 12
+1,Preseason,2,Michigan State* RF,NA,—,Big Ten
+1,Preseason,3,Texas*,NA,—,Big 12
+1,Preseason,4,North Carolina,NA,—,ACC
+1,Preseason,5,Kentucky* RT,NA,—,SEC
+1,Preseason,6,Villanova*,NA,—,Big East
+1,Preseason,7,Purdue* R,NA,—,Big Ten
+1,Preseason,8,Duke* RTFN,NA,—,ACC
+1,Preseason,9,West Virginia* TF,NA,—,Big East
+1,Preseason,10,Butler* RTF,NA,—,Horizon
+1,Preseason,11,Tennessee*,NA,—,SEC
+1,Preseason,12,California* R,NA,—,Pac-10
+1,Preseason,13,Washington* T,NA,—,Pac-10
+1,Preseason,14,Connecticut,NA,—,Big East
+1,Preseason,15,Michigan,NA,—,Big Ten
+1,Preseason,16,Oklahoma,NA,—,Big 12
+1,Preseason,17,Ohio State* RT,NA,—,Big Ten
+1,Preseason,18,Minnesota*,NA,—,Big Ten
+1,Preseason,19,Mississippi State R,NA,—,SEC
+1,Preseason,20,Georgia Tech*,NA,—,ACC
+1,Preseason,21,Georgetown*,NA,—,Big East
+1,Preseason,22,Dayton,NA,—,A-10
+1,Preseason,23,Louisville*,NA,—,Big East
+1,Preseason,24,Clemson*,NA,—,ACC
+1,Preseason,25,Syracuse* R,NA,—,Big East

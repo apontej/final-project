@@ -1,0 +1,357 @@
+Wk,Date,Rk,School,Prev,Chng,Conf
+17,Final,1,Temple* RT,1,NC,A-10
+17,Final,2,Arizona* RTF,3,1,Pac-10
+17,Final,3,Purdue* R,2,1,Big Ten
+17,Final,4,Oklahoma* RTF,4,NC,Big 8
+17,Final,5,Duke* TF,8,3,ACC
+17,Final,6,Kentucky* RT,6,NC,SEC
+17,Final,7,North Carolina* R,9,2,ACC
+17,Final,8,Pittsburgh* R,5,3,Big East
+17,Final,9,Syracuse* T,13,4,Big East
+17,Final,10,Michigan*,10,NC,Big Ten
+17,Final,11,Bradley* RT,12,1,MVC
+17,Final,12,Nevada-Las Vegas* R,7,5,PCAA
+17,Final,13,Wyoming* T,14,1,WAC
+17,Final,14,North Carolina State*,11,3,ACC
+17,Final,15,Loyola Marymount* RT,16,1,WCC
+17,Final,16,Illinois*,19,3,Big Ten
+17,Final,17,Iowa*,15,2,Big Ten
+17,Final,18,Xavier* RT,20,2,MW Coll
+17,Final,19,Brigham Young* R,17,2,WAC
+17,Final,20,Kansas State*,,,Big 8
+Wk,Date,Rk,School,Prev,Chng,Conf
+16,1988-03-08,1,Temple* RT,1,NC,A-10
+16,1988-03-08,2,Purdue* R,2,NC,Big Ten
+16,1988-03-08,3,Arizona* RTF,3,NC,Pac-10
+16,1988-03-08,4,Oklahoma* RTF,4,NC,Big 8
+16,1988-03-08,5,Pittsburgh* R,7,2,Big East
+16,1988-03-08,6,Kentucky* RT,8,2,SEC
+16,1988-03-08,7,Nevada-Las Vegas* R,5,2,PCAA
+16,1988-03-08,8,Duke* TF,9,1,ACC
+16,1988-03-08,9,North Carolina* R,6,3,ACC
+16,1988-03-08,10,Michigan*,10,NC,Big Ten
+16,1988-03-08,11,North Carolina State*,16,5,ACC
+16,1988-03-08,12,Bradley* RT,14,2,MVC
+16,1988-03-08,13,Syracuse* T,12,1,Big East
+16,1988-03-08,14,Wyoming* T,17,3,WAC
+16,1988-03-08,15,Iowa*,11,4,Big Ten
+16,1988-03-08,16,Loyola Marymount* RT,18,2,WCC
+16,1988-03-08,17,Brigham Young* R,15,2,WAC
+16,1988-03-08,18,Georgia Tech*,13,5,ACC
+16,1988-03-08,19,Illinois*,,,Big Ten
+16,1988-03-08,20,Xavier* RT,20,NC,MW Coll
+Wk,Date,Rk,School,Prev,Chng,Conf
+15,1988-03-01,1,Temple* RT,1,NC,A-10
+15,1988-03-01,2,Purdue* R,2,NC,Big Ten
+15,1988-03-01,3,Arizona* RTF,3,NC,Pac-10
+15,1988-03-01,4,Oklahoma* RTF,4,NC,Big 8
+15,1988-03-01,5,Nevada-Las Vegas* R,8,3,PCAA
+15,1988-03-01,6,North Carolina* R,9,3,ACC
+15,1988-03-01,7,Pittsburgh* R,6,1,Big East
+15,1988-03-01,8,Kentucky* RT,12,4,SEC
+15,1988-03-01,9,Duke* TF,5,4,ACC
+15,1988-03-01,10,Michigan*,7,3,Big Ten
+15,1988-03-01,11,Iowa*,13,2,Big Ten
+15,1988-03-01,12,Syracuse* T,10,2,Big East
+15,1988-03-01,13,Georgia Tech*,20,7,ACC
+15,1988-03-01,14,Bradley* RT,14,NC,MVC
+15,1988-03-01,15,Brigham Young* R,11,4,WAC
+15,1988-03-01,16,North Carolina State*,,,ACC
+15,1988-03-01,17,Wyoming* T,16,1,WAC
+15,1988-03-01,18,Loyola Marymount* RT,19,1,WCC
+15,1988-03-01,19,Vanderbilt*,17,2,SEC
+15,1988-03-01,20,Xavier* RT,,,MW Coll
+Wk,Date,Rk,School,Prev,Chng,Conf
+14,1988-02-23,1,Temple* RT,1,NC,A-10
+14,1988-02-23,2,Purdue* R,2,NC,Big Ten
+14,1988-02-23,3,Arizona* RTF,3,NC,Pac-10
+14,1988-02-23,4,Oklahoma* RTF,4,NC,Big 8
+14,1988-02-23,5,Duke* TF,6,1,ACC
+14,1988-02-23,6,Pittsburgh* R,8,2,Big East
+14,1988-02-23,7,Michigan*,10,3,Big Ten
+14,1988-02-23,8,Nevada-Las Vegas* R,11,3,PCAA
+14,1988-02-23,9,North Carolina* R,5,4,ACC
+14,1988-02-23,10,Syracuse* T,12,2,Big East
+14,1988-02-23,11,Brigham Young* R,7,4,WAC
+14,1988-02-23,12,Kentucky* RT,9,3,SEC
+14,1988-02-23,13,Iowa*,13,NC,Big Ten
+14,1988-02-23,14,Bradley* RT,17,3,MVC
+14,1988-02-23,15,Missouri*,15,NC,Big 8
+14,1988-02-23,16,Wyoming* T,19,3,WAC
+14,1988-02-23,17,Vanderbilt*,16,1,SEC
+14,1988-02-23,18,Southern Mississippi,,,Metro
+14,1988-02-23,19,Loyola Marymount* RT,20,1,WCC
+14,1988-02-23,20,Georgia Tech*,,,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+13,1988-02-16,1,Temple* RT,1,NC,A-10
+13,1988-02-16,2,Purdue* R,2,NC,Big Ten
+13,1988-02-16,3,Arizona* RTF,3,NC,Pac-10
+13,1988-02-16,4,Oklahoma* RTF,4,NC,Big 8
+13,1988-02-16,5,North Carolina* R,6,1,ACC
+13,1988-02-16,6,Duke* TF,8,2,ACC
+13,1988-02-16,7,Brigham Young* R,8,1,WAC
+13,1988-02-16,8,Pittsburgh* R,5,3,Big East
+13,1988-02-16,9,Kentucky* RT,10,1,SEC
+13,1988-02-16,10,Michigan*,12,2,Big Ten
+13,1988-02-16,11,Nevada-Las Vegas* R,7,4,PCAA
+13,1988-02-16,12,Syracuse* T,11,1,Big East
+13,1988-02-16,13,Iowa*,13,NC,Big Ten
+13,1988-02-16,14,North Carolina State*,16,2,ACC
+13,1988-02-16,15,Missouri*,,,Big 8
+13,1988-02-16,16,Vanderbilt*,17,1,SEC
+13,1988-02-16,17,Bradley* RT,15,2,MVC
+13,1988-02-16,18,Georgetown*,,,Big East
+13,1988-02-16,19,Wyoming* T,18,1,WAC
+13,1988-02-16,20,Loyola Marymount* RT,,,WCC
+Wk,Date,Rk,School,Prev,Chng,Conf
+12,1988-02-09,1,Temple* RT,5,4,A-10
+12,1988-02-09,2,Purdue* R,6,4,Big Ten
+12,1988-02-09,3,Arizona* RTF,1,2,Pac-10
+12,1988-02-09,4,Oklahoma* RTF,7,3,Big 8
+12,1988-02-09,5,Pittsburgh* R,9,4,Big East
+12,1988-02-09,6,North Carolina* R,8,2,ACC
+12,1988-02-09,7,Nevada-Las Vegas* R,2,5,PCAA
+12,1988-02-09,8,Brigham Young* R,3,5,WAC
+12,1988-02-09,8,Duke* TF,4,4,ACC
+12,1988-02-09,10,Kentucky* RT,10,NC,SEC
+12,1988-02-09,11,Syracuse* T,12,1,Big East
+12,1988-02-09,12,Michigan*,11,1,Big Ten
+12,1988-02-09,13,Iowa*,13,NC,Big Ten
+12,1988-02-09,14,Kansas State*,,,Big 8
+12,1988-02-09,15,Bradley* RT,18,3,MVC
+12,1988-02-09,16,North Carolina State*,,,ACC
+12,1988-02-09,17,Vanderbilt*,15,2,SEC
+12,1988-02-09,18,Wyoming* T,,,WAC
+12,1988-02-09,19,Indiana*,,,Big Ten
+12,1988-02-09,20,Villanova*,,,Big East
+Wk,Date,Rk,School,Prev,Chng,Conf
+11,1988-02-02,1,Arizona* RTF,1,NC,Pac-10
+11,1988-02-02,2,Nevada-Las Vegas* R,4,2,PCAA
+11,1988-02-02,3,Brigham Young* R,7,4,WAC
+11,1988-02-02,4,Duke* TF,5,1,ACC
+11,1988-02-02,5,Temple* RT,6,1,A-10
+11,1988-02-02,6,Purdue* R,2,4,Big Ten
+11,1988-02-02,7,Oklahoma* RTF,10,3,Big 8
+11,1988-02-02,8,North Carolina* R,3,5,ACC
+11,1988-02-02,9,Pittsburgh* R,11,2,Big East
+11,1988-02-02,10,Kentucky* RT,9,1,SEC
+11,1988-02-02,11,Michigan*,8,3,Big Ten
+11,1988-02-02,12,Syracuse* T,17,5,Big East
+11,1988-02-02,13,Iowa*,16,3,Big Ten
+11,1988-02-02,14,Georgetown*,15,1,Big East
+11,1988-02-02,15,Vanderbilt*,,,SEC
+11,1988-02-02,16,Iowa State*,12,4,Big 8
+11,1988-02-02,17,Illinois*,13,4,Big Ten
+11,1988-02-02,18,Bradley* RT,,,MVC
+11,1988-02-02,19,Florida*,14,5,SEC
+11,1988-02-02,20,St. John's (NY)*,,,Big East
+Wk,Date,Rk,School,Prev,Chng,Conf
+10,1988-01-26,1,Arizona* RTF,1,NC,Pac-10
+10,1988-01-26,2,Purdue* R,5,3,Big Ten
+10,1988-01-26,3,North Carolina* R,2,1,ACC
+10,1988-01-26,4,Nevada-Las Vegas* R,8,4,PCAA
+10,1988-01-26,5,Duke* TF,9,4,ACC
+10,1988-01-26,6,Temple* RT,3,3,A-10
+10,1988-01-26,7,Brigham Young* R,12,5,WAC
+10,1988-01-26,8,Michigan*,7,1,Big Ten
+10,1988-01-26,9,Kentucky* RT,4,5,SEC
+10,1988-01-26,10,Oklahoma* RTF,11,1,Big 8
+10,1988-01-26,11,Pittsburgh* R,6,5,Big East
+10,1988-01-26,12,Iowa State*,10,2,Big 8
+10,1988-01-26,13,Illinois*,13,NC,Big Ten
+10,1988-01-26,14,Florida*,,,SEC
+10,1988-01-26,15,Georgetown*,15,NC,Big East
+10,1988-01-26,16,Iowa*,19,3,Big Ten
+10,1988-01-26,17,Syracuse* T,14,3,Big East
+10,1988-01-26,18,Texas-El Paso*,18,NC,WAC
+10,1988-01-26,19,Villanova*,,,Big East
+10,1988-01-26,20,Southern Mississippi,,,Metro
+Wk,Date,Rk,School,Prev,Chng,Conf
+9,1988-01-19,1,Arizona* RTF,1,NC,Pac-10
+9,1988-01-19,2,North Carolina* R,2,NC,ACC
+9,1988-01-19,3,Temple* RT,4,1,A-10
+9,1988-01-19,4,Kentucky* RT,5,1,SEC
+9,1988-01-19,5,Purdue* R,8,3,Big Ten
+9,1988-01-19,6,Pittsburgh* R,6,NC,Big East
+9,1988-01-19,7,Michigan*,10,3,Big Ten
+9,1988-01-19,8,Nevada-Las Vegas* R,13,5,PCAA
+9,1988-01-19,9,Duke* TF,7,2,ACC
+9,1988-01-19,10,Iowa State*,14,4,Big 8
+9,1988-01-19,11,Oklahoma* RTF,3,8,Big 8
+9,1988-01-19,12,Brigham Young* R,,,WAC
+9,1988-01-19,13,Illinois*,20,7,Big Ten
+9,1988-01-19,14,Syracuse* T,9,5,Big East
+9,1988-01-19,15,Georgetown*,11,4,Big East
+9,1988-01-19,16,Kansas* FN,16,NC,Big 8
+9,1988-01-19,17,Wyoming* T,12,5,WAC
+9,1988-01-19,18,Texas-El Paso*,,,WAC
+9,1988-01-19,19,Iowa*,17,2,Big Ten
+9,1988-01-19,20,North Carolina State*,,,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+8,1988-01-12,1,Arizona* RTF,3,2,Pac-10
+8,1988-01-12,2,North Carolina* R,4,2,ACC
+8,1988-01-12,3,Oklahoma* RTF,8,5,Big 8
+8,1988-01-12,4,Temple* RT,6,2,A-10
+8,1988-01-12,5,Kentucky* RT,1,4,SEC
+8,1988-01-12,6,Pittsburgh* R,2,4,Big East
+8,1988-01-12,7,Duke* TF,9,2,ACC
+8,1988-01-12,8,Purdue* R,10,2,Big Ten
+8,1988-01-12,9,Syracuse* T,7,2,Big East
+8,1988-01-12,10,Michigan*,11,1,Big Ten
+8,1988-01-12,11,Georgetown*,14,3,Big East
+8,1988-01-12,12,Wyoming* T,5,7,WAC
+8,1988-01-12,13,Nevada-Las Vegas* R,13,NC,PCAA
+8,1988-01-12,14,Iowa State*,17,3,Big 8
+8,1988-01-12,15,Indiana*,12,3,Big Ten
+8,1988-01-12,16,Kansas* FN,18,2,Big 8
+8,1988-01-12,17,Iowa*,16,1,Big Ten
+8,1988-01-12,18,New Mexico,,,WAC
+8,1988-01-12,19,Auburn*,,,SEC
+8,1988-01-12,20,Illinois*,19,1,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+7,1988-01-05,1,Kentucky* RT,2,1,SEC
+7,1988-01-05,2,Pittsburgh* R,3,1,Big East
+7,1988-01-05,3,Arizona* RTF,1,2,Pac-10
+7,1988-01-05,4,North Carolina* R,4,NC,ACC
+7,1988-01-05,5,Wyoming* T,5,NC,WAC
+7,1988-01-05,6,Temple* RT,6,NC,A-10
+7,1988-01-05,7,Syracuse* T,7,NC,Big East
+7,1988-01-05,8,Oklahoma* RTF,10,2,Big 8
+7,1988-01-05,9,Duke* TF,9,NC,ACC
+7,1988-01-05,10,Purdue* R,11,1,Big Ten
+7,1988-01-05,11,Michigan*,12,1,Big Ten
+7,1988-01-05,12,Indiana*,13,1,Big Ten
+7,1988-01-05,13,Nevada-Las Vegas* R,15,2,PCAA
+7,1988-01-05,14,Georgetown*,18,4,Big East
+7,1988-01-05,15,Florida*,8,7,SEC
+7,1988-01-05,16,Iowa*,14,2,Big Ten
+7,1988-01-05,17,Iowa State*,16,1,Big 8
+7,1988-01-05,18,Kansas* FN,17,1,Big 8
+7,1988-01-05,19,Illinois*,,,Big Ten
+7,1988-01-05,20,St. John's (NY)*,,,Big East
+Wk,Date,Rk,School,Prev,Chng,Conf
+6,1987-12-29,1,Arizona* RTF,1,NC,Pac-10
+6,1987-12-29,2,Kentucky* RT,2,NC,SEC
+6,1987-12-29,3,Pittsburgh* R,3,NC,Big East
+6,1987-12-29,4,North Carolina* R,4,NC,ACC
+6,1987-12-29,5,Wyoming* T,5,NC,WAC
+6,1987-12-29,6,Temple* RT,6,NC,A-10
+6,1987-12-29,7,Syracuse* T,7,NC,Big East
+6,1987-12-29,8,Florida*,8,NC,SEC
+6,1987-12-29,9,Duke* TF,9,NC,ACC
+6,1987-12-29,10,Oklahoma* RTF,12,2,Big 8
+6,1987-12-29,11,Purdue* R,10,1,Big Ten
+6,1987-12-29,12,Michigan*,11,1,Big Ten
+6,1987-12-29,13,Indiana*,13,NC,Big Ten
+6,1987-12-29,14,Iowa*,14,NC,Big Ten
+6,1987-12-29,15,Nevada-Las Vegas* R,15,NC,PCAA
+6,1987-12-29,16,Iowa State*,16,NC,Big 8
+6,1987-12-29,17,Kansas* FN,18,1,Big 8
+6,1987-12-29,18,Georgetown*,19,1,Big East
+6,1987-12-29,19,Memphis*,20,1,Metro
+6,1987-12-29,20,Louisville* RT,,,Metro
+Wk,Date,Rk,School,Prev,Chng,Conf
+5,1987-12-22,1,Arizona* RTF,2,1,Pac-10
+5,1987-12-22,2,Kentucky* RT,1,1,SEC
+5,1987-12-22,3,Pittsburgh* R,3,NC,Big East
+5,1987-12-22,4,North Carolina* R,4,NC,ACC
+5,1987-12-22,5,Wyoming* T,6,1,WAC
+5,1987-12-22,6,Temple* RT,8,2,A-10
+5,1987-12-22,7,Syracuse* T,9,2,Big East
+5,1987-12-22,8,Florida*,11,3,SEC
+5,1987-12-22,9,Duke* TF,10,1,ACC
+5,1987-12-22,10,Purdue* R,12,2,Big Ten
+5,1987-12-22,11,Michigan*,13,2,Big Ten
+5,1987-12-22,12,Oklahoma* RTF,14,2,Big 8
+5,1987-12-22,13,Indiana*,5,8,Big Ten
+5,1987-12-22,14,Iowa*,7,7,Big Ten
+5,1987-12-22,15,Nevada-Las Vegas* R,15,NC,PCAA
+5,1987-12-22,16,Iowa State*,20,4,Big 8
+5,1987-12-22,17,Missouri*,16,1,Big 8
+5,1987-12-22,18,Kansas* FN,17,1,Big 8
+5,1987-12-22,19,Georgetown*,18,1,Big East
+5,1987-12-22,20,Memphis*,19,1,Metro
+Wk,Date,Rk,School,Prev,Chng,Conf
+4,1987-12-15,1,Kentucky* RT,1,NC,SEC
+4,1987-12-15,2,Arizona* RTF,4,2,Pac-10
+4,1987-12-15,3,Pittsburgh* R,2,1,Big East
+4,1987-12-15,4,North Carolina* R,5,1,ACC
+4,1987-12-15,5,Indiana*,6,1,Big Ten
+4,1987-12-15,6,Wyoming* T,7,1,WAC
+4,1987-12-15,7,Iowa*,3,4,Big Ten
+4,1987-12-15,8,Temple* RT,11,3,A-10
+4,1987-12-15,9,Syracuse* T,8,1,Big East
+4,1987-12-15,10,Duke* TF,10,NC,ACC
+4,1987-12-15,11,Florida*,12,1,SEC
+4,1987-12-15,12,Purdue* R,13,1,Big Ten
+4,1987-12-15,13,Michigan*,15,2,Big Ten
+4,1987-12-15,14,Oklahoma* RTF,16,2,Big 8
+4,1987-12-15,15,Nevada-Las Vegas* R,17,2,PCAA
+4,1987-12-15,16,Missouri*,9,7,Big 8
+4,1987-12-15,17,Kansas* FN,18,1,Big 8
+4,1987-12-15,18,Georgetown*,14,4,Big East
+4,1987-12-15,19,Memphis*,20,1,Metro
+4,1987-12-15,20,Iowa State*,,,Big 8
+Wk,Date,Rk,School,Prev,Chng,Conf
+3,1987-12-08,1,Kentucky* RT,2,1,SEC
+3,1987-12-08,2,Pittsburgh* R,4,2,Big East
+3,1987-12-08,3,Iowa*,6,3,Big Ten
+3,1987-12-08,4,Arizona* RTF,9,5,Pac-10
+3,1987-12-08,5,North Carolina* R,1,4,ACC
+3,1987-12-08,6,Indiana*,5,1,Big Ten
+3,1987-12-08,7,Wyoming* T,10,3,WAC
+3,1987-12-08,8,Syracuse* T,3,5,Big East
+3,1987-12-08,9,Missouri*,8,1,Big 8
+3,1987-12-08,10,Duke* TF,13,3,ACC
+3,1987-12-08,11,Temple* RT,12,1,A-10
+3,1987-12-08,12,Florida*,7,5,SEC
+3,1987-12-08,13,Purdue* R,11,2,Big Ten
+3,1987-12-08,14,Georgetown*,17,3,Big East
+3,1987-12-08,15,Michigan*,15,NC,Big Ten
+3,1987-12-08,16,Oklahoma* RTF,18,2,Big 8
+3,1987-12-08,17,Nevada-Las Vegas* R,19,2,PCAA
+3,1987-12-08,18,Kansas* FN,16,2,Big 8
+3,1987-12-08,19,Notre Dame*,,,Ind
+3,1987-12-08,20,Memphis*,20,NC,Metro
+Wk,Date,Rk,School,Prev,Chng,Conf
+2,1987-12-01,1,North Carolina* R,3,2,ACC
+2,1987-12-01,2,Kentucky* RT,5,3,SEC
+2,1987-12-01,3,Syracuse* T,1,2,Big East
+2,1987-12-01,4,Pittsburgh* R,4,NC,Big East
+2,1987-12-01,5,Indiana*,6,1,Big Ten
+2,1987-12-01,6,Iowa*,11,5,Big Ten
+2,1987-12-01,7,Florida*,14,7,SEC
+2,1987-12-01,8,Missouri*,8,NC,Big 8
+2,1987-12-01,9,Arizona* RTF,17,8,Pac-10
+2,1987-12-01,10,Wyoming* T,10,NC,WAC
+2,1987-12-01,11,Purdue* R,2,9,Big Ten
+2,1987-12-01,12,Temple* RT,12,NC,A-10
+2,1987-12-01,13,Duke* TF,15,2,ACC
+2,1987-12-01,14,Louisville* RT,13,1,Metro
+2,1987-12-01,15,Michigan*,9,6,Big Ten
+2,1987-12-01,16,Kansas* FN,7,9,Big 8
+2,1987-12-01,17,Georgetown*,16,1,Big East
+2,1987-12-01,18,Oklahoma* RTF,19,1,Big 8
+2,1987-12-01,19,Nevada-Las Vegas* R,,,PCAA
+2,1987-12-01,20,Memphis*,,,Metro
+Wk,Date,Rk,School,Prev,Chng,Conf
+1,Preseason,1,Syracuse* T,NA,—,Big East
+1,Preseason,2,Purdue* R,NA,—,Big Ten
+1,Preseason,3,North Carolina* R,NA,—,ACC
+1,Preseason,4,Pittsburgh* R,NA,—,Big East
+1,Preseason,5,Kentucky* RT,NA,—,SEC
+1,Preseason,6,Indiana*,NA,—,Big Ten
+1,Preseason,7,Kansas* FN,NA,—,Big 8
+1,Preseason,8,Missouri*,NA,—,Big 8
+1,Preseason,9,Michigan*,NA,—,Big Ten
+1,Preseason,10,Wyoming* T,NA,—,WAC
+1,Preseason,11,Iowa*,NA,—,Big Ten
+1,Preseason,12,Temple* RT,NA,—,A-10
+1,Preseason,13,Louisville* RT,NA,—,Metro
+1,Preseason,14,Florida*,NA,—,SEC
+1,Preseason,15,Duke* TF,NA,—,ACC
+1,Preseason,16,Georgetown*,NA,—,Big East
+1,Preseason,17,Arizona* RTF,NA,—,Pac-10
+1,Preseason,18,Georgia Tech*,NA,—,ACC
+1,Preseason,19,Oklahoma* RTF,NA,—,Big 8
+1,Preseason,20,DePaul*,NA,—,Ind

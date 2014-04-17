@@ -1,0 +1,358 @@
+Wk,Date,Rk,School,Prev,Chng,Conf
+17,Final,1,Houston* RTF,1,NC,SWC
+17,Final,2,Louisville* RTF,3,1,Metro
+17,Final,3,St. John's (NY)* RT,8,5,Big East
+17,Final,4,Virginia* R,2,2,ACC
+17,Final,5,Indiana* R,7,2,Big Ten
+17,Final,6,Nevada-Las Vegas* RT,9,3,PCAA
+17,Final,7,UCLA* R,4,3,Pac-10
+17,Final,8,North Carolina* R,5,3,ACC
+17,Final,9,Arkansas*,6,3,SWC
+17,Final,10,Missouri* R,12,2,Big 8
+17,Final,11,Boston College* R,14,3,Big East
+17,Final,12,Kentucky* R,10,2,SEC
+17,Final,13,Villanova* R,13,NC,Big East
+17,Final,14,Wichita State R,11,3,MVC
+17,Final,15,Chattanooga* RT,18,3,Southern
+17,Final,16,North Carolina State* TFN,,,ACC
+17,Final,17,Memphis*,17,NC,Metro
+17,Final,18,Georgia* TF,,,SEC
+17,Final,19,Oklahoma State* T,,,Big 8
+17,Final,20,Georgetown*,15,5,Big East
+Wk,Date,Rk,School,Prev,Chng,Conf
+16,1983-03-08,1,Houston* RTF,1,NC,SWC
+16,1983-03-08,2,Virginia* R,2,NC,ACC
+16,1983-03-08,3,Louisville* RTF,3,NC,Metro
+16,1983-03-08,4,UCLA* R,6,2,Pac-10
+16,1983-03-08,5,North Carolina* R,8,3,ACC
+16,1983-03-08,6,Arkansas*,5,1,SWC
+16,1983-03-08,7,Indiana* R,11,4,Big Ten
+16,1983-03-08,8,St. John's (NY)* RT,10,2,Big East
+16,1983-03-08,9,Nevada-Las Vegas* RT,9,NC,PCAA
+16,1983-03-08,10,Kentucky* R,7,3,SEC
+16,1983-03-08,11,Wichita State R,12,1,MVC
+16,1983-03-08,12,Missouri* R,13,1,Big 8
+16,1983-03-08,13,Villanova* R,4,9,Big East
+16,1983-03-08,14,Boston College* R,15,1,Big East
+16,1983-03-08,15,Georgetown*,16,1,Big East
+16,1983-03-08,16,Ohio State*,14,2,Big Ten
+16,1983-03-08,17,Memphis*,17,NC,Metro
+16,1983-03-08,18,Chattanooga* RT,19,1,Southern
+16,1983-03-08,19,Oklahoma*,,,Big 8
+16,1983-03-08,20,Syracuse*,18,2,Big East
+Wk,Date,Rk,School,Prev,Chng,Conf
+15,1983-03-01,1,Houston* RTF,2,1,SWC
+15,1983-03-01,2,Virginia* R,3,1,ACC
+15,1983-03-01,3,Louisville* RTF,5,2,Metro
+15,1983-03-01,4,Villanova* R,7,3,Big East
+15,1983-03-01,5,Arkansas*,6,1,SWC
+15,1983-03-01,6,UCLA* R,8,2,Pac-10
+15,1983-03-01,7,Kentucky* R,10,3,SEC
+15,1983-03-01,8,North Carolina* R,11,3,ACC
+15,1983-03-01,9,Nevada-Las Vegas* RT,1,8,PCAA
+15,1983-03-01,10,St. John's (NY)* RT,9,1,Big East
+15,1983-03-01,11,Indiana* R,4,7,Big Ten
+15,1983-03-01,12,Wichita State R,12,NC,MVC
+15,1983-03-01,13,Missouri* R,15,2,Big 8
+15,1983-03-01,14,Ohio State*,15,1,Big Ten
+15,1983-03-01,15,Boston College* R,19,4,Big East
+15,1983-03-01,16,Georgetown*,18,2,Big East
+15,1983-03-01,17,Memphis*,14,3,Metro
+15,1983-03-01,18,Syracuse*,13,5,Big East
+15,1983-03-01,19,Chattanooga* RT,,,Southern
+15,1983-03-01,20,Purdue*,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+14,1983-02-22,1,Nevada-Las Vegas* RT,1,NC,PCAA
+14,1983-02-22,2,Houston* RTF,4,2,SWC
+14,1983-02-22,3,Virginia* R,5,2,ACC
+14,1983-02-22,4,Indiana* R,2,2,Big Ten
+14,1983-02-22,5,Louisville* RTF,9,4,Metro
+14,1983-02-22,6,Arkansas*,7,1,SWC
+14,1983-02-22,7,Villanova* R,8,1,Big East
+14,1983-02-22,8,UCLA* R,10,2,Pac-10
+14,1983-02-22,9,St. John's (NY)* RT,6,3,Big East
+14,1983-02-22,10,Kentucky* R,11,1,SEC
+14,1983-02-22,11,North Carolina* R,3,8,ACC
+14,1983-02-22,12,Wichita State R,15,3,MVC
+14,1983-02-22,13,Syracuse*,17,4,Big East
+14,1983-02-22,14,Memphis*,13,1,Metro
+14,1983-02-22,15,Missouri* R,12,3,Big 8
+14,1983-02-22,15,Ohio State*,20,5,Big Ten
+14,1983-02-22,17,Iowa*,16,1,Big Ten
+14,1983-02-22,18,Georgetown*,14,4,Big East
+14,1983-02-22,19,Boston College* R,18,1,Big East
+14,1983-02-22,20,Tennessee*,,,SEC
+Wk,Date,Rk,School,Prev,Chng,Conf
+13,1983-02-15,1,Nevada-Las Vegas* RT,2,1,PCAA
+13,1983-02-15,2,Indiana* R,4,2,Big Ten
+13,1983-02-15,3,North Carolina* R,1,2,ACC
+13,1983-02-15,4,Houston* RTF,6,2,SWC
+13,1983-02-15,5,Virginia* R,3,2,ACC
+13,1983-02-15,6,St. John's (NY)* RT,7,1,Big East
+13,1983-02-15,7,Arkansas*,8,1,SWC
+13,1983-02-15,8,Villanova* R,12,4,Big East
+13,1983-02-15,9,Louisville* RTF,11,2,Metro
+13,1983-02-15,10,UCLA* R,5,5,Pac-10
+13,1983-02-15,11,Kentucky* R,13,2,SEC
+13,1983-02-15,12,Missouri* R,10,2,Big 8
+13,1983-02-15,13,Memphis*,9,4,Metro
+13,1983-02-15,14,Georgetown*,14,NC,Big East
+13,1983-02-15,15,Wichita State R,16,1,MVC
+13,1983-02-15,16,Iowa*,20,4,Big Ten
+13,1983-02-15,17,Syracuse*,15,2,Big East
+13,1983-02-15,18,Boston College* R,,,Big East
+13,1983-02-15,19,Oklahoma*,,,Big 8
+13,1983-02-15,20,Ohio State*,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+12,1983-02-08,1,North Carolina* R,1,NC,ACC
+12,1983-02-08,2,Nevada-Las Vegas* RT,2,NC,PCAA
+12,1983-02-08,3,Virginia* R,3,NC,ACC
+12,1983-02-08,4,Indiana* R,6,2,Big Ten
+12,1983-02-08,5,UCLA* R,7,2,Pac-10
+12,1983-02-08,6,Houston* RTF,8,2,SWC
+12,1983-02-08,7,St. John's (NY)* RT,5,2,Big East
+12,1983-02-08,8,Arkansas*,9,1,SWC
+12,1983-02-08,9,Memphis*,4,5,Metro
+12,1983-02-08,10,Missouri* R,10,NC,Big 8
+12,1983-02-08,11,Louisville* RTF,12,1,Metro
+12,1983-02-08,12,Villanova* R,11,1,Big East
+12,1983-02-08,13,Kentucky* R,15,2,SEC
+12,1983-02-08,14,Georgetown*,14,NC,Big East
+12,1983-02-08,15,Syracuse*,20,5,Big East
+12,1983-02-08,16,Wichita State R,,,MVC
+12,1983-02-08,17,Illinois State* T,16,1,MVC
+12,1983-02-08,18,Purdue*,,,Big Ten
+12,1983-02-08,19,Minnesota,17,2,Big Ten
+12,1983-02-08,20,Iowa*,13,7,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+11,1983-02-01,1,North Carolina* R,3,2,ACC
+11,1983-02-01,2,Nevada-Las Vegas* RT,4,2,PCAA
+11,1983-02-01,3,Virginia* R,6,3,ACC
+11,1983-02-01,4,Memphis*,5,1,Metro
+11,1983-02-01,5,St. John's (NY)* RT,7,2,Big East
+11,1983-02-01,6,Indiana* R,2,4,Big Ten
+11,1983-02-01,7,UCLA* R,1,6,Pac-10
+11,1983-02-01,8,Houston* RTF,9,1,SWC
+11,1983-02-01,9,Arkansas*,12,3,SWC
+11,1983-02-01,10,Missouri* R,13,3,Big 8
+11,1983-02-01,11,Villanova* R,11,NC,Big East
+11,1983-02-01,12,Louisville* RTF,8,4,Metro
+11,1983-02-01,13,Iowa*,14,1,Big Ten
+11,1983-02-01,14,Georgetown*,15,1,Big East
+11,1983-02-01,15,Kentucky* R,10,5,SEC
+11,1983-02-01,16,Illinois State* T,17,1,MVC
+11,1983-02-01,17,Minnesota,16,1,Big Ten
+11,1983-02-01,18,Washington State*,,,Pac-10
+11,1983-02-01,19,Georgia* TF,,,SEC
+11,1983-02-01,20,Syracuse*,18,2,Big East
+Wk,Date,Rk,School,Prev,Chng,Conf
+10,1983-01-25,1,UCLA* R,1,NC,Pac-10
+10,1983-01-25,2,Indiana* R,2,NC,Big Ten
+10,1983-01-25,3,North Carolina* R,3,NC,ACC
+10,1983-01-25,4,Nevada-Las Vegas* RT,5,1,PCAA
+10,1983-01-25,5,Memphis*,6,1,Metro
+10,1983-01-25,6,Virginia* R,7,1,ACC
+10,1983-01-25,7,St. John's (NY)* RT,8,1,Big East
+10,1983-01-25,8,Louisville* RTF,9,1,Metro
+10,1983-01-25,9,Houston* RTF,14,5,SWC
+10,1983-01-25,10,Kentucky* R,11,1,SEC
+10,1983-01-25,11,Villanova* R,13,2,Big East
+10,1983-01-25,12,Arkansas*,4,8,SWC
+10,1983-01-25,13,Missouri* R,12,1,Big 8
+10,1983-01-25,14,Iowa*,10,4,Big Ten
+10,1983-01-25,15,Georgetown*,19,4,Big East
+10,1983-01-25,16,Minnesota,16,NC,Big Ten
+10,1983-01-25,17,Illinois State* T,,,MVC
+10,1983-01-25,18,Syracuse*,15,3,Big East
+10,1983-01-25,19,Wake Forest,,,ACC
+10,1983-01-25,20,Oklahoma State* T,18,2,Big 8
+Wk,Date,Rk,School,Prev,Chng,Conf
+9,1983-01-18,1,UCLA* R,5,4,Pac-10
+9,1983-01-18,2,Indiana* R,4,2,Big Ten
+9,1983-01-18,3,North Carolina* R,11,8,ACC
+9,1983-01-18,4,Arkansas*,7,3,SWC
+9,1983-01-18,5,Nevada-Las Vegas* RT,8,3,PCAA
+9,1983-01-18,6,Memphis*,1,5,Metro
+9,1983-01-18,7,Virginia* R,2,5,ACC
+9,1983-01-18,8,St. John's (NY)* RT,3,5,Big East
+9,1983-01-18,9,Louisville* RTF,9,NC,Metro
+9,1983-01-18,10,Iowa*,12,2,Big Ten
+9,1983-01-18,11,Kentucky* R,6,5,SEC
+9,1983-01-18,12,Missouri* R,14,2,Big 8
+9,1983-01-18,13,Villanova* R,15,2,Big East
+9,1983-01-18,14,Houston* RTF,16,2,SWC
+9,1983-01-18,15,Syracuse*,13,2,Big East
+9,1983-01-18,16,Minnesota,17,1,Big Ten
+9,1983-01-18,17,Virginia Tech,,,Metro
+9,1983-01-18,18,Oklahoma State* T,,,Big 8
+9,1983-01-18,19,Georgetown*,,,Big East
+9,1983-01-18,20,Auburn,,,SEC
+Wk,Date,Rk,School,Prev,Chng,Conf
+8,1983-01-11,1,Memphis*,2,1,Metro
+8,1983-01-11,2,Virginia* R,4,2,ACC
+8,1983-01-11,3,St. John's (NY)* RT,7,4,Big East
+8,1983-01-11,4,Indiana* R,1,3,Big Ten
+8,1983-01-11,5,UCLA* R,6,1,Pac-10
+8,1983-01-11,6,Kentucky* R,3,3,SEC
+8,1983-01-11,7,Arkansas*,10,3,SWC
+8,1983-01-11,8,Nevada-Las Vegas* RT,11,3,PCAA
+8,1983-01-11,9,Louisville* RTF,13,4,Metro
+8,1983-01-11,10,Alabama*,5,5,SEC
+8,1983-01-11,11,North Carolina* R,18,7,ACC
+8,1983-01-11,12,Iowa*,8,4,Big Ten
+8,1983-01-11,13,Syracuse*,9,4,Big East
+8,1983-01-11,14,Missouri* R,15,1,Big 8
+8,1983-01-11,15,Villanova* R,14,1,Big East
+8,1983-01-11,16,Houston* RTF,19,3,SWC
+8,1983-01-11,17,Minnesota,,,Big Ten
+8,1983-01-11,18,Tennessee*,12,6,SEC
+8,1983-01-11,19,North Carolina State* TFN,16,3,ACC
+8,1983-01-11,20,Ohio State*,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+7,1983-01-04,1,Indiana* R,1,NC,Big Ten
+7,1983-01-04,2,Memphis*,2,NC,Metro
+7,1983-01-04,3,Kentucky* R,3,NC,SEC
+7,1983-01-04,4,Virginia* R,4,NC,ACC
+7,1983-01-04,5,Alabama*,6,1,SEC
+7,1983-01-04,6,UCLA* R,5,1,Pac-10
+7,1983-01-04,7,St. John's (NY)* RT,7,NC,Big East
+7,1983-01-04,8,Iowa*,9,1,Big Ten
+7,1983-01-04,9,Syracuse*,14,5,Big East
+7,1983-01-04,10,Arkansas*,11,1,SWC
+7,1983-01-04,11,Nevada-Las Vegas* RT,15,4,PCAA
+7,1983-01-04,12,Tennessee*,8,4,SEC
+7,1983-01-04,13,Louisville* RTF,13,NC,Metro
+7,1983-01-04,14,Villanova* R,16,2,Big East
+7,1983-01-04,15,Missouri* R,12,3,Big 8
+7,1983-01-04,16,North Carolina State* TFN,17,1,ACC
+7,1983-01-04,17,Georgetown*,10,7,Big East
+7,1983-01-04,18,North Carolina* R,,,ACC
+7,1983-01-04,19,Houston* RTF,18,1,SWC
+7,1983-01-04,20,Purdue*,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+6,1982-12-28,1,Indiana* R,5,4,Big Ten
+6,1982-12-28,2,Memphis*,4,2,Metro
+6,1982-12-28,3,Kentucky* R,2,1,SEC
+6,1982-12-28,4,Virginia* R,1,3,ACC
+6,1982-12-28,5,UCLA* R,3,2,Pac-10
+6,1982-12-28,6,Alabama*,8,2,SEC
+6,1982-12-28,7,St. John's (NY)* RT,7,NC,Big East
+6,1982-12-28,8,Tennessee*,9,1,SEC
+6,1982-12-28,9,Iowa*,10,1,Big Ten
+6,1982-12-28,10,Georgetown*,11,1,Big East
+6,1982-12-28,11,Arkansas*,12,1,SWC
+6,1982-12-28,12,Missouri* R,6,6,Big 8
+6,1982-12-28,13,Louisville* RTF,14,1,Metro
+6,1982-12-28,14,Syracuse*,13,1,Big East
+6,1982-12-28,15,Nevada-Las Vegas* RT,17,2,PCAA
+6,1982-12-28,16,Villanova* R,18,2,Big East
+6,1982-12-28,17,North Carolina State* TFN,15,2,ACC
+6,1982-12-28,18,Houston* RTF,19,1,SWC
+6,1982-12-28,19,Tulsa,20,1,MVC
+6,1982-12-28,20,West Virginia* RT,16,4,A-10
+Wk,Date,Rk,School,Prev,Chng,Conf
+5,1982-12-21,1,Virginia* R,1,NC,ACC
+5,1982-12-21,2,Kentucky* R,2,NC,SEC
+5,1982-12-21,3,UCLA* R,4,1,Pac-10
+5,1982-12-21,4,Memphis*,3,1,Metro
+5,1982-12-21,5,Indiana* R,5,NC,Big Ten
+5,1982-12-21,6,Missouri* R,8,2,Big 8
+5,1982-12-21,7,St. John's (NY)* RT,9,2,Big East
+5,1982-12-21,8,Alabama*,10,2,SEC
+5,1982-12-21,9,Tennessee*,11,2,SEC
+5,1982-12-21,10,Iowa*,7,3,Big Ten
+5,1982-12-21,11,Georgetown*,5,6,Big East
+5,1982-12-21,12,Arkansas*,13,1,SWC
+5,1982-12-21,13,Syracuse*,16,3,Big East
+5,1982-12-21,14,Louisville* RTF,12,2,Metro
+5,1982-12-21,15,North Carolina State* TFN,15,NC,ACC
+5,1982-12-21,16,West Virginia* RT,20,4,A-10
+5,1982-12-21,17,Nevada-Las Vegas* RT,18,1,PCAA
+5,1982-12-21,18,Villanova* R,19,1,Big East
+5,1982-12-21,19,Houston* RTF,14,5,SWC
+5,1982-12-21,20,Tulsa,,,MVC
+Wk,Date,Rk,School,Prev,Chng,Conf
+4,1982-12-14,1,Virginia* R,1,NC,ACC
+4,1982-12-14,2,Kentucky* R,2,NC,SEC
+4,1982-12-14,3,Memphis*,4,1,Metro
+4,1982-12-14,4,UCLA* R,5,1,Pac-10
+4,1982-12-14,5,Georgetown*,3,2,Big East
+4,1982-12-14,5,Indiana* R,6,1,Big Ten
+4,1982-12-14,7,Iowa*,7,NC,Big Ten
+4,1982-12-14,8,Missouri* R,8,NC,Big 8
+4,1982-12-14,9,St. John's (NY)* RT,12,3,Big East
+4,1982-12-14,10,Alabama*,11,1,SEC
+4,1982-12-14,11,Tennessee*,14,3,SEC
+4,1982-12-14,12,Louisville* RTF,13,1,Metro
+4,1982-12-14,13,Arkansas*,15,2,SWC
+4,1982-12-14,14,Houston* RTF,9,5,SWC
+4,1982-12-14,15,North Carolina State* TFN,18,3,ACC
+4,1982-12-14,16,Syracuse*,,,Big East
+4,1982-12-14,17,North Carolina* R,17,NC,ACC
+4,1982-12-14,18,Nevada-Las Vegas* RT,18,NC,PCAA
+4,1982-12-14,19,Villanova* R,10,9,Big East
+4,1982-12-14,20,West Virginia* RT,,,A-10
+Wk,Date,Rk,School,Prev,Chng,Conf
+3,1982-12-07,1,Virginia* R,1,NC,ACC
+3,1982-12-07,2,Kentucky* R,3,1,SEC
+3,1982-12-07,3,Georgetown*,2,1,Big East
+3,1982-12-07,4,Memphis*,5,1,Metro
+3,1982-12-07,5,UCLA* R,6,1,Pac-10
+3,1982-12-07,6,Indiana* R,8,2,Big Ten
+3,1982-12-07,7,Iowa*,10,3,Big Ten
+3,1982-12-07,8,Missouri* R,9,1,Big 8
+3,1982-12-07,9,Houston* RTF,11,2,SWC
+3,1982-12-07,10,Villanova* R,4,6,Big East
+3,1982-12-07,11,Alabama*,13,2,SEC
+3,1982-12-07,12,St. John's (NY)* RT,12,NC,Big East
+3,1982-12-07,13,Louisville* RTF,7,6,Metro
+3,1982-12-07,14,Tennessee*,14,NC,SEC
+3,1982-12-07,15,Arkansas*,16,1,SWC
+3,1982-12-07,16,Marquette*,17,1,Ind
+3,1982-12-07,17,North Carolina* R,15,2,ACC
+3,1982-12-07,18,Nevada-Las Vegas* RT,19,1,PCAA
+3,1982-12-07,18,North Carolina State* TFN,18,NC,ACC
+3,1982-12-07,20,Purdue*,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+2,1982-11-30,1,Virginia* R,1,NC,ACC
+2,1982-11-30,2,Georgetown*,2,NC,Big East
+2,1982-11-30,3,Kentucky* R,4,1,SEC
+2,1982-11-30,4,Villanova* R,5,1,Big East
+2,1982-11-30,5,Memphis*,6,1,Metro
+2,1982-11-30,6,UCLA* R,7,1,Pac-10
+2,1982-11-30,7,Louisville* RTF,8,1,Metro
+2,1982-11-30,8,Indiana* R,9,1,Big Ten
+2,1982-11-30,9,Missouri* R,15,6,Big 8
+2,1982-11-30,10,Iowa*,11,1,Big Ten
+2,1982-11-30,11,Houston* RTF,14,3,SWC
+2,1982-11-30,12,St. John's (NY)* RT,19,7,Big East
+2,1982-11-30,13,Alabama*,12,1,SEC
+2,1982-11-30,14,Tennessee*,13,1,SEC
+2,1982-11-30,15,North Carolina* R,3,12,ACC
+2,1982-11-30,16,Arkansas*,17,1,SWC
+2,1982-11-30,17,Marquette*,18,1,Ind
+2,1982-11-30,18,North Carolina State* TFN,16,2,ACC
+2,1982-11-30,19,Oregon State,10,9,Pac-10
+2,1982-11-30,19,Nevada-Las Vegas* RT,20,1,PCAA
+Wk,Date,Rk,School,Prev,Chng,Conf
+1,Preseason,1,Virginia* R,NA,—,ACC
+1,Preseason,2,Georgetown*,NA,—,Big East
+1,Preseason,3,North Carolina* R,NA,—,ACC
+1,Preseason,4,Kentucky* R,NA,—,SEC
+1,Preseason,5,Villanova* R,NA,—,Big East
+1,Preseason,6,Memphis*,NA,—,Metro
+1,Preseason,7,UCLA* R,NA,—,Pac-10
+1,Preseason,8,Louisville* RTF,NA,—,Metro
+1,Preseason,9,Indiana* R,NA,—,Big Ten
+1,Preseason,10,Oregon State,NA,—,Pac-10
+1,Preseason,11,Iowa*,NA,—,Big Ten
+1,Preseason,12,Alabama*,NA,—,SEC
+1,Preseason,13,Tennessee*,NA,—,SEC
+1,Preseason,14,Houston* RTF,NA,—,SWC
+1,Preseason,15,Missouri* R,NA,—,Big 8
+1,Preseason,16,North Carolina State* TFN,NA,—,ACC
+1,Preseason,17,Arkansas*,NA,—,SWC
+1,Preseason,18,Marquette*,NA,—,Ind
+1,Preseason,19,St. John's (NY)* RT,NA,—,Big East
+1,Preseason,20,Oklahoma*,NA,—,Big 8
+1,Preseason,20,Nevada-Las Vegas* RT,NA,—,PCAA
