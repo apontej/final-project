@@ -13,7 +13,7 @@ Duquesne,#000066,#000066
 Fordham,#76032E,#FFFFFF
 George Washington,#EECFA1,#00285C
 La Salle,#00386B,#FFC700
-Massachusetts,,
+Massachusetts,#881C1C,#FFFFFF
 Rhode Island,#75B2DD,#347C17
 Richmond,#000066,#990000
 Saint Joseph's,#A00000,#726A5F
@@ -25,12 +25,12 @@ Boston College,#8B0000,#C5B358
 Clemson,#FF6300,#330066
 Duke,#003893,#FFFFFF
 Florida State,#990000,#F1C058
-Georgia Tech,#CFB53B,#ffffff
+Georgia Tech,#CFB53B,#FFFFFF
 Maryland,#CE1126,#FFFFFF
 Miami (FL),#005030,#f47321
-North Carolina,#6699CC,#FFFFFF
+North Carolina,#56A0D3,#FFFFFF
 North Carolina State,#e00000,#FFFFFF
-Virginia,#193980,#193980
+Virginia,#000066,#FF6600
 Virginia Tech,#660000,#ff6600
 Wake Forest,#9E7E38,#000000
 Belmont,,
@@ -49,7 +49,7 @@ Colorado,#C0C0C0,#CEBE70
 Iowa State,#a71930,#fdc82f
 Kansas,#0049AE,#E31736
 Kansas State,#68217A,#FFFFFF
-Missouri,#000000,#FFCC33
+Missouri,#F1B82D,#000000
 Nebraska,#FF2400,#FFFDD0
 Oklahoma,#960018,#FFFDD0
 Oklahoma State,#FF6600,#000000
@@ -58,7 +58,7 @@ Texas A&M,#500000,#FFFFFF
 Texas Tech,#CC0000,#000000
 Cincinnati,#E00122,#000000
 Connecticut,#002868,#FFFFFF
-DePaul,#0000FF,#FF0000
+DePaul,#006EC7,#E60D2E
 Georgetown,#003366,#999999
 Louisville,#ff0000,#000000
 Marquette,#00386D,#FDBB30
@@ -66,14 +66,14 @@ Notre Dame,#C5B358,#002649
 Pittsburgh,#091C44,#CEC499
 Providence,#000000,#FFFFFF
 Rutgers,#CF0015,#D21034
-Seton Hall,#0000FF,#FFFFFF
+Seton Hall,#004488,#ADAFAA
 South Florida,#395f4a,#C5B358
 St. John's,#990000,#FFFFFF
-Syracuse,#FF7F00,#ffffff
+Syracuse,#FF7F00,#FFFFFF
 Villanova,#00337F,#ADD8E6
 West Virginia,#FFCC00,#003366
 Eastern Washington,#a10022,#DBCDFF
-Idaho State,#000000,#ff9900
+Idaho State,#FFA500,#000000
 Montana,#660033,#999999
 Montana State,#0a1f62,#0a1f62
 Northern Arizona,#003366,#557565
@@ -81,7 +81,7 @@ Northern Colorado,,
 Portland State,#02461D,#FFFFFF
 Sacramento State,#00563C,#CAB577
 Weber State,#4b2187,#FFFFFF
-Charleston Southern,#ffffff,#ffffff
+Charleston Southern,#FFFFFF,#FFFFFF
 Coastal Carolina,#008080,#A67D3D
 Gardner-Webb,,
 High Point,#f47b20,#f47b20
@@ -93,7 +93,7 @@ Virginia Military,,
 Winthrop,#f47b20,#f47b20
 Illinois,#FF6600,#003366
 Indiana,#A32638,#FFFFCC
-Iowa,#000000,#CFB53B
+Iowa,#FFD700,#000000
 Michigan,#FCD116,#002654
 Michigan State,#18453b,#FFFFFF
 Minnesota,#800000,#FFD700
@@ -105,7 +105,7 @@ Wisconsin,#cc1122,#FFFFFF
 Cal Poly,#1E4D2B,#C6930A
 Cal State Fullerton,#ffc94b,#ffc94b
 Cal State Northridge,#C60C30,#C60C30
-Long Beach State,,
+Long Beach State,#FFCC00,#000000
 Pacific,#FF6600,#FF6600
 UC Davis,#002666,#BF9900
 UC Irvine,#002469,#FAE051
@@ -118,18 +118,18 @@ Georgia State,#0000FF,#FFFFFF
 Hofstra,#16007C,#16007C
 James Madison,#C2A14D,#C2A14D
 North Carolina-Wilmington,#006666,#ffff66
-Northeastern,#000000,#CC0000
+Northeastern,#CC0000,#000000
 Old Dominion,#002b5f,#a8adb4
-Towson,#000000,#FFE600
-Virginia Commonwealth,#000000,#F8B800
-William & Mary,,
+Towson,#FFE600,#000000
+Virginia Commonwealth,#F8B800,#000000
+William & Mary,#006400,#FFD700
 East Carolina,#592A8A,#FEC923
 Houston,#CC0000,#FFFFFF
 Marshall,#008000,#FFFFFF
 Memphis,#0C1C8C,#8E9295
 Rice,#002469,#5e6062
 Southern Methodist,#B10000,#032B66
-Southern Miss,#000000,#FFD700
+Southern Miss,#FFD700,#000000
 Tulane,#063003,#063003
 Tulsa,#CFB53B,#084c9e
 UAB,#008000,#FFFFFF
@@ -144,8 +144,8 @@ Seattle,#00839a,#00839a
 SIU-Edwardsville,,
 Chicago State,,
 Houston Baptist,,
-N.J.I.T.,,
-North Dakota,#00A000,#ffffff
+NJIT,,
+North Dakota,#00A000,#FFFFFF
 South Dakota,,
 Texas-Pan American,,
 Utah Valley,#006633,#CFB53B
@@ -180,12 +180,12 @@ St. Peters,,
 Akron,#00285C,#CAB388
 Ball State,#CC0000,#FFFFFF
 Bowling Green,#FF7300,#613005
-Buffalo,#ffffff,#ffffff
+Buffalo,#FFFFFF,#FFFFFF
 Central Michigan,#660033,#FFCC00
-Eastern Michigan,#005d28,#ffffff
+Eastern Michigan,#005d28,#FFFFFF
 Kent State,#0A0D6F,#FFAB1B
-Miami (OH),,
-Northern Illinois,#000000,#C41E3A
+Miami (OH),#CE1126,#FFFFFF
+Northern Illinois,#CC1122,#000000
 Ohio,#006633,#FFFFFF
 Toledo,#191970,#FFD700
 Western Michigan,#6a3e0f,#e3bc85
@@ -209,8 +209,8 @@ Indiana State,#0F4D92,#FFFFFF
 Missouri State,#810541,#E32636
 Northern Iowa,#660099,#FFD700
 Southern Illinois,#800000,#FFFFFF
-Wichita State,#000000,#FFcc00
-Air Force,#0000FF,#C0C0C0
+Wichita State,#E8DE2A,#000000
+Air Force,#0038A8,#A8ADB4
 Brigham Young,#001E4C,#d1d1b5
 Colorado State,#00A550,#FFFFFF
 New Mexico,#D3003F,#CCCCCC
@@ -219,7 +219,7 @@ TCU,#342A7B,#FFFFFF
 UNLV,#C10202,#666666
 Utah,#CC0000,#FFFFFF
 Wyoming,#492f24,#ffc425
-Bryant University,#000000,#BDB76B
+Bryant University,#BDB76B,#000000
 Central Connecticut State,#00539B,#FFFFFF
 Fairleigh Dickinson,,
 Long Island,#ccccff,#ccccff
@@ -236,7 +236,7 @@ Eastern Illinois,#0000FF,#808080
 Eastern Kentucky,#7A0019,#FFFFFF
 Jacksonville State,#a02643,#a02643
 Morehead State,#edd5a6,#edd5a6
-Murray State,#000033,#FFCC00
+Murray State,#000033,#ECAC00
 Southeast Missouri State,#FF0000,#000000
 Tennessee State,#D2DDFC,#D2DDFC
 Tennessee Tech,#D2DDFC,#D2DDFC
@@ -252,26 +252,26 @@ USC,#990000,#FFCC00
 Washington,#363c74,#e8d3a2
 Washington State,#9e1b34,#606a74
 American University,#b5013b,#3600a0
-Army,#000000,#FFD700
+Army,#FFD700,#000000
 Bucknell,#FF9900,#003399
 Colgate,#ca030a,#ca030a
 Holy Cross,#660066,#C0C0C0
 Lafayette,#800000,#ca030a
 Lehigh,,
 Navy,#000080,#D4AF37
-Alabama,#990000,#ffffff
+Alabama,#990000,#FFFFFF
 Arkansas,#C41E3A,#FFFFFF
 Auburn,#dd550c,#03244d
 Florida,#FF4A00,#0021A5
 Georgia,#FF0000,#000000
-Kentucky,#00407a,#ffffff
+Kentucky,#00407a,#FFFFFF
 LSU,#461D7C,#FDD023
 Ole Miss,#002868,#CE1126
 Mississippi State,#74302E,#FFFFFF
 South Carolina,#8C2633,#000000
 Tennessee,#f77f00,#FFFFFF
-Vanderbilt,#000000,#997F3D
-Appalachian State,#000000,#ffcf00
+Vanderbilt,#997F3D,#000000
+Appalachian State,#FFCF00,#000000
 Charleston,,
 Chattanooga,,
 Citadel,#B0C4DE,#B0C4DE
@@ -296,10 +296,10 @@ Texas State,,
 Texas-Arlington,,
 Texas-San Antonio,,
 Alabama A&M,,
-Alabama State,#000000,#000000
+Alabama State,#FFD700,#000000
 Alcorn State,#4b0082,#daa520
 Arkansas-Pine Bluff,#C41E3A,#C41E3A
-Grambling State,#000000,#FFD700
+Grambling State,#FFD700,#000000
 Jackson State,#092183,#FFFFFF
 Mississippi Valley State,,
 Prairie View A&M,,
@@ -309,7 +309,7 @@ Centenary,#800000,#FFFFFF
 IPFW,#4169E1,#FFFFFF
 IUPUI,#990000,#AF906A
 North Dakota State,,
-Oakland,#000000,#9a803e
+Oakland,#9a803e,#000000
 Oral Roberts,#CFB53B,#000080
 South Dakota State,#0000FF,#FFFF00
 Southern Utah,#FF0000,#FFFFFF
@@ -317,17 +317,17 @@ UMKC,#CFB53B,#002366
 Western Illinois,#5B027A,#FFDB00
 Arkansas State,#FF2400,#000000
 Arkansas-Little Rock,#800000,#c4c8cb
-Denver,#ffffff,#FCA120
+Denver,#FFFFFF,#FCA120
 Florida Atlantic,#003366,#CE2029
 Florida International,#002D62,#C5960C
 Louisiana-Lafayette,,
 Louisiana-Monroe,#800000,#FFD700
 Middle Tennessee,#00407A,#FFFFFF
 North Texas,#059033,#FFFFFF
-South Alabama,#ff0000,#ffffff
+South Alabama,#ff0000,#FFFFFF
 Troy,#C41E3A,#000000
 Western Kentucky,#FF2222,#00457c
-Gonzaga,#ffffff,#000066
+Gonzaga,#FFFFFF,#000066
 Loyola Marymount,#CC1111,#0055AA
 Pepperdine,#0000FF,#FF6200
 Portland,#461D7C,#FFFFFF
@@ -340,7 +340,7 @@ Fresno State,#9a122c,#0000ff
 Hawaii,#800020,#800020
 Idaho,#C0C0C0,#CEBE70
 Louisiana Tech,#002F8B,#FF0000
-Nevada,,
+Nevada,#003366,#999999
 New Mexico State,#800020,#800020
 San Jose State,#c79900,#005a8b
 Utah State,#003366,#FFFFFF
