@@ -170,14 +170,14 @@ espn_id,sports_ref_id,teamrankings_id,friendly_school,friendly_full
 2377,mcneese-state,mcneese-st-cowboys,McNeese State,McNeese State Cowboys
 235,memphis,memphis-tigers,Memphis,Memphis Tigers
 2382,mercer,mercer-bears,Mercer,Mercer Bears
-2390,miami-fl,miami-florida-hurricanes,Miami (FL),Miami Florida Hurricanes
-193,miami-oh,miami-oh-red-hawks,Miami (OH),Miami OH Red Hawks
+2390,miami-fl,miami-florida-hurricanes,Miami (FL),Miami (FL) Hurricanes
+193,miami-oh,miami-oh-red-hawks,Miami (OH),Miami (OH) Red Hawks
 130,michigan,michigan-wolverines,Michigan,Michigan Wolverines
 127,michigan-state,michigan-st-spartans,Michigan State,Michigan State Spartans
 2393,middle-tennessee,middle-tennessee-st-blue-raiders,Middle Tennessee State,Middle Tennessee State Blue Raiders
 270,milwaukee,wis-milwaukee-panthers,Milwaukee,Milwaukee Panthers
 135,minnesota,minnesota-golden-gophers,Minnesota,Minnesota Golden Gophers
-145,mississippi,mississippi-rebels,Mississippi,Mississippi Rebels
+145,mississippi,mississippi-rebels,Ole Miss,Ole Miss Rebels
 344,mississippi-state,mississippi-st-bulldogs,Mississippi State,Mississippi St Bulldogs
 2400,mississippi-valley-state,mississippi-valley-state-delta-devils,Mississippi Valley State,Mississippi Valley State Delta Devils
 142,missouri,missouri-tigers,Missouri,Missouri Tigers
@@ -253,11 +253,11 @@ espn_id,sports_ref_id,teamrankings_id,friendly_school,friendly_full
 16,sacramento-state,sacramento-state-hornets,Sacramento State,Sacramento State Hornets
 2529,sacred-heart,sacred-heart-pioneers,Sacred Heart,Sacred Heart Pioneers
 2598,saint-francis-pa,st-francis-pa-red-flash,St. Francis (PA),St. Francis (PA) Red Flash
-2603,saint-josephs,st-josephs-hawks,Saint Joseph's,St Josephs Hawks
+2603,saint-josephs,st-josephs-hawks,Saint Joseph's,Saint Joseph's Hawks
 139,saint-louis,saint-louis-billikens,Saint Louis,Saint Louis Billikens
-2608,saint-marys-ca,st-marys-gaels,Saint Mary's (CA),St Marys Gaels
+2608,saint-marys-ca,st-marys-gaels,Saint Mary's (CA),Saint Mary's (CA) Gaels
 2612,saint-peters,st-peters-peacocks,St. Peter's,St. Peter's Peacocks
-2534,sam-houston-state,sam-houston-st-bearkats,Sam Houston State,Sam Houston St Bearkats
+2534,sam-houston-state,sam-houston-st-bearkats,Sam Houston State,Sam Houston State Bearkats
 2535,samford,samford-bulldogs,Samford,Samford Bulldogs
 301,san-diego,san-diego-toreros,San Diego,San Diego Toreros
 21,san-diego-state,san-diego-st-aztecs,San Diego State,San Diego St Aztecs
