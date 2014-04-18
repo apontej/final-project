@@ -1,0 +1,336 @@
+Wk,Date,Rk,School,Prev,Chng,Conf
+16,Final,1,UCLA* RFN,1,NC,Pac-8
+16,Final,2,North Carolina* RTF,3,1,ACC
+16,Final,3,Pennsylvania* R,2,1,Ivy
+16,Final,4,Louisville* RF,4,NC,MVC
+16,Final,5,Long Beach State* R,5,NC,PCAA
+16,Final,6,South Carolina*,6,NC,Ind
+16,Final,7,Marquette*,7,NC,Ind
+16,Final,8,Louisiana-Lafayette*,9,1,Southland
+16,Final,9,Brigham Young* R,8,1,WAC
+16,Final,10,Florida State* F,14,4,Ind
+16,Final,11,Minnesota* R,16,5,Big Ten
+16,Final,12,Marshall*,10,2,Ind
+16,Final,13,Memphis R,11,2,MVC
+16,Final,14,Maryland,13,1,ACC
+16,Final,15,Villanova*,,,Ind
+16,Final,16,Oral Roberts R,17,1,Ind
+16,Final,17,Indiana,20,3,Big Ten
+16,Final,18,Kentucky* R,,,SEC
+16,Final,19,Ohio State,,,Big Ten
+16,Final,20,Virginia,15,5,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+15,1972-03-07,1,UCLA* RFN,1,NC,Pac-8
+15,1972-03-07,2,Pennsylvania* R,4,2,Ivy
+15,1972-03-07,3,North Carolina* RTF,3,NC,ACC
+15,1972-03-07,4,Louisville* RF,2,2,MVC
+15,1972-03-07,5,Long Beach State* R,6,1,PCAA
+15,1972-03-07,6,South Carolina*,8,2,Ind
+15,1972-03-07,7,Marquette*,5,2,Ind
+15,1972-03-07,8,Brigham Young* R,7,1,WAC
+15,1972-03-07,9,Louisiana-Lafayette*,11,2,Southland
+15,1972-03-07,10,Marshall*,9,1,Ind
+15,1972-03-07,11,Memphis R,20,9,MVC
+15,1972-03-07,12,Hawaii*,15,3,Ind
+15,1972-03-07,13,Maryland,18,5,ACC
+15,1972-03-07,14,Florida State* F,10,4,Ind
+15,1972-03-07,15,Virginia,12,3,ACC
+15,1972-03-07,16,Minnesota* R,,,Big Ten
+15,1972-03-07,17,Oral Roberts R,17,NC,Ind
+15,1972-03-07,18,Missouri,19,1,Big 8
+15,1972-03-07,19,Houston*,13,6,Ind
+15,1972-03-07,20,Indiana,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+14,1972-02-29,1,UCLA* RFN,1,NC,Pac-8
+14,1972-02-29,2,Louisville* RF,3,1,MVC
+14,1972-02-29,3,North Carolina* RTF,5,2,ACC
+14,1972-02-29,4,Pennsylvania* R,4,NC,Ivy
+14,1972-02-29,5,Marquette*,2,3,Ind
+14,1972-02-29,6,Long Beach State* R,6,NC,PCAA
+14,1972-02-29,7,Brigham Young* R,7,NC,WAC
+14,1972-02-29,8,South Carolina*,9,1,Ind
+14,1972-02-29,9,Marshall*,8,1,Ind
+14,1972-02-29,10,Florida State* F,11,1,Ind
+14,1972-02-29,11,Louisiana-Lafayette*,10,1,Southland
+14,1972-02-29,12,Virginia,13,1,ACC
+14,1972-02-29,13,Houston*,16,3,Ind
+14,1972-02-29,14,Ohio State,15,1,Big Ten
+14,1972-02-29,15,Hawaii*,17,2,Ind
+14,1972-02-29,16,Michigan,,,Big Ten
+14,1972-02-29,17,Oral Roberts R,20,3,Ind
+14,1972-02-29,18,Maryland,12,6,ACC
+14,1972-02-29,19,Missouri,14,5,Big 8
+14,1972-02-29,20,Memphis R,19,1,MVC
+Wk,Date,Rk,School,Prev,Chng,Conf
+13,1972-02-22,1,UCLA* RFN,1,NC,Pac-8
+13,1972-02-22,2,Marquette*,2,NC,Ind
+13,1972-02-22,3,Louisville* RF,4,1,MVC
+13,1972-02-22,4,Pennsylvania* R,5,1,Ivy
+13,1972-02-22,5,North Carolina* RTF,3,2,ACC
+13,1972-02-22,6,Long Beach State* R,9,3,PCAA
+13,1972-02-22,7,Brigham Young* R,11,4,WAC
+13,1972-02-22,8,Marshall*,10,2,Ind
+13,1972-02-22,9,South Carolina*,7,2,Ind
+13,1972-02-22,10,Louisiana-Lafayette*,12,2,Southland
+13,1972-02-22,11,Florida State* F,14,3,Ind
+13,1972-02-22,12,Maryland,19,7,ACC
+13,1972-02-22,13,Virginia,6,7,ACC
+13,1972-02-22,14,Missouri,15,1,Big 8
+13,1972-02-22,15,Ohio State,8,7,Big Ten
+13,1972-02-22,16,Houston*,,,Ind
+13,1972-02-22,17,Hawaii*,16,1,Ind
+13,1972-02-22,18,Kentucky* R,17,1,SEC
+13,1972-02-22,19,Memphis R,18,1,MVC
+13,1972-02-22,20,Oral Roberts R,,,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+12,1972-02-15,1,UCLA* RFN,1,NC,Pac-8
+12,1972-02-15,2,Marquette*,2,NC,Ind
+12,1972-02-15,3,North Carolina* RTF,3,NC,ACC
+12,1972-02-15,4,Louisville* RF,4,NC,MVC
+12,1972-02-15,5,Pennsylvania* R,5,NC,Ivy
+12,1972-02-15,6,Virginia,6,NC,ACC
+12,1972-02-15,7,South Carolina*,9,2,Ind
+12,1972-02-15,8,Ohio State,7,1,Big Ten
+12,1972-02-15,9,Long Beach State* R,8,1,PCAA
+12,1972-02-15,10,Marshall*,11,1,Ind
+12,1972-02-15,11,Brigham Young* R,10,1,WAC
+12,1972-02-15,12,Louisiana-Lafayette*,13,1,Southland
+12,1972-02-15,13,Providence*,12,1,Ind
+12,1972-02-15,14,Florida State* F,14,NC,Ind
+12,1972-02-15,15,Missouri,17,2,Big 8
+12,1972-02-15,16,Hawaii*,18,2,Ind
+12,1972-02-15,17,Kentucky* R,,,SEC
+12,1972-02-15,18,Memphis R,15,3,MVC
+12,1972-02-15,19,Maryland,,,ACC
+12,1972-02-15,20,Tennessee R,,,SEC
+Wk,Date,Rk,School,Prev,Chng,Conf
+11,1972-02-08,1,UCLA* RFN,1,NC,Pac-8
+11,1972-02-08,2,Marquette*,2,NC,Ind
+11,1972-02-08,3,North Carolina* RTF,4,1,ACC
+11,1972-02-08,4,Louisville* RF,3,1,MVC
+11,1972-02-08,5,Pennsylvania* R,6,1,Ivy
+11,1972-02-08,6,Virginia,7,1,ACC
+11,1972-02-08,7,Ohio State,9,2,Big Ten
+11,1972-02-08,8,Long Beach State* R,5,3,PCAA
+11,1972-02-08,9,South Carolina*,8,1,Ind
+11,1972-02-08,10,Brigham Young* R,10,NC,WAC
+11,1972-02-08,11,Marshall*,11,NC,Ind
+11,1972-02-08,12,Providence*,16,4,Ind
+11,1972-02-08,13,Louisiana-Lafayette*,13,NC,Southland
+11,1972-02-08,14,Florida State* F,12,2,Ind
+11,1972-02-08,15,Memphis R,,,MVC
+11,1972-02-08,16,Jacksonville,17,1,Ind
+11,1972-02-08,17,Missouri,15,2,Big 8
+11,1972-02-08,18,Hawaii*,14,4,Ind
+11,1972-02-08,19,Minnesota* R,19,NC,Big Ten
+11,1972-02-08,20,Duquesne,,,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+10,1972-02-01,1,UCLA* RFN,1,NC,Pac-8
+10,1972-02-01,2,Marquette*,2,NC,Ind
+10,1972-02-01,3,Louisville* RF,4,1,MVC
+10,1972-02-01,4,North Carolina* RTF,3,1,ACC
+10,1972-02-01,5,Long Beach State* R,5,NC,PCAA
+10,1972-02-01,6,Pennsylvania* R,9,3,Ivy
+10,1972-02-01,7,Virginia,8,1,ACC
+10,1972-02-01,8,South Carolina*,11,3,Ind
+10,1972-02-01,9,Ohio State,6,3,Big Ten
+10,1972-02-01,10,Brigham Young* R,13,3,WAC
+10,1972-02-01,11,Marshall*,14,3,Ind
+10,1972-02-01,12,Florida State* F,10,2,Ind
+10,1972-02-01,13,Louisiana-Lafayette*,12,1,Southland
+10,1972-02-01,14,Hawaii*,15,1,Ind
+10,1972-02-01,15,Missouri,20,5,Big 8
+10,1972-02-01,16,Providence*,,,Ind
+10,1972-02-01,17,Jacksonville,,,Ind
+10,1972-02-01,18,Southern California,7,11,Pac-8
+10,1972-02-01,19,Minnesota* R,16,3,Big Ten
+10,1972-02-01,20,Michigan,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+9,1972-01-25,1,UCLA* RFN,1,NC,Pac-8
+9,1972-01-25,2,Marquette*,2,NC,Ind
+9,1972-01-25,3,North Carolina* RTF,3,NC,ACC
+9,1972-01-25,4,Louisville* RF,6,2,MVC
+9,1972-01-25,5,Long Beach State* R,4,1,PCAA
+9,1972-01-25,6,Ohio State,7,1,Big Ten
+9,1972-01-25,7,Southern California,8,1,Pac-8
+9,1972-01-25,8,Virginia,9,1,ACC
+9,1972-01-25,9,Pennsylvania* R,10,1,Ivy
+9,1972-01-25,10,Florida State* F,11,1,Ind
+9,1972-01-25,11,South Carolina*,5,6,Ind
+9,1972-01-25,12,Louisiana-Lafayette*,12,NC,Southland
+9,1972-01-25,13,Brigham Young* R,13,NC,WAC
+9,1972-01-25,14,Marshall*,16,2,Ind
+9,1972-01-25,15,Hawaii*,18,3,Ind
+9,1972-01-25,16,Minnesota* R,17,1,Big Ten
+9,1972-01-25,17,Princeton,14,3,Ivy
+9,1972-01-25,18,Maryland,,,ACC
+9,1972-01-25,19,Northern Illinois,20,1,Ind
+9,1972-01-25,20,Missouri,,,Big 8
+Wk,Date,Rk,School,Prev,Chng,Conf
+8,1972-01-18,1,UCLA* RFN,1,NC,Pac-8
+8,1972-01-18,2,Marquette*,2,NC,Ind
+8,1972-01-18,3,North Carolina* RTF,3,NC,ACC
+8,1972-01-18,4,Long Beach State* R,7,3,PCAA
+8,1972-01-18,5,South Carolina*,4,1,Ind
+8,1972-01-18,6,Louisville* RF,5,1,MVC
+8,1972-01-18,7,Ohio State,9,2,Big Ten
+8,1972-01-18,8,Southern California,10,2,Pac-8
+8,1972-01-18,9,Virginia,8,1,ACC
+8,1972-01-18,10,Pennsylvania* R,6,4,Ivy
+8,1972-01-18,11,Florida State* F,12,1,Ind
+8,1972-01-18,12,Louisiana-Lafayette*,13,1,Southland
+8,1972-01-18,13,Brigham Young* R,14,1,WAC
+8,1972-01-18,14,Princeton,,,Ivy
+8,1972-01-18,15,Villanova*,11,4,Ind
+8,1972-01-18,16,Marshall*,20,4,Ind
+8,1972-01-18,17,Minnesota* R,,,Big Ten
+8,1972-01-18,18,Hawaii*,19,1,Ind
+8,1972-01-18,19,Tennessee R,,,SEC
+8,1972-01-18,20,Northern Illinois,,,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+7,1972-01-11,1,UCLA* RFN,1,NC,Pac-8
+7,1972-01-11,2,Marquette*,2,NC,Ind
+7,1972-01-11,3,North Carolina* RTF,3,NC,ACC
+7,1972-01-11,4,South Carolina*,4,NC,Ind
+7,1972-01-11,5,Louisville* RF,7,2,MVC
+7,1972-01-11,6,Pennsylvania* R,6,NC,Ivy
+7,1972-01-11,7,Long Beach State* R,8,1,PCAA
+7,1972-01-11,8,Virginia,9,1,ACC
+7,1972-01-11,9,Ohio State,10,1,Big Ten
+7,1972-01-11,10,Southern California,11,1,Pac-8
+7,1972-01-11,11,Villanova*,14,3,Ind
+7,1972-01-11,12,Florida State* F,20,8,Ind
+7,1972-01-11,13,Louisiana-Lafayette*,15,2,Southland
+7,1972-01-11,14,Brigham Young* R,18,4,WAC
+7,1972-01-11,15,Kentucky* R,19,4,SEC
+7,1972-01-11,16,Illinois,,,Big Ten
+7,1972-01-11,17,Indiana,5,12,Big Ten
+7,1972-01-11,18,Missouri,,,Big 8
+7,1972-01-11,19,Hawaii*,16,3,Ind
+7,1972-01-11,20,Marshall*,13,7,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+6,1972-01-04,1,UCLA* RFN,1,NC,Pac-8
+6,1972-01-04,2,Marquette*,2,NC,Ind
+6,1972-01-04,3,North Carolina* RTF,4,1,ACC
+6,1972-01-04,4,South Carolina*,3,1,Ind
+6,1972-01-04,5,Indiana,7,2,Big Ten
+6,1972-01-04,6,Pennsylvania* R,14,8,Ivy
+6,1972-01-04,7,Louisville* RF,15,8,MVC
+6,1972-01-04,8,Long Beach State* R,10,2,PCAA
+6,1972-01-04,9,Virginia,11,2,ACC
+6,1972-01-04,10,Ohio State,6,4,Big Ten
+6,1972-01-04,11,Southern California,5,6,Pac-8
+6,1972-01-04,12,Maryland,16,4,ACC
+6,1972-01-04,13,Marshall*,17,4,Ind
+6,1972-01-04,14,Villanova*,,,Ind
+6,1972-01-04,15,Louisiana-Lafayette*,13,2,Southland
+6,1972-01-04,16,Hawaii*,18,2,Ind
+6,1972-01-04,17,St. John's (NY),9,8,Ind
+6,1972-01-04,18,Brigham Young* R,8,10,WAC
+6,1972-01-04,19,Kentucky* R,12,7,SEC
+6,1972-01-04,20,Florida State* F,,,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+5,1971-12-28,1,UCLA* RFN,1,NC,Pac-8
+5,1971-12-28,2,Marquette*,2,NC,Ind
+5,1971-12-28,3,South Carolina*,3,NC,Ind
+5,1971-12-28,4,North Carolina* RTF,4,NC,ACC
+5,1971-12-28,5,Southern California,5,NC,Pac-8
+5,1971-12-28,6,Ohio State,6,NC,Big Ten
+5,1971-12-28,7,Indiana,8,1,Big Ten
+5,1971-12-28,8,Brigham Young* R,7,1,WAC
+5,1971-12-28,9,St. John's (NY),10,1,Ind
+5,1971-12-28,10,Long Beach State* R,9,1,PCAA
+5,1971-12-28,11,Virginia,18,7,ACC
+5,1971-12-28,12,Kentucky* R,11,1,SEC
+5,1971-12-28,13,Louisiana-Lafayette*,12,1,Southland
+5,1971-12-28,14,Pennsylvania* R,13,1,Ivy
+5,1971-12-28,15,Louisville* RF,19,4,MVC
+5,1971-12-28,16,Maryland,15,1,ACC
+5,1971-12-28,17,Marshall*,20,3,Ind
+5,1971-12-28,18,Hawaii*,,,Ind
+5,1971-12-28,19,West Virginia,,,Ind
+5,1971-12-28,20,Tennessee R,,,SEC
+Wk,Date,Rk,School,Prev,Chng,Conf
+4,1971-12-21,1,UCLA* RFN,1,NC,Pac-8
+4,1971-12-21,2,Marquette*,2,NC,Ind
+4,1971-12-21,3,South Carolina*,3,NC,Ind
+4,1971-12-21,4,North Carolina* RTF,4,NC,ACC
+4,1971-12-21,5,Southern California,10,5,Pac-8
+4,1971-12-21,6,Ohio State,10,4,Big Ten
+4,1971-12-21,7,Brigham Young* R,6,1,WAC
+4,1971-12-21,8,Indiana,12,4,Big Ten
+4,1971-12-21,9,Long Beach State* R,13,4,PCAA
+4,1971-12-21,10,St. John's (NY),8,2,Ind
+4,1971-12-21,11,Kentucky* R,7,4,SEC
+4,1971-12-21,12,Louisiana-Lafayette*,16,4,Southland
+4,1971-12-21,13,Pennsylvania* R,5,8,Ivy
+4,1971-12-21,14,Florida State* F,9,5,Ind
+4,1971-12-21,15,Maryland,15,NC,ACC
+4,1971-12-21,16,Jacksonville,14,2,Ind
+4,1971-12-21,17,Ohio* R,,,MAC
+4,1971-12-21,18,Virginia,19,1,ACC
+4,1971-12-21,19,Louisville* RF,17,2,MVC
+4,1971-12-21,20,Marshall*,,,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+3,1971-12-14,1,UCLA* RFN,1,NC,Pac-8
+3,1971-12-14,2,Marquette*,2,NC,Ind
+3,1971-12-14,3,South Carolina*,11,8,Ind
+3,1971-12-14,4,North Carolina* RTF,3,1,ACC
+3,1971-12-14,5,Pennsylvania* R,10,5,Ivy
+3,1971-12-14,6,Brigham Young* R,15,9,WAC
+3,1971-12-14,7,Kentucky* R,7,NC,SEC
+3,1971-12-14,8,St. John's (NY),14,6,Ind
+3,1971-12-14,9,Florida State* F,18,9,Ind
+3,1971-12-14,10,Ohio State,4,6,Big Ten
+3,1971-12-14,10,Southern California,13,3,Pac-8
+3,1971-12-14,12,Indiana,,,Big Ten
+3,1971-12-14,13,Long Beach State* R,6,7,PCAA
+3,1971-12-14,14,Jacksonville,8,6,Ind
+3,1971-12-14,15,Maryland,5,10,ACC
+3,1971-12-14,16,Louisiana-Lafayette*,,,Southland
+3,1971-12-14,17,Louisville* RF,16,1,MVC
+3,1971-12-14,18,Princeton,,,Ivy
+3,1971-12-14,19,Virginia,,,ACC
+3,1971-12-14,20,Houston*,12,8,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+2,1971-12-07,1,UCLA* RFN,1,NC,Pac-8
+2,1971-12-07,2,Marquette*,4,2,Ind
+2,1971-12-07,3,North Carolina* RTF,2,1,ACC
+2,1971-12-07,4,Ohio State,5,1,Big Ten
+2,1971-12-07,5,Maryland,6,1,ACC
+2,1971-12-07,6,Long Beach State* R,8,2,PCAA
+2,1971-12-07,7,Kentucky* R,10,3,SEC
+2,1971-12-07,8,Jacksonville,11,3,Ind
+2,1971-12-07,9,Michigan,13,4,Big Ten
+2,1971-12-07,10,Pennsylvania* R,15,5,Ivy
+2,1971-12-07,11,South Carolina*,12,1,Ind
+2,1971-12-07,12,Houston*,7,5,Ind
+2,1971-12-07,13,Southern California,3,10,Pac-8
+2,1971-12-07,14,St. John's (NY),17,3,Ind
+2,1971-12-07,15,Brigham Young* R,19,4,WAC
+2,1971-12-07,16,Louisville* RF,9,7,MVC
+2,1971-12-07,17,Arizona State,,,WAC
+2,1971-12-07,18,Florida State* F,,,Ind
+2,1971-12-07,18,Villanova*,18,NC,Ind
+2,1971-12-07,20,North Carolina State,,,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+1,Preseason,1,UCLA* RFN,NA,—,Pac-8
+1,Preseason,2,North Carolina* RTF,NA,—,ACC
+1,Preseason,3,Southern California,NA,—,Pac-8
+1,Preseason,4,Marquette*,NA,—,Ind
+1,Preseason,5,Ohio State,NA,—,Big Ten
+1,Preseason,6,Maryland,NA,—,ACC
+1,Preseason,7,Houston*,NA,—,Ind
+1,Preseason,8,Long Beach State* R,NA,—,PCAA
+1,Preseason,9,Louisville* RF,NA,—,MVC
+1,Preseason,10,Kentucky* R,NA,—,SEC
+1,Preseason,11,Jacksonville,NA,—,Ind
+1,Preseason,12,South Carolina*,NA,—,Ind
+1,Preseason,13,Michigan,NA,—,Big Ten
+1,Preseason,14,Kansas,NA,—,Big 8
+1,Preseason,15,Pennsylvania* R,NA,—,Ivy
+1,Preseason,16,New Mexico,NA,—,WAC
+1,Preseason,17,St. John's (NY),NA,—,Ind
+1,Preseason,18,Villanova*,NA,—,Ind
+1,Preseason,19,Brigham Young* R,NA,—,WAC
+1,Preseason,20,Oklahoma,NA,—,Big 8

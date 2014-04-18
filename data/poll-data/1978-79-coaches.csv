@@ -1,0 +1,590 @@
+Wk,Date,Rk,School,Prev,Chng,Conf
+14,1979-03-06,1,Indiana State* RTF,1,NC,MVC
+14,1979-03-06,2,UCLA* R,3,1,Pac-10
+14,1979-03-06,3,North Carolina* RT,7,4,ACC
+14,1979-03-06,4,Michigan State* RFN,4,NC,Big Ten
+14,1979-03-06,5,Notre Dame*,2,3,Ind
+14,1979-03-06,6,Arkansas* RT,9,3,SWC
+14,1979-03-06,7,Duke* R,6,1,ACC
+14,1979-03-06,8,DePaul* F,11,3,Ind
+14,1979-03-06,9,Louisiana State* R,8,1,SEC
+14,1979-03-06,10,Syracuse* R,5,5,Ind
+14,1979-03-06,11,Iowa* R,10,1,Big Ten
+14,1979-03-06,12,Georgetown*,15,3,Ind
+14,1979-03-06,13,Marquette*,12,1,Ind
+14,1979-03-06,14,Purdue R,18,4,Big Ten
+14,1979-03-06,15,Texas* R,14,1,SWC
+14,1979-03-06,16,Temple* RT,13,3,ECC
+14,1979-03-06,17,San Francisco* R,19,2,WCC
+14,1979-03-06,18,Tennessee* T,,,SEC
+14,1979-03-06,19,Louisville* R,16,3,Metro
+14,1979-03-06,20,Detroit Mercy*,20,NC,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+13,1979-02-27,1,Indiana State* RTF,2,1,MVC
+13,1979-02-27,2,Notre Dame*,3,1,Ind
+13,1979-02-27,3,UCLA* R,1,2,Pac-10
+13,1979-02-27,4,Michigan State* RFN,8,4,Big Ten
+13,1979-02-27,5,Syracuse* R,6,1,Ind
+13,1979-02-27,6,Duke* R,7,1,ACC
+13,1979-02-27,7,North Carolina* RT,4,3,ACC
+13,1979-02-27,8,Louisiana State* R,5,3,SEC
+13,1979-02-27,9,Arkansas* RT,12,3,SWC
+13,1979-02-27,10,Iowa* R,11,1,Big Ten
+13,1979-02-27,11,DePaul* F,20,9,Ind
+13,1979-02-27,12,Marquette*,9,3,Ind
+13,1979-02-27,13,Temple* RT,15,2,ECC
+13,1979-02-27,14,Texas* R,10,4,SWC
+13,1979-02-27,15,Georgetown*,16,1,Ind
+13,1979-02-27,16,Louisville* R,14,2,Metro
+13,1979-02-27,17,Ohio State,13,4,Big Ten
+13,1979-02-27,18,Purdue R,17,1,Big Ten
+13,1979-02-27,19,San Francisco* R,,,WCC
+13,1979-02-27,20,Detroit Mercy*,18,2,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+12,1979-02-20,1,UCLA* R,1,NC,Pac-10
+12,1979-02-20,2,Indiana State* RTF,2,NC,MVC
+12,1979-02-20,3,Notre Dame*,3,NC,Ind
+12,1979-02-20,4,North Carolina* RT,4,NC,ACC
+12,1979-02-20,5,Louisiana State* R,5,NC,SEC
+12,1979-02-20,6,Syracuse* R,7,1,Ind
+12,1979-02-20,7,Duke* R,6,1,ACC
+12,1979-02-20,8,Michigan State* RFN,8,NC,Big Ten
+12,1979-02-20,9,Marquette*,10,1,Ind
+12,1979-02-20,10,Texas* R,12,2,SWC
+12,1979-02-20,11,Iowa* R,15,4,Big Ten
+12,1979-02-20,12,Arkansas* RT,11,1,SWC
+12,1979-02-20,13,Ohio State,18,5,Big Ten
+12,1979-02-20,14,Louisville* R,9,5,Metro
+12,1979-02-20,15,Temple* RT,14,1,ECC
+12,1979-02-20,16,Georgetown*,16,NC,Ind
+12,1979-02-20,17,Purdue R,13,4,Big Ten
+12,1979-02-20,18,Detroit Mercy*,20,2,Ind
+12,1979-02-20,19,Vanderbilt,17,2,SEC
+12,1979-02-20,20,DePaul* F,,,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+11,1979-02-13,1,UCLA* R,3,2,Pac-10
+11,1979-02-13,2,Indiana State* RTF,2,NC,MVC
+11,1979-02-13,3,Notre Dame*,1,2,Ind
+11,1979-02-13,4,North Carolina* RT,6,2,ACC
+11,1979-02-13,5,Louisiana State* R,7,2,SEC
+11,1979-02-13,6,Duke* R,4,2,ACC
+11,1979-02-13,7,Syracuse* R,10,3,Ind
+11,1979-02-13,8,Michigan State* RFN,9,1,Big Ten
+11,1979-02-13,9,Louisville* R,5,4,Metro
+11,1979-02-13,10,Marquette*,8,2,Ind
+11,1979-02-13,11,Arkansas* RT,14,3,SWC
+11,1979-02-13,12,Texas* R,15,3,SWC
+11,1979-02-13,13,Purdue R,18,5,Big Ten
+11,1979-02-13,14,Temple* RT,17,3,ECC
+11,1979-02-13,15,Iowa* R,13,2,Big Ten
+11,1979-02-13,16,Georgetown*,19,3,Ind
+11,1979-02-13,17,Vanderbilt,16,1,SEC
+11,1979-02-13,18,Ohio State,12,6,Big Ten
+11,1979-02-13,18,Texas A&M,11,7,SWC
+11,1979-02-13,20,Detroit Mercy*,,,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+10,1979-02-06,1,Notre Dame*,1,NC,Ind
+10,1979-02-06,2,Indiana State* RTF,2,NC,MVC
+10,1979-02-06,3,UCLA* R,3,NC,Pac-10
+10,1979-02-06,4,Duke* R,4,NC,ACC
+10,1979-02-06,5,Louisville* R,5,NC,Metro
+10,1979-02-06,6,North Carolina* RT,6,NC,ACC
+10,1979-02-06,7,Louisiana State* R,12,5,SEC
+10,1979-02-06,8,Marquette*,9,1,Ind
+10,1979-02-06,9,Michigan State* RFN,13,4,Big Ten
+10,1979-02-06,10,Syracuse* R,8,2,Ind
+10,1979-02-06,11,Texas A&M,14,3,SWC
+10,1979-02-06,12,Ohio State,7,5,Big Ten
+10,1979-02-06,13,Iowa* R,,,Big Ten
+10,1979-02-06,14,Arkansas* RT,,,SWC
+10,1979-02-06,15,Texas* R,11,4,SWC
+10,1979-02-06,16,Vanderbilt,16,NC,SEC
+10,1979-02-06,17,Temple* RT,18,1,ECC
+10,1979-02-06,18,Purdue R,20,2,Big Ten
+10,1979-02-06,19,Georgetown*,10,9,Ind
+10,1979-02-06,19,Southern California*,,,Pac-10
+Wk,Date,Rk,School,Prev,Chng,Conf
+9,1979-01-30,1,Notre Dame*,1,NC,Ind
+9,1979-01-30,2,Indiana State* RTF,3,1,MVC
+9,1979-01-30,3,UCLA* R,7,4,Pac-10
+9,1979-01-30,4,Duke* R,6,2,ACC
+9,1979-01-30,5,Louisville* R,5,NC,Metro
+9,1979-01-30,6,North Carolina* RT,2,4,ACC
+9,1979-01-30,7,Ohio State,9,2,Big Ten
+9,1979-01-30,8,Syracuse* R,13,5,Ind
+9,1979-01-30,9,Marquette*,11,2,Ind
+9,1979-01-30,10,Georgetown*,12,2,Ind
+9,1979-01-30,11,Texas* R,16,5,SWC
+9,1979-01-30,12,Louisiana State* R,10,2,SEC
+9,1979-01-30,13,Michigan State* RFN,4,9,Big Ten
+9,1979-01-30,14,Texas A&M,14,NC,SWC
+9,1979-01-30,15,Alabama,20,5,SEC
+9,1979-01-30,16,Vanderbilt,17,1,SEC
+9,1979-01-30,17,Illinois,8,9,Big Ten
+9,1979-01-30,18,Temple* RT,15,3,ECC
+9,1979-01-30,19,Weber State* RT,,,Big Sky
+9,1979-01-30,20,Purdue R,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+8,1979-01-23,1,Notre Dame*,1,NC,Ind
+8,1979-01-23,2,North Carolina* RT,3,1,ACC
+8,1979-01-23,3,Indiana State* RTF,5,2,MVC
+8,1979-01-23,4,Michigan State* RFN,6,2,Big Ten
+8,1979-01-23,5,Louisville* R,7,2,Metro
+8,1979-01-23,6,Duke* R,9,3,ACC
+8,1979-01-23,7,UCLA* R,4,3,Pac-10
+8,1979-01-23,8,Illinois,2,6,Big Ten
+8,1979-01-23,9,Ohio State,11,2,Big Ten
+8,1979-01-23,10,Louisiana State* R,8,2,SEC
+8,1979-01-23,11,Marquette*,10,1,Ind
+8,1979-01-23,12,Georgetown*,14,2,Ind
+8,1979-01-23,13,Syracuse* R,15,2,Ind
+8,1979-01-23,14,Texas A&M,17,3,SWC
+8,1979-01-23,15,Temple* RT,12,3,ECC
+8,1979-01-23,16,Texas* R,,,SWC
+8,1979-01-23,17,Vanderbilt,,,SEC
+8,1979-01-23,18,Arkansas* RT,13,5,SWC
+8,1979-01-23,19,North Carolina State,18,1,ACC
+8,1979-01-23,20,Alabama,16,4,SEC
+Wk,Date,Rk,School,Prev,Chng,Conf
+7,1979-01-16,1,Notre Dame*,2,1,Ind
+7,1979-01-16,2,Illinois,3,1,Big Ten
+7,1979-01-16,3,North Carolina* RT,4,1,ACC
+7,1979-01-16,4,UCLA* R,6,2,Pac-10
+7,1979-01-16,5,Indiana State* RTF,9,4,MVC
+7,1979-01-16,6,Michigan State* RFN,1,5,Big Ten
+7,1979-01-16,7,Louisville* R,13,6,Metro
+7,1979-01-16,8,Louisiana State* R,5,3,SEC
+7,1979-01-16,9,Duke* R,7,2,ACC
+7,1979-01-16,10,Marquette*,11,1,Ind
+7,1979-01-16,11,Ohio State,,,Big Ten
+7,1979-01-16,12,Temple* RT,15,3,ECC
+7,1979-01-16,13,Arkansas* RT,10,3,SWC
+7,1979-01-16,14,Georgetown*,16,2,Ind
+7,1979-01-16,15,Syracuse* R,18,3,Ind
+7,1979-01-16,16,Alabama,,,SEC
+7,1979-01-16,17,Texas A&M,12,5,SWC
+7,1979-01-16,18,North Carolina State,8,10,ACC
+7,1979-01-16,19,Kansas,14,5,Big 8
+7,1979-01-16,20,Southern California*,19,1,Pac-10
+Wk,Date,Rk,School,Prev,Chng,Conf
+6,1979-01-09,1,Michigan State* RFN,1,NC,Big Ten
+6,1979-01-09,2,Notre Dame*,2,NC,Ind
+6,1979-01-09,3,Illinois,3,NC,Big Ten
+6,1979-01-09,4,North Carolina* RT,4,NC,ACC
+6,1979-01-09,5,Louisiana State* R,6,1,SEC
+6,1979-01-09,6,UCLA* R,5,1,Pac-10
+6,1979-01-09,7,Duke* R,7,NC,ACC
+6,1979-01-09,8,North Carolina State,10,2,ACC
+6,1979-01-09,9,Indiana State* RTF,9,NC,MVC
+6,1979-01-09,10,Arkansas* RT,15,5,SWC
+6,1979-01-09,11,Marquette*,19,8,Ind
+6,1979-01-09,12,Texas A&M,14,2,SWC
+6,1979-01-09,13,Louisville* R,16,3,Metro
+6,1979-01-09,14,Kansas,17,3,Big 8
+6,1979-01-09,15,Temple* RT,,,ECC
+6,1979-01-09,16,Georgetown*,18,2,Ind
+6,1979-01-09,17,Long Beach State,11,6,PCAA
+6,1979-01-09,18,Syracuse* R,,,Ind
+6,1979-01-09,19,Southern California*,,,Pac-10
+6,1979-01-09,20,Michigan,12,8,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+5,1979-01-03,1,Michigan State* RFN,4,3,Big Ten
+5,1979-01-03,2,Notre Dame*,2,NC,Ind
+5,1979-01-03,3,Illinois,5,2,Big Ten
+5,1979-01-03,4,North Carolina* RT,6,2,ACC
+5,1979-01-03,5,UCLA* R,3,2,Pac-10
+5,1979-01-03,6,Louisiana State* R,8,2,SEC
+5,1979-01-03,7,Duke* R,1,6,ACC
+5,1979-01-03,8,Kentucky,15,7,SEC
+5,1979-01-03,9,Indiana State* RTF,11,2,MVC
+5,1979-01-03,10,North Carolina State,,,ACC
+5,1979-01-03,11,Long Beach State,13,2,PCAA
+5,1979-01-03,12,Michigan,7,5,Big Ten
+5,1979-01-03,13,Mississippi State,,,SEC
+5,1979-01-03,14,Texas A&M,10,4,SWC
+5,1979-01-03,15,Arkansas* RT,,,SWC
+5,1979-01-03,16,Louisville* R,9,7,Metro
+5,1979-01-03,17,Kansas,14,3,Big 8
+5,1979-01-03,18,Georgetown*,12,6,Ind
+5,1979-01-03,19,Marquette*,17,2,Ind
+5,1979-01-03,20,Maryland,19,1,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+4,1978-12-26,1,Duke* R,1,NC,ACC
+4,1978-12-26,2,Notre Dame*,2,NC,Ind
+4,1978-12-26,3,UCLA* R,3,NC,Pac-10
+4,1978-12-26,4,Michigan State* RFN,4,NC,Big Ten
+4,1978-12-26,5,Illinois,16,11,Big Ten
+4,1978-12-26,6,North Carolina* RT,6,NC,ACC
+4,1978-12-26,7,Michigan,7,NC,Big Ten
+4,1978-12-26,8,Louisiana State* R,10,2,SEC
+4,1978-12-26,9,Louisville* R,11,2,Metro
+4,1978-12-26,10,Texas A&M,18,8,SWC
+4,1978-12-26,11,Indiana State* RTF,15,4,MVC
+4,1978-12-26,12,Georgetown*,14,2,Ind
+4,1978-12-26,13,Long Beach State,17,4,PCAA
+4,1978-12-26,14,Kansas,8,6,Big 8
+4,1978-12-26,15,Kentucky,12,3,SEC
+4,1978-12-26,16,Washington State,,,Pac-10
+4,1978-12-26,17,Marquette*,13,4,Ind
+4,1978-12-26,18,Syracuse* R,9,9,Ind
+4,1978-12-26,19,Maryland,,,ACC
+4,1978-12-26,20,Texas* R,19,1,SWC
+Wk,Date,Rk,School,Prev,Chng,Conf
+3,1978-12-19,1,Duke* R,1,NC,ACC
+3,1978-12-19,2,Notre Dame*,2,NC,Ind
+3,1978-12-19,3,UCLA* R,5,2,Pac-10
+3,1978-12-19,4,Michigan State* RFN,3,1,Big Ten
+3,1978-12-19,5,North Carolina State,7,2,ACC
+3,1978-12-19,6,North Carolina* RT,12,6,ACC
+3,1978-12-19,7,Michigan,9,2,Big Ten
+3,1978-12-19,8,Kansas,8,NC,Big 8
+3,1978-12-19,9,Syracuse* R,11,2,Ind
+3,1978-12-19,10,Louisiana State* R,10,NC,SEC
+3,1978-12-19,11,Louisville* R,4,7,Metro
+3,1978-12-19,12,Kentucky,6,6,SEC
+3,1978-12-19,13,Marquette*,14,1,Ind
+3,1978-12-19,14,Georgetown*,15,1,Ind
+3,1978-12-19,15,Indiana State* RTF,16,1,MVC
+3,1978-12-19,16,Illinois,19,3,Big Ten
+3,1978-12-19,17,Long Beach State,18,1,PCAA
+3,1978-12-19,18,Texas A&M,,,SWC
+3,1978-12-19,19,Texas* R,17,2,SWC
+3,1978-12-19,20,Arkansas* RT,20,NC,SWC
+Wk,Date,Rk,School,Prev,Chng,Conf
+2,1978-12-12,1,Duke* R,1,NC,ACC
+2,1978-12-12,2,Notre Dame*,3,1,Ind
+2,1978-12-12,3,Michigan State* RFN,4,1,Big Ten
+2,1978-12-12,4,Louisville* R,5,1,Metro
+2,1978-12-12,5,UCLA* R,2,3,Pac-10
+2,1978-12-12,6,Kentucky,14,8,SEC
+2,1978-12-12,7,North Carolina State,9,2,ACC
+2,1978-12-12,8,Kansas,5,3,Big 8
+2,1978-12-12,9,Michigan,8,1,Big Ten
+2,1978-12-12,10,Louisiana State* R,17,7,SEC
+2,1978-12-12,11,Syracuse* R,13,2,Ind
+2,1978-12-12,12,North Carolina* RT,12,NC,ACC
+2,1978-12-12,13,Southern California*,10,3,Pac-10
+2,1978-12-12,14,Marquette*,20,6,Ind
+2,1978-12-12,15,Georgetown*,,,Ind
+2,1978-12-12,16,Indiana State* RTF,,,MVC
+2,1978-12-12,17,Texas* R,7,10,SWC
+2,1978-12-12,18,Long Beach State,,,PCAA
+2,1978-12-12,19,Illinois,,,Big Ten
+2,1978-12-12,20,Arkansas* RT,,,SWC
+Wk,Date,Rk,School,Prev,Chng,Conf
+1,Preseason,1,Duke* R,NA,—,ACC
+1,Preseason,2,UCLA* R,NA,—,Pac-10
+1,Preseason,3,Notre Dame*,NA,—,Ind
+1,Preseason,4,Michigan State* RFN,NA,—,Big Ten
+1,Preseason,5,Kansas,NA,—,Big 8
+1,Preseason,5,Louisville* R,NA,—,Metro
+1,Preseason,7,Texas* R,NA,—,SWC
+1,Preseason,8,Michigan,NA,—,Big Ten
+1,Preseason,9,North Carolina State,NA,—,ACC
+1,Preseason,10,Southern California*,NA,—,Pac-10
+1,Preseason,11,Indiana,NA,—,Big Ten
+1,Preseason,12,North Carolina* RT,NA,—,ACC
+1,Preseason,13,Syracuse* R,NA,—,Ind
+1,Preseason,14,Kentucky,NA,—,SEC
+1,Preseason,15,Alabama,NA,—,SEC
+1,Preseason,16,San Francisco* R,NA,—,WCC
+1,Preseason,17,Louisiana State* R,NA,—,SEC
+1,Preseason,18,Rutgers* T,NA,—,EAA
+1,Preseason,19,Minnesota,NA,—,Big Ten
+1,Preseason,20,Marquette*,NA,—,Ind
+
+
+Provided by <a href="http://www.sports-reference.com/sharing.shtml?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">Sports-Reference.com/CBB</a>: <a href="http://www.sports-reference.com/cbb/seasons/1979-polls.html?sr&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#upi">View Original Table</a><br>Generated 4/17/2014.Wk,Date,Rk,School,Prev,Chng,Conf
+14,1979-03-06,1,Indiana State* RTF,1,NC,MVC
+14,1979-03-06,2,UCLA* R,3,1,Pac-10
+14,1979-03-06,3,North Carolina* RT,7,4,ACC
+14,1979-03-06,4,Michigan State* RFN,4,NC,Big Ten
+14,1979-03-06,5,Notre Dame*,2,3,Ind
+14,1979-03-06,6,Arkansas* RT,9,3,SWC
+14,1979-03-06,7,Duke* R,6,1,ACC
+14,1979-03-06,8,DePaul* F,11,3,Ind
+14,1979-03-06,9,Louisiana State* R,8,1,SEC
+14,1979-03-06,10,Syracuse* R,5,5,Ind
+14,1979-03-06,11,Iowa* R,10,1,Big Ten
+14,1979-03-06,12,Georgetown*,15,3,Ind
+14,1979-03-06,13,Marquette*,12,1,Ind
+14,1979-03-06,14,Purdue R,18,4,Big Ten
+14,1979-03-06,15,Texas* R,14,1,SWC
+14,1979-03-06,16,Temple* RT,13,3,ECC
+14,1979-03-06,17,San Francisco* R,19,2,WCC
+14,1979-03-06,18,Tennessee* T,,,SEC
+14,1979-03-06,19,Louisville* R,16,3,Metro
+14,1979-03-06,20,Detroit Mercy*,20,NC,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+13,1979-02-27,1,Indiana State* RTF,2,1,MVC
+13,1979-02-27,2,Notre Dame*,3,1,Ind
+13,1979-02-27,3,UCLA* R,1,2,Pac-10
+13,1979-02-27,4,Michigan State* RFN,8,4,Big Ten
+13,1979-02-27,5,Syracuse* R,6,1,Ind
+13,1979-02-27,6,Duke* R,7,1,ACC
+13,1979-02-27,7,North Carolina* RT,4,3,ACC
+13,1979-02-27,8,Louisiana State* R,5,3,SEC
+13,1979-02-27,9,Arkansas* RT,12,3,SWC
+13,1979-02-27,10,Iowa* R,11,1,Big Ten
+13,1979-02-27,11,DePaul* F,20,9,Ind
+13,1979-02-27,12,Marquette*,9,3,Ind
+13,1979-02-27,13,Temple* RT,15,2,ECC
+13,1979-02-27,14,Texas* R,10,4,SWC
+13,1979-02-27,15,Georgetown*,16,1,Ind
+13,1979-02-27,16,Louisville* R,14,2,Metro
+13,1979-02-27,17,Ohio State,13,4,Big Ten
+13,1979-02-27,18,Purdue R,17,1,Big Ten
+13,1979-02-27,19,San Francisco* R,,,WCC
+13,1979-02-27,20,Detroit Mercy*,18,2,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+12,1979-02-20,1,UCLA* R,1,NC,Pac-10
+12,1979-02-20,2,Indiana State* RTF,2,NC,MVC
+12,1979-02-20,3,Notre Dame*,3,NC,Ind
+12,1979-02-20,4,North Carolina* RT,4,NC,ACC
+12,1979-02-20,5,Louisiana State* R,5,NC,SEC
+12,1979-02-20,6,Syracuse* R,7,1,Ind
+12,1979-02-20,7,Duke* R,6,1,ACC
+12,1979-02-20,8,Michigan State* RFN,8,NC,Big Ten
+12,1979-02-20,9,Marquette*,10,1,Ind
+12,1979-02-20,10,Texas* R,12,2,SWC
+12,1979-02-20,11,Iowa* R,15,4,Big Ten
+12,1979-02-20,12,Arkansas* RT,11,1,SWC
+12,1979-02-20,13,Ohio State,18,5,Big Ten
+12,1979-02-20,14,Louisville* R,9,5,Metro
+12,1979-02-20,15,Temple* RT,14,1,ECC
+12,1979-02-20,16,Georgetown*,16,NC,Ind
+12,1979-02-20,17,Purdue R,13,4,Big Ten
+12,1979-02-20,18,Detroit Mercy*,20,2,Ind
+12,1979-02-20,19,Vanderbilt,17,2,SEC
+12,1979-02-20,20,DePaul* F,,,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+11,1979-02-13,1,UCLA* R,3,2,Pac-10
+11,1979-02-13,2,Indiana State* RTF,2,NC,MVC
+11,1979-02-13,3,Notre Dame*,1,2,Ind
+11,1979-02-13,4,North Carolina* RT,6,2,ACC
+11,1979-02-13,5,Louisiana State* R,7,2,SEC
+11,1979-02-13,6,Duke* R,4,2,ACC
+11,1979-02-13,7,Syracuse* R,10,3,Ind
+11,1979-02-13,8,Michigan State* RFN,9,1,Big Ten
+11,1979-02-13,9,Louisville* R,5,4,Metro
+11,1979-02-13,10,Marquette*,8,2,Ind
+11,1979-02-13,11,Arkansas* RT,14,3,SWC
+11,1979-02-13,12,Texas* R,15,3,SWC
+11,1979-02-13,13,Purdue R,18,5,Big Ten
+11,1979-02-13,14,Temple* RT,17,3,ECC
+11,1979-02-13,15,Iowa* R,13,2,Big Ten
+11,1979-02-13,16,Georgetown*,19,3,Ind
+11,1979-02-13,17,Vanderbilt,16,1,SEC
+11,1979-02-13,18,Ohio State,12,6,Big Ten
+11,1979-02-13,18,Texas A&M,11,7,SWC
+11,1979-02-13,20,Detroit Mercy*,,,Ind
+Wk,Date,Rk,School,Prev,Chng,Conf
+10,1979-02-06,1,Notre Dame*,1,NC,Ind
+10,1979-02-06,2,Indiana State* RTF,2,NC,MVC
+10,1979-02-06,3,UCLA* R,3,NC,Pac-10
+10,1979-02-06,4,Duke* R,4,NC,ACC
+10,1979-02-06,5,Louisville* R,5,NC,Metro
+10,1979-02-06,6,North Carolina* RT,6,NC,ACC
+10,1979-02-06,7,Louisiana State* R,12,5,SEC
+10,1979-02-06,8,Marquette*,9,1,Ind
+10,1979-02-06,9,Michigan State* RFN,13,4,Big Ten
+10,1979-02-06,10,Syracuse* R,8,2,Ind
+10,1979-02-06,11,Texas A&M,14,3,SWC
+10,1979-02-06,12,Ohio State,7,5,Big Ten
+10,1979-02-06,13,Iowa* R,,,Big Ten
+10,1979-02-06,14,Arkansas* RT,,,SWC
+10,1979-02-06,15,Texas* R,11,4,SWC
+10,1979-02-06,16,Vanderbilt,16,NC,SEC
+10,1979-02-06,17,Temple* RT,18,1,ECC
+10,1979-02-06,18,Purdue R,20,2,Big Ten
+10,1979-02-06,19,Georgetown*,10,9,Ind
+10,1979-02-06,19,Southern California*,,,Pac-10
+Wk,Date,Rk,School,Prev,Chng,Conf
+9,1979-01-30,1,Notre Dame*,1,NC,Ind
+9,1979-01-30,2,Indiana State* RTF,3,1,MVC
+9,1979-01-30,3,UCLA* R,7,4,Pac-10
+9,1979-01-30,4,Duke* R,6,2,ACC
+9,1979-01-30,5,Louisville* R,5,NC,Metro
+9,1979-01-30,6,North Carolina* RT,2,4,ACC
+9,1979-01-30,7,Ohio State,9,2,Big Ten
+9,1979-01-30,8,Syracuse* R,13,5,Ind
+9,1979-01-30,9,Marquette*,11,2,Ind
+9,1979-01-30,10,Georgetown*,12,2,Ind
+9,1979-01-30,11,Texas* R,16,5,SWC
+9,1979-01-30,12,Louisiana State* R,10,2,SEC
+9,1979-01-30,13,Michigan State* RFN,4,9,Big Ten
+9,1979-01-30,14,Texas A&M,14,NC,SWC
+9,1979-01-30,15,Alabama,20,5,SEC
+9,1979-01-30,16,Vanderbilt,17,1,SEC
+9,1979-01-30,17,Illinois,8,9,Big Ten
+9,1979-01-30,18,Temple* RT,15,3,ECC
+9,1979-01-30,19,Weber State* RT,,,Big Sky
+9,1979-01-30,20,Purdue R,,,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+8,1979-01-23,1,Notre Dame*,1,NC,Ind
+8,1979-01-23,2,North Carolina* RT,3,1,ACC
+8,1979-01-23,3,Indiana State* RTF,5,2,MVC
+8,1979-01-23,4,Michigan State* RFN,6,2,Big Ten
+8,1979-01-23,5,Louisville* R,7,2,Metro
+8,1979-01-23,6,Duke* R,9,3,ACC
+8,1979-01-23,7,UCLA* R,4,3,Pac-10
+8,1979-01-23,8,Illinois,2,6,Big Ten
+8,1979-01-23,9,Ohio State,11,2,Big Ten
+8,1979-01-23,10,Louisiana State* R,8,2,SEC
+8,1979-01-23,11,Marquette*,10,1,Ind
+8,1979-01-23,12,Georgetown*,14,2,Ind
+8,1979-01-23,13,Syracuse* R,15,2,Ind
+8,1979-01-23,14,Texas A&M,17,3,SWC
+8,1979-01-23,15,Temple* RT,12,3,ECC
+8,1979-01-23,16,Texas* R,,,SWC
+8,1979-01-23,17,Vanderbilt,,,SEC
+8,1979-01-23,18,Arkansas* RT,13,5,SWC
+8,1979-01-23,19,North Carolina State,18,1,ACC
+8,1979-01-23,20,Alabama,16,4,SEC
+Wk,Date,Rk,School,Prev,Chng,Conf
+7,1979-01-16,1,Notre Dame*,2,1,Ind
+7,1979-01-16,2,Illinois,3,1,Big Ten
+7,1979-01-16,3,North Carolina* RT,4,1,ACC
+7,1979-01-16,4,UCLA* R,6,2,Pac-10
+7,1979-01-16,5,Indiana State* RTF,9,4,MVC
+7,1979-01-16,6,Michigan State* RFN,1,5,Big Ten
+7,1979-01-16,7,Louisville* R,13,6,Metro
+7,1979-01-16,8,Louisiana State* R,5,3,SEC
+7,1979-01-16,9,Duke* R,7,2,ACC
+7,1979-01-16,10,Marquette*,11,1,Ind
+7,1979-01-16,11,Ohio State,,,Big Ten
+7,1979-01-16,12,Temple* RT,15,3,ECC
+7,1979-01-16,13,Arkansas* RT,10,3,SWC
+7,1979-01-16,14,Georgetown*,16,2,Ind
+7,1979-01-16,15,Syracuse* R,18,3,Ind
+7,1979-01-16,16,Alabama,,,SEC
+7,1979-01-16,17,Texas A&M,12,5,SWC
+7,1979-01-16,18,North Carolina State,8,10,ACC
+7,1979-01-16,19,Kansas,14,5,Big 8
+7,1979-01-16,20,Southern California*,19,1,Pac-10
+Wk,Date,Rk,School,Prev,Chng,Conf
+6,1979-01-09,1,Michigan State* RFN,1,NC,Big Ten
+6,1979-01-09,2,Notre Dame*,2,NC,Ind
+6,1979-01-09,3,Illinois,3,NC,Big Ten
+6,1979-01-09,4,North Carolina* RT,4,NC,ACC
+6,1979-01-09,5,Louisiana State* R,6,1,SEC
+6,1979-01-09,6,UCLA* R,5,1,Pac-10
+6,1979-01-09,7,Duke* R,7,NC,ACC
+6,1979-01-09,8,North Carolina State,10,2,ACC
+6,1979-01-09,9,Indiana State* RTF,9,NC,MVC
+6,1979-01-09,10,Arkansas* RT,15,5,SWC
+6,1979-01-09,11,Marquette*,19,8,Ind
+6,1979-01-09,12,Texas A&M,14,2,SWC
+6,1979-01-09,13,Louisville* R,16,3,Metro
+6,1979-01-09,14,Kansas,17,3,Big 8
+6,1979-01-09,15,Temple* RT,,,ECC
+6,1979-01-09,16,Georgetown*,18,2,Ind
+6,1979-01-09,17,Long Beach State,11,6,PCAA
+6,1979-01-09,18,Syracuse* R,,,Ind
+6,1979-01-09,19,Southern California*,,,Pac-10
+6,1979-01-09,20,Michigan,12,8,Big Ten
+Wk,Date,Rk,School,Prev,Chng,Conf
+5,1979-01-03,1,Michigan State* RFN,4,3,Big Ten
+5,1979-01-03,2,Notre Dame*,2,NC,Ind
+5,1979-01-03,3,Illinois,5,2,Big Ten
+5,1979-01-03,4,North Carolina* RT,6,2,ACC
+5,1979-01-03,5,UCLA* R,3,2,Pac-10
+5,1979-01-03,6,Louisiana State* R,8,2,SEC
+5,1979-01-03,7,Duke* R,1,6,ACC
+5,1979-01-03,8,Kentucky,15,7,SEC
+5,1979-01-03,9,Indiana State* RTF,11,2,MVC
+5,1979-01-03,10,North Carolina State,,,ACC
+5,1979-01-03,11,Long Beach State,13,2,PCAA
+5,1979-01-03,12,Michigan,7,5,Big Ten
+5,1979-01-03,13,Mississippi State,,,SEC
+5,1979-01-03,14,Texas A&M,10,4,SWC
+5,1979-01-03,15,Arkansas* RT,,,SWC
+5,1979-01-03,16,Louisville* R,9,7,Metro
+5,1979-01-03,17,Kansas,14,3,Big 8
+5,1979-01-03,18,Georgetown*,12,6,Ind
+5,1979-01-03,19,Marquette*,17,2,Ind
+5,1979-01-03,20,Maryland,19,1,ACC
+Wk,Date,Rk,School,Prev,Chng,Conf
+4,1978-12-26,1,Duke* R,1,NC,ACC
+4,1978-12-26,2,Notre Dame*,2,NC,Ind
+4,1978-12-26,3,UCLA* R,3,NC,Pac-10
+4,1978-12-26,4,Michigan State* RFN,4,NC,Big Ten
+4,1978-12-26,5,Illinois,16,11,Big Ten
+4,1978-12-26,6,North Carolina* RT,6,NC,ACC
+4,1978-12-26,7,Michigan,7,NC,Big Ten
+4,1978-12-26,8,Louisiana State* R,10,2,SEC
+4,1978-12-26,9,Louisville* R,11,2,Metro
+4,1978-12-26,10,Texas A&M,18,8,SWC
+4,1978-12-26,11,Indiana State* RTF,15,4,MVC
+4,1978-12-26,12,Georgetown*,14,2,Ind
+4,1978-12-26,13,Long Beach State,17,4,PCAA
+4,1978-12-26,14,Kansas,8,6,Big 8
+4,1978-12-26,15,Kentucky,12,3,SEC
+4,1978-12-26,16,Washington State,,,Pac-10
+4,1978-12-26,17,Marquette*,13,4,Ind
+4,1978-12-26,18,Syracuse* R,9,9,Ind
+4,1978-12-26,19,Maryland,,,ACC
+4,1978-12-26,20,Texas* R,19,1,SWC
+Wk,Date,Rk,School,Prev,Chng,Conf
+3,1978-12-19,1,Duke* R,1,NC,ACC
+3,1978-12-19,2,Notre Dame*,2,NC,Ind
+3,1978-12-19,3,UCLA* R,5,2,Pac-10
+3,1978-12-19,4,Michigan State* RFN,3,1,Big Ten
+3,1978-12-19,5,North Carolina State,7,2,ACC
+3,1978-12-19,6,North Carolina* RT,12,6,ACC
+3,1978-12-19,7,Michigan,9,2,Big Ten
+3,1978-12-19,8,Kansas,8,NC,Big 8
+3,1978-12-19,9,Syracuse* R,11,2,Ind
+3,1978-12-19,10,Louisiana State* R,10,NC,SEC
+3,1978-12-19,11,Louisville* R,4,7,Metro
+3,1978-12-19,12,Kentucky,6,6,SEC
+3,1978-12-19,13,Marquette*,14,1,Ind
+3,1978-12-19,14,Georgetown*,15,1,Ind
+3,1978-12-19,15,Indiana State* RTF,16,1,MVC
+3,1978-12-19,16,Illinois,19,3,Big Ten
+3,1978-12-19,17,Long Beach State,18,1,PCAA
+3,1978-12-19,18,Texas A&M,,,SWC
+3,1978-12-19,19,Texas* R,17,2,SWC
+3,1978-12-19,20,Arkansas* RT,20,NC,SWC
+Wk,Date,Rk,School,Prev,Chng,Conf
+2,1978-12-12,1,Duke* R,1,NC,ACC
+2,1978-12-12,2,Notre Dame*,3,1,Ind
+2,1978-12-12,3,Michigan State* RFN,4,1,Big Ten
+2,1978-12-12,4,Louisville* R,5,1,Metro
+2,1978-12-12,5,UCLA* R,2,3,Pac-10
+2,1978-12-12,6,Kentucky,14,8,SEC
+2,1978-12-12,7,North Carolina State,9,2,ACC
+2,1978-12-12,8,Kansas,5,3,Big 8
+2,1978-12-12,9,Michigan,8,1,Big Ten
+2,1978-12-12,10,Louisiana State* R,17,7,SEC
+2,1978-12-12,11,Syracuse* R,13,2,Ind
+2,1978-12-12,12,North Carolina* RT,12,NC,ACC
+2,1978-12-12,13,Southern California*,10,3,Pac-10
+2,1978-12-12,14,Marquette*,20,6,Ind
+2,1978-12-12,15,Georgetown*,,,Ind
+2,1978-12-12,16,Indiana State* RTF,,,MVC
+2,1978-12-12,17,Texas* R,7,10,SWC
+2,1978-12-12,18,Long Beach State,,,PCAA
+2,1978-12-12,19,Illinois,,,Big Ten
+2,1978-12-12,20,Arkansas* RT,,,SWC
+Wk,Date,Rk,School,Prev,Chng,Conf
+1,Preseason,1,Duke* R,NA,—,ACC
+1,Preseason,2,UCLA* R,NA,—,Pac-10
+1,Preseason,3,Notre Dame*,NA,—,Ind
+1,Preseason,4,Michigan State* RFN,NA,—,Big Ten
+1,Preseason,5,Kansas,NA,—,Big 8
+1,Preseason,5,Louisville* R,NA,—,Metro
+1,Preseason,7,Texas* R,NA,—,SWC
+1,Preseason,8,Michigan,NA,—,Big Ten
+1,Preseason,9,North Carolina State,NA,—,ACC
+1,Preseason,10,Southern California*,NA,—,Pac-10
+1,Preseason,11,Indiana,NA,—,Big Ten
+1,Preseason,12,North Carolina* RT,NA,—,ACC
+1,Preseason,13,Syracuse* R,NA,—,Ind
+1,Preseason,14,Kentucky,NA,—,SEC
+1,Preseason,15,Alabama,NA,—,SEC
+1,Preseason,16,San Francisco* R,NA,—,WCC
+1,Preseason,17,Louisiana State* R,NA,—,SEC
+1,Preseason,18,Rutgers* T,NA,—,EAA
+1,Preseason,19,Minnesota,NA,—,Big Ten
+1,Preseason,20,Marquette*,NA,—,Ind
