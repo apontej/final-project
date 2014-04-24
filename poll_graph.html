@@ -28,6 +28,10 @@
         font-family: sans-serif;
         font-size: 9px;
     }
+
+    .node {
+    	clip-path: url(#clip);
+    }
 </style>
 </head>
 <body>
@@ -131,9 +135,10 @@ var conferences = {};
 var currentYear;
 var currentPoll;
 var maxRk;
+var allnodes;
 
-origStroke = 4;
-hoverStroke = 10;
+origStroke = 2;
+hoverStroke = 2;
 
 // var svg = d3.select("body").append("svg");
 
@@ -159,7 +164,19 @@ var tip = d3.tip()
 				return retVal;
 			})
 
+var nodetip = d3.tip()
+				.attr("class", "d3-tip")
+				.offset([-10,0])
+				.html(function(d) {
+					friendly_full = getIDsBy(undefined,undefined,undefined,d.School,undefined).friendly_full;
+					retVal = "";
+					retVal += '<img src="data/logos/' + friendly_full + '.gif" width="75" height="50" /><br />' + friendly_full;
+					retVal += "<br />Week: " + d.Wk + ", Rank: " + d.Rk;
+					return retVal;
+				})
+
 svg.call(tip);
+svg.call(nodetip);
 
 var externalschool;
 
@@ -193,6 +210,7 @@ d3.csv(thePollPath, function(error, data) {
 	conferences = {};
 	dataset = data;
 	maxRk = 0;
+	allNodes = [];
 
 	//d3.selectAll("path#teampath").exit().remove();
 	//console.log(dataset);
@@ -276,6 +294,8 @@ d3.csv(thePollPath, function(error, data) {
 		ranks = teams[school];
 		ranks.forEach(function(d) {
 			rankedWeeks.push(d.Wk);
+			espnid = getIDsBy(undefined,undefined,undefined,school,undefined).espn_id;
+			allNodes.push({"School": school, "espnid": espnid, "Rk": d.Rk, "Wk": d.Wk});
 		})
 		//
 		//  Change this for interpolation of missing ranks
@@ -382,14 +402,16 @@ d3.csv(thePollPath, function(error, data) {
 				//thepath.style("stroke-width", hoverStroke);
 				theClass = getClassFromPath(thePath);
 				//console.log(theClass);
-				tip.show(theClass);
+				//tip.show(theClass);
+				showCircles(theClass);
 				return highlightPath(thePath);
 			})
 			.on("mouseout", function(d) {
 				var thePath = d3.select(this);
 				//thepath.style("stroke-width", origStroke);
 				theClass = getClassFromPath(thePath);
-				tip.hide(theClass);
+				//tip.hide(theClass);
+				hideCircles(theClass);
 				return backToNormal();
 			})
 			.style("clip-path", "url(#clip)")
@@ -416,7 +438,31 @@ d3.csv(thePollPath, function(error, data) {
 				})
 				.text(lastRk + ": " + school);
 		}
+
 	}
+
+	nodes = svg.selectAll(".node")
+				.data(allNodes)
+				.enter()
+				.append("g")
+				.classed("node", true)
+				.append("circle")
+					.attr("r", 3)
+					.attr("fill", function(d) { return searchColor(d.School); })
+					.style("display", "none")
+					.classed("circ", true)
+					.attr("class", function(d) { return "x" + d.espnid; })
+					.attr("transform", function(d) {
+						return "translate("+xscale(d.Wk)+","+yscale(d.Rk)+")";
+					})
+					.on("mouseover", function(d) {
+						nodetip.show(d);
+						highlightPath(null,d.School);
+					})
+					.on("mouseout", function(d) {
+						nodetip.hide(d);
+						//backToNormal();
+					})
 
 
 	svg.append("g")
@@ -473,6 +519,19 @@ function highlightPath(thePath,school) {
 		thePath.style("stroke-width", hoverStroke)
 				.style("opacity", 1);
 	}
+}
+
+function showCircles(espnid) {
+	// console.log(school);
+	// espnid = getIDsBy(undefined,undefined,undefined,school,undefined).espn_id;
+	d3.selectAll("circle.x"+espnid)
+		.style("display", "block");
+}
+
+function hideCircles(espnid) {
+	//espnid = getIDsBy(undefined,undefined,undefined,school,undefined).espn_id;
+	d3.selectAll("circle.x"+espnid)
+		.style("display", "none");
 }
 
 var confCanvas,chart;
