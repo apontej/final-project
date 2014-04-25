@@ -1,0 +1,19 @@
+imgs = $("ul.logoWall li img");
+lis = $("ul.logoWall li");
+textarray = [];
+for (var i=0;i<lis.length;i++) {
+t = $(lis[i]).text().trim();
+textarray.push(t); }
+imgsrcs = [];
+for (var i=0;i<imgs.length;i++) {
+imgsrcs.push(imgs[i].src);}
+for (var i=0;i<textarray.length;i++) {
+f = textarray[i];
+f = f.split("since")[0];
+f = f.replace(/\s{2}/g," ");
+f = f.trim();
+textarray[i] = f; }
+for (var i=0;i<textarray.length;i++) {
+a = $("<a>").attr("href", imgsrcs[i]).attr("download", (textarray[i]+".gif"));
+a[0].click();
+}
