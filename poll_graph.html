@@ -495,10 +495,6 @@ var shown = false;
 	}
 	brush = d3.svg.brush().x(brushscale).on("brush", brushed);
 
-	svg.append("rect")
-		.attr("width", (bbPoll.w-100)-bbPoll.x)
-		.attr("height", 25)
-		.attr("transform", "translate("+margin.left+",620)");
 
 	be1 = svg.append("g").attr("class", "brush").call(brush);
 	be1.selectAll("rect")
@@ -540,9 +536,6 @@ function brushed() {
 	var extent0 = brush.extent(),
 		extent1 = extent0.map(function(d) { return Math.round(d); });
 
-	if (extent1[0] === extent1[1]) {
-		return;
-	}
 	if (extent1[0] > extent1[1]) {
 		extent1[0] = Math.floor(extent0[0]);
 		extent1[1] = Math.ceil(extent0[1]);
