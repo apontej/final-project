@@ -32,6 +32,17 @@
     .node {
     	clip-path: url(#clip);
     }
+
+    .brush .extent {
+    	stroke:black;
+    	fill-opacity:0.125;
+    	shape-rendering:crispEdges;
+    }
+
+    .brush .handle {
+    	stroke:black;
+    	fill-opacity:0.125;
+    }
 </style>
 </head>
 <body>
@@ -129,13 +140,18 @@ var bbPoll = {
 
 var dataset;
 var teams = {};
-var teamlines = [];
+var teamline;
 var weeks = [];
 var conferences = {};
 var currentYear;
 var currentPoll;
 var maxRk;
+var maxWk;
 var allnodes;
+var xsvg;
+var brush;
+
+var pathHighlighted = 0;
 
 origStroke = 2;
 hoverStroke = 2;
@@ -341,6 +357,7 @@ d3.csv(thePollPath, function(error, data) {
 	yscale = d3.scale.linear().domain([1,25]).range([50,700]);*/
 
 	xscale = d3.scale.linear().domain([1,maxWk]).range([bbPoll.x,bbPoll.w-100]);
+	brushscale = d3.scale.linear().domain([1,maxWk]).range([bbPoll.x,bbPoll.w-100]);
 	yscale = d3.scale.linear().domain([1,maxRk + 1]).range([bbPoll.y+20,bbPoll.h]);
 
 	xaxis = d3.svg.axis()
@@ -353,7 +370,7 @@ d3.csv(thePollPath, function(error, data) {
 				.orient("left")
 				.ticks(25);
 
-	var teamline = d3.svg.line().x(function(d) { return xscale(d.Wk); })
+	teamline = d3.svg.line().x(function(d) { return xscale(d.Wk); })
 								.y(function(d) { return yscale(d.Rk); })
 								//.interpolate("cardinal");
 
@@ -366,13 +383,14 @@ d3.csv(thePollPath, function(error, data) {
     svg.append("defs").append("clipPath")
         .attr("id", "clip")
         .append("rect")
-        .attr("width", bbPoll.w)
+        .attr("width", (bbPoll.w-100)-bbPoll.x)
         .attr("height", bbPoll.h-10)
         .attr("x", bbPoll.x)
         .attr("y", bbPoll.y);
 
 	count = 1;
 
+	hideCircles();
   svg
     .selectAll('.teampath')
     .remove();
@@ -383,6 +401,10 @@ d3.csv(thePollPath, function(error, data) {
   svg.selectAll(".axis")
   		.remove();
 
+  svg.selectAll(".node")
+  		.remove();
+
+var shown = false;
 	for (var school in teams) {
 		//console.log(school);
 		espnid = getIDsBy(undefined,undefined,undefined,school,undefined).espn_id;
@@ -397,22 +419,26 @@ d3.csv(thePollPath, function(error, data) {
 			.style("fill", "none")
 			.style("stroke-width", origStroke)
 			.style("stroke", searchColor(school))
-			.on("mouseover", function(d) {
+			.on("click", function(d) {
 				var thePath = d3.select(this);
 				//thepath.style("stroke-width", hoverStroke);
 				theClass = getClassFromPath(thePath);
 				//console.log(theClass);
 				//tip.show(theClass);
 				showCircles(theClass);
-				return highlightPath(thePath);
+				//return highlightPath(thePath);
+			})
+			.on("mouseover", function(d) {
+				d3.select("body").style("cursor", "pointer");
 			})
 			.on("mouseout", function(d) {
 				var thePath = d3.select(this);
 				//thepath.style("stroke-width", origStroke);
 				theClass = getClassFromPath(thePath);
 				//tip.hide(theClass);
-				hideCircles(theClass);
-				return backToNormal();
+				//hideCircles(theClass);
+				//return backToNormal();
+				d3.select("body").style("cursor", "default");
 			})
 			.style("clip-path", "url(#clip)")
 		count++;
@@ -424,18 +450,18 @@ d3.csv(thePollPath, function(error, data) {
 				.attr("transform", "translate("+(bbPoll.w-90)+","+yscale(lastRk)+")")
 				.attr("dy", ".25em")
 				.attr("text-anchor", "start")
-				.style("fill", searchColor(school))
-				.on("mouseover", function() {
-					//thisSchool = this.indexOf
-					theSchool = this.innerHTML;
-					//console.log(theSchool);
-					theSchool = theSchool.substring((theSchool.indexOf(" ")+1));
-					//console.log(theSchool);
-					return highlightPath(null,theSchool);
-				})
-				.on("mouseout", function() {
-					return backToNormal();
-				})
+				.style("fill", searchColor(school)
+)				// .on("mouseover", function() {
+				// 	//thisSchool = this.indexOf
+				// 	theSchool = this.innerHTML;
+				// 	//console.log(theSchool);
+				// 	theSchool = theSchool.substring((theSchool.indexOf(" ")+1));
+				// 	//console.log(theSchool);
+				// 	return highlightPath(null,theSchool);
+				// })
+				// .on("mouseout", function() {
+				// 	return backToNormal();
+				// })
 				.text(lastRk + ": " + school);
 		}
 
@@ -447,28 +473,48 @@ d3.csv(thePollPath, function(error, data) {
 				.append("g")
 				.classed("node", true)
 				.append("circle")
-					.attr("r", 3)
+					.attr("r", 5)
 					.attr("fill", function(d) { return searchColor(d.School); })
 					.style("display", "none")
-					.classed("circ", true)
-					.attr("class", function(d) { return "x" + d.espnid; })
+					//.classed("circ", true)
+					.attr("class", function(d) { return "x" + d.espnid + " circ"; })
 					.attr("transform", function(d) {
 						return "translate("+xscale(d.Wk)+","+yscale(d.Rk)+")";
 					})
 					.on("mouseover", function(d) {
 						nodetip.show(d);
-						highlightPath(null,d.School);
+						//highlightPath(null,d.School);
 					})
 					.on("mouseout", function(d) {
 						nodetip.hide(d);
 						//backToNormal();
 					})
 
+	if (brush !== undefined) {
+		d3.selectAll(".brush").call(brush.clear());
+	}
+	brush = d3.svg.brush().x(brushscale).on("brush", brushed);
 
-	svg.append("g")
+	svg.append("rect")
+		.attr("width", (bbPoll.w-100)-bbPoll.x)
+		.attr("height", 25)
+		.attr("transform", "translate("+margin.left+",620)");
+
+	be1 = svg.append("g").attr("class", "brush").call(brush);
+	be1.selectAll("rect")
+		.attr("y", 600)
+		.attr("height", 32);
+
+
+	xsvg = svg.append("g")
 		.attr("class", "axis")
 		.attr("transform", "translate(0,600)")
-		.call(xaxis);
+		.call(xaxis)
+		.selectAll("text")
+			.on("click", function(d) {
+				updateConfBar(d);
+				return updateMoversTable(d);
+			})
 
 	svg.append("g")
 		.attr("class", "axis")
@@ -487,6 +533,61 @@ d3.csv(thePollPath, function(error, data) {
 } // end function
 
 var allPaths;
+
+function brushed() {
+	if (!d3.event.sourceEvent) return;
+
+	var extent0 = brush.extent(),
+		extent1 = extent0.map(function(d) { return Math.round(d); });
+
+	if (extent1[0] === extent1[1]) {
+		return;
+	}
+	if (extent1[0] > extent1[1]) {
+		extent1[0] = Math.floor(extent0[0]);
+		extent1[1] = Math.ceil(extent0[1]);
+	}
+
+	d3.select(this).transition()
+		.call(brush.extent(extent1))
+		.call(brush.event);
+	xscale.domain(brush.empty() ? brushscale.domain(): brush.extent());
+
+	svg.selectAll(".teamtext")
+			.remove();
+	for (var school in teams) {
+		espnid = getIDsBy(undefined,undefined,undefined,school).espn_id;
+		svg.select("path.x"+espnid).attr("d", teamline(teams[school]));
+
+		lastRk = teams[school][extent1[1]-1].Rk;
+		if (lastRk < (maxRk + 2)) {
+			svg.append("text")
+				.classed("teamtext", true)
+				.attr("transform", "translate("+(bbPoll.w-90)+","+yscale(lastRk)+")")
+				.attr("dy", ".25em")
+				.attr("text-anchor", "start")
+				.style("fill", searchColor(school))
+				// .on("mouseover", function() {
+				// 	//thisSchool = this.indexOf
+				// 	theSchool = this.innerHTML;
+				// 	//console.log(theSchool);
+				// 	theSchool = theSchool.substring((theSchool.indexOf(" ")+1));
+				// 	//console.log(theSchool);
+				// 	return highlightPath(null,theSchool);
+				// })
+				// .on("mouseout", function() {
+				// 	return backToNormal();
+				// })
+				.text(lastRk + ": " + school);
+		}
+	}
+	// svg.selectAll(".circ").attr({
+	// 	"cx":function(d) { return xscale(d.Wk); },
+	// 	"cy":function(d) { return yscale(d.Rk); }
+	// })
+	svg.selectAll(".circ").attr("transform", function(d) { return "translate("+xscale(d.Wk) + "," + yscale(d.Rk) + ")"; })
+	//xsvg.call(xaxis);
+}
 
 function getClassFromPath(thePath) {
 	theClass = thePath[0][0].className.animVal;
@@ -524,14 +625,29 @@ function highlightPath(thePath,school) {
 function showCircles(espnid) {
 	// console.log(school);
 	// espnid = getIDsBy(undefined,undefined,undefined,school,undefined).espn_id;
-	d3.selectAll("circle.x"+espnid)
-		.style("display", "block");
+	if (pathHighlighted === 0) {
+		d3.selectAll("circle.x"+espnid)
+			.style("display", "block");
+		pathHighlighted = espnid;
+	} else if (pathHighlighted === espnid) {
+		d3.selectAll("circle.x"+espnid)
+			.style("display", "none");
+		pathHighlighted = 0;
+	} else if (pathHighlighted > 0) {
+		console.log(espnid, pathHighlighted);
+		d3.selectAll("circle.x"+pathHighlighted)
+			.style("display", "none");
+		d3.selectAll("circle.x"+espnid)
+			.style("display", "block");
+		pathHighlighted = espnid;
+	}
 }
 
-function hideCircles(espnid) {
+function hideCircles() {
 	//espnid = getIDsBy(undefined,undefined,undefined,school,undefined).espn_id;
-	d3.selectAll("circle.x"+espnid)
+	d3.selectAll("circle.x"+pathHighlighted)
 		.style("display", "none");
+	pathHighlighted = 0;
 }
 
 var confCanvas,chart;
@@ -639,7 +755,7 @@ function updateMoversTable(week) {
 
 function createConfBar() {
 	confCanvas = d3.select("#confBar").append("svg").attr({
-		width: 300,
+		width: 400,
 		height: 300
 	})
 
@@ -647,7 +763,7 @@ function createConfBar() {
 		transform: "translate(0,20)"
 	});
 
-	confXScale = d3.scale.ordinal().rangeRoundBands([0,300]);
+	confXScale = d3.scale.ordinal().rangeRoundBands([0,400]);
 	confYScale = d3.scale.linear().rangeRound([250,0]);
 
 	confXAxis = d3.svg.axis()
@@ -688,7 +804,7 @@ function updateConfBar(week) {
 			.attr("class", "bars")
 			.attr("fill", "lightsteelblue")
 			.attr("height", function(d) { return (250-confYScale(d)); })
-			.attr("width", ((300/confCounts.length)-2))
+			.attr("width", ((400/confCounts.length)-2))
 			.attr("transform", function(d,i) { return "translate(" + confXScale(currConfs[i]) + "," + confYScale(d) + ")"; });
 
 	chart.selectAll(".barValue")
@@ -701,7 +817,7 @@ function updateConfBar(week) {
 			.attr("class", "barValue")
 			.attr("text-anchor", "middle")
 			.attr("x", function(d, i) {
-				return i * (300 /confCounts.length) + (300 / confCounts.length - 2) /2;
+				return i * (400 /confCounts.length) + (400 / confCounts.length - 2) /2;
 			})
 			.attr("y", function(d) {
 				return (confYScale(d) + 24);
@@ -728,8 +844,8 @@ createConfBar();
 createMoversTable();
 displayPoll("AP", "2013-14");
 
-d3.select("body").append("div").attr("class", "d3-slider d3-slider-horizontal")//.style("margin-left", "35px");
-d3.select("div.d3-slider").call(d3.slider().axis(true).min(1).max(20).step(1).on("slide", function(evt, value) { updateConfBar(value); updateMoversTable(value); } ));
+//d3.select("body").append("div").attr("class", "d3-slider d3-slider-horizontal")//.style("margin-left", "35px");
+//d3.select("div.d3-slider").call(d3.slider().axis(true).min(1).max(20).step(1).on("slide", function(evt, value) { updateConfBar(value); updateMoversTable(value); } ));
 //displayPoll("coaches");
 
 </script>
