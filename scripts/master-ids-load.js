@@ -1,3 +1,4 @@
+// Load the master id list and create a function for obtaining missing data based on known data
 var master_ids;
 
 d3.csv("data/new-master-id.csv", function(error, data) {
