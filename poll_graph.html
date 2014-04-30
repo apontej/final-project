@@ -4,6 +4,7 @@
 <script src="scripts/teamcolors.js"></script>
 <script src="libs/jquery-1.10.1.js"></script>
 <script src="scripts/master-ids-load.js"></script>
+<script src="scripts/conferences.js"></script>
 <script src="libs/d3.slider.js"></script>
 <script src="libs/d3.tip.v0.6.3.js"></script>
 <link rel="stylesheet" href="libs/d3.slider.css" />
@@ -17,6 +18,9 @@
 		border-radius:5px;
 	}
 
+	body {
+		font-family: sans-serif;
+	}
     .axis path,
     .axis line {
         fill: none;
@@ -26,7 +30,7 @@
 
     .axis text {
         font-family: sans-serif;
-        font-size: 9px;
+        font-size: 10pt;
     }
 
     .node {
@@ -59,9 +63,9 @@
 <tr>
 <td rowspan="2">
 <form>
-<label><input type="radio" name="pollSelect" value="ap" onClick='displayPoll("AP")' checked> Associated Press</label>
-<label><input type="radio" name="pollSelect" value="coaches" onClick='displayPoll("coaches")'/> Coaches/USA Today</label>
-<label><input type="radio" name="pollSelect" value="rpi" onClick='displayPoll("rpi")'/> RPI</label>
+<label><input type="radio" name="pollSelect" value="ap" id="radioap" onClick='displayPoll("AP")' checked> Associated Press</label>
+<label><input type="radio" name="pollSelect" value="coaches" id="radiocoaches" onClick='displayPoll("coaches")'/> Coaches/USA Today</label>
+<!-- <label><input type="radio" name="pollSelect" value="rpi" onClick='displayPoll("rpi")'/> RPI</label> -->
 &nbsp;&nbsp;
 <select id="yearselect" autofocus>
 	<option value="1980-81">1980-81</option>
@@ -129,7 +133,7 @@ var margin = {
 	left:30
 };
 
-var width1 = 1400 - margin.left - margin.right;
+var width1 = 1000 - margin.left - margin.right;
 
 var bbPoll = {
 	x: margin.left,
@@ -150,6 +154,12 @@ var maxWk;
 var allnodes;
 var xsvg;
 var brush;
+var maxCount;
+
+var confCanvas,chart;
+var confXScale,confYScale,confXAxis,confXsvg;
+
+var topMovers = {};
 
 var pathHighlighted = 0;
 
@@ -165,7 +175,7 @@ var canvas = d3.select("#pollgraph").append("svg").attr({
 
 var svg = canvas.append("g").attr({
 	transform: "translate(" + margin.left + "," + margin.top + ")"
-});
+	});
 
 var polls = { "ap": "data/poll-data/2012-13-AP.csv", "coaches": "data/poll-data/2012-13-coaches.csv", "rpi": "data/rpi-ratings/2012-13-rpi.csv" };
 
@@ -176,7 +186,7 @@ var tip = d3.tip()
 				//console.log("d", d);
 				friendly_full = getIDsBy(d).friendly_full;
 				retVal = "";
-				retVal += '<img src="data/logos/' + friendly_full + '.gif" width="75" height="50" /><br />' + friendly_full;
+				retVal += '<img src="data/logos/' + friendly_full + '.gif" width="75" height="50"/><br />' + friendly_full;
 				return retVal;
 			})
 
@@ -191,12 +201,46 @@ var nodetip = d3.tip()
 					return retVal;
 				})
 
+var conftip = d3.tip()
+				.attr("class", "d3-tip")
+				.direction('w')
+				.offset(function(d) {
+					if (d.count > (maxCount / 2)) {
+						return [0,0];
+					} else {
+						return [0,0];
+					}
+				})
+				.html(function(d) {
+					retVal = "";
+					schools = d.schools;
+					confFull = getFullConference(d.conf);
+					retVal += '<p style="text-align:center;"><span style="text-decoration:underline;">' + confFull + "</span><br />";
+					schools.forEach(function(school) {
+						retVal += school + "<br />";
+					})
+					return retVal;
+				})
+
 svg.call(tip);
 svg.call(nodetip);
 
 var externalschool;
 
 var moversObj = {};
+
+var missingCoaches = {
+	"1992-93": 1,
+	"1993-94": 1,
+	"1994-95": 1,
+	"1995-96": 1,
+	"1996-97": 1,
+	"1997-98": 1,
+	"1998-99": 1,
+	"1999-00": 1,
+	"2000-01": 1,
+	"2001-02": 1
+}
 
 function displayPoll(thePoll, year) {
 	//console.log(thePoll);
@@ -208,17 +252,21 @@ function displayPoll(thePoll, year) {
 		thePoll = currentPoll;
 	} else {
 		currentPoll = thePoll;
-		console.log("current", currentPoll);
 	}
 	if (year === undefined) {
 		year = currentYear;
 	} else {
 		currentYear = year;
 	}
+
+	if (missingCoaches[year] === 1) {
+		thePoll = "AP";
+		currentPoll = thePoll;
+		document.getElementById('radioap').checked = true;
+	}
 	thePollPath = baseUrl + year + "-" + thePoll + ".csv";
 	// thePollPath = polls[thePoll];
 
-//d3.csv("data/poll-data/2012-13-AP.csv", function(error, data) {
 d3.csv(thePollPath, function(error, data) {
 	teams = {};
 	teamlines = [];
@@ -275,7 +323,6 @@ d3.csv(thePollPath, function(error, data) {
 			}
 		}
 		if (mapteams[school] !== undefined) {
-			//console.log("             ",mapteams[school]);
 			school = mapteams[school];
 		}
 		if (teams[school]) {
@@ -287,13 +334,14 @@ d3.csv(thePollPath, function(error, data) {
 		conf = line.Conf;
 		if (conferences[conf]) {
 			if (conferences[conf][week]) {
-				conferences[conf][week]++;
+				conferences[conf][week]["count"]++;
+				conferences[conf][week]["schools"].push(school);
 			} else {
-				conferences[conf][week] = 1;
+				conferences[conf][week] = {"count": 1, "schools": [school]};
 			}
 		} else {
 			conferences[conf] = {};
-			conferences[conf][week] = 1;
+			conferences[conf][week] = {"count": 1, "schools": [school]};
 		}
 
 		// Find max rank
@@ -337,6 +385,7 @@ d3.csv(thePollPath, function(error, data) {
 		ranks.forEach(function(d, i) {
 			if (i > 0) {
 				change = ranks[i-1].Rk - ranks[i].Rk
+				if (ranks[i-1].Rk === 27) change--;
 				ranks[i].Chng = change;
 				if (moversObj[d.Wk]) {
 					moversObj[d.Wk].push({"School": school, "Change": change});
@@ -383,7 +432,7 @@ d3.csv(thePollPath, function(error, data) {
     svg.append("defs").append("clipPath")
         .attr("id", "clip")
         .append("rect")
-        .attr("width", (bbPoll.w-100)-bbPoll.x)
+        .attr("width", (bbPoll.w-100)-bbPoll.x+5)
         .attr("height", bbPoll.h-10)
         .attr("x", bbPoll.x)
         .attr("y", bbPoll.y);
@@ -391,20 +440,15 @@ d3.csv(thePollPath, function(error, data) {
 	count = 1;
 
 	hideCircles();
-  svg
-    .selectAll('.teampath')
-    .remove();
+	svg.selectAll('.teampath')
+		.remove();
+	svg.selectAll(".teamtext")
+		.remove();
+	svg.selectAll(".axis")
+		.remove();
+	svg.selectAll(".node")
+		.remove();
 
-  svg.selectAll(".teamtext")
-  		.remove();
-
-  svg.selectAll(".axis")
-  		.remove();
-
-  svg.selectAll(".node")
-  		.remove();
-
-var shown = false;
 	for (var school in teams) {
 		//console.log(school);
 		espnid = getIDsBy(undefined,undefined,undefined,school,undefined).espn_id;
@@ -425,7 +469,7 @@ var shown = false;
 				theClass = getClassFromPath(thePath);
 				//console.log(theClass);
 				//tip.show(theClass);
-				showCircles(theClass);
+				showCircles(theClass,thePath);
 				//return highlightPath(thePath);
 			})
 			.on("mouseover", function(d) {
@@ -499,7 +543,7 @@ var shown = false;
 	be1 = svg.append("g").attr("class", "brush").call(brush);
 	be1.selectAll("rect")
 		.attr("y", 600)
-		.attr("height", 32);
+		.attr("height", 23);
 
 
 	xsvg = svg.append("g")
@@ -507,8 +551,17 @@ var shown = false;
 		.attr("transform", "translate(0,600)")
 		.call(xaxis)
 		.selectAll("text")
+			.attr("class", "xaxis-label")
+			.on("mouseover", function() {
+				d3.select("body").style("cursor", "pointer");
+			})
+			.on("mouseout", function() {
+				d3.select("body").style("cursor", "default");
+			})
 			.on("click", function(d) {
 				updateConfBar(d);
+				d3.selectAll(".xaxis-label").style("font-weight", "normal");
+				d3.select(this).style("font-weight", "bold");
 				return updateMoversTable(d);
 			})
 
@@ -615,16 +668,18 @@ function highlightPath(thePath,school) {
 	}
 }
 
-function showCircles(espnid) {
+function showCircles(espnid,thePath) {
 	// console.log(school);
 	// espnid = getIDsBy(undefined,undefined,undefined,school,undefined).espn_id;
 	if (pathHighlighted === 0) {
+		highlightPath(thePath);
 		d3.selectAll("circle.x"+espnid)
 			.style("display", "block");
 		pathHighlighted = espnid;
 	} else if (pathHighlighted === espnid) {
 		d3.selectAll("circle.x"+espnid)
 			.style("display", "none");
+		backToNormal();
 		pathHighlighted = 0;
 	} else if (pathHighlighted > 0) {
 		console.log(espnid, pathHighlighted);
@@ -632,6 +687,8 @@ function showCircles(espnid) {
 			.style("display", "none");
 		d3.selectAll("circle.x"+espnid)
 			.style("display", "block");
+		backToNormal();
+		highlightPath(thePath);
 		pathHighlighted = espnid;
 	}
 }
@@ -643,10 +700,6 @@ function hideCircles() {
 	pathHighlighted = 0;
 }
 
-var confCanvas,chart;
-var confXScale,confYScale,confXAxis,confXsvg;
-
-var topMovers = {};
 
 function findTopMovers() {
 	for (var week in moversObj) {
@@ -766,6 +819,9 @@ function createConfBar() {
 	confXsvg = chart.append("g")
 					.attr("class", "axis")
 					.attr("transform", "translate(0,250)");
+
+	chart.call(conftip);
+
 }
 
 var currConfs,confCounts;
@@ -775,7 +831,10 @@ function updateConfBar(week) {
 	for (var conf in conferences) {
 		if (conferences[conf][week]) {
 			currConfs.push(conf);
-			confCounts.push(conferences[conf][week]);
+			//confCounts.push(conferences[conf][week]["count"]);
+			theConfObj = conferences[conf][week];
+			theConfObj["conf"] = conf;
+			confCounts.push(theConfObj);
 		}
 	}
 
@@ -784,7 +843,8 @@ function updateConfBar(week) {
 	confXsvg.call(confXAxis)
 		.selectAll("text")
 			.style("font-size", "7pt");
-	maxCount = d3.max(confCounts, function(d) { return d; });
+	//maxCount = d3.max(confCounts, function(d) { return d; });
+	maxCount = d3.max(confCounts, function(d) { return d.count; });
 	confYScale.domain([0,maxCount]);
 
 	chart.selectAll("rect").remove();
@@ -796,16 +856,22 @@ function updateConfBar(week) {
 			.append("rect")
 			.attr("class", "bars")
 			.attr("fill", "lightsteelblue")
-			.attr("height", function(d) { return (250-confYScale(d)); })
+			.attr("height", function(d) { return (250-confYScale(d.count)); })
 			.attr("width", ((400/confCounts.length)-2))
-			.attr("transform", function(d,i) { return "translate(" + confXScale(currConfs[i]) + "," + confYScale(d) + ")"; });
+			.attr("transform", function(d,i) { return "translate(" + confXScale(currConfs[i]) + "," + confYScale(d.count) + ")"; })
+			.on("mouseover", function(d) {
+				conftip.show(d);
+			})
+			.on("mouseout", function(d) {
+				conftip.hide(d);
+			})
 
 	chart.selectAll(".barValue")
 			.data(confCounts)
 			.enter()
 			.append("text")
 			.text(function(d) {
-				return d;
+				return d.count;
 			})
 			.attr("class", "barValue")
 			.attr("text-anchor", "middle")
@@ -813,7 +879,7 @@ function updateConfBar(week) {
 				return i * (400 /confCounts.length) + (400 / confCounts.length - 2) /2;
 			})
 			.attr("y", function(d) {
-				return (confYScale(d) + 24);
+				return (confYScale(d.count) + 24);
 			});
 }
 
