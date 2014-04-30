@@ -1,0 +1,39 @@
+.d3-tip {
+	line-height:1;
+	font-weight:bold;
+	padding:12px;
+	background: rgba(0,0,0,0.75);
+	color:#fff;
+	border-radius:5px;
+}
+
+body {
+	font-family: sans-serif;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: lightgrey; 
+	stroke-width: 2px;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 10pt;
+}
+
+.node {
+	clip-path: url(#clip);
+}
+
+.brush .extent {
+	stroke:black;
+	fill-opacity:0.125;
+	shape-rendering:crispEdges;
+}
+
+.brush .handle {
+	stroke:black;
+	fill-opacity:0.125;
+}

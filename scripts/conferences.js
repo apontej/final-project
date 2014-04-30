@@ -1,3 +1,5 @@
+// Load the conferences.csv file and allow for finding the full conference name from the short name
+
 var conferences_list;
 
 d3.csv("data/conferences.csv", function(error, data) {

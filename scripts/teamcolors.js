@@ -1,3 +1,4 @@
+// Load the teamcolors file and function for searching for a school's main color
 var teamcolors;
 
 d3.text("data/teamcolors.csv", function(error, data) {
