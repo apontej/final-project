@@ -1,33 +1,41 @@
-conference,conf_short
-America East,Am East
-Atlantic 10,A-10
-ACC,ACC
-Atlantic Sun,A. Sun
-Big 12,Big 12
-Big East,Big East
-Big Sky,Big Sky
-Big South,Big South
-Big Ten,Big Ten
-Big West,Big West
+conf_full,conf_short
+America East Conference,Am East
+Atlantic 10 Conference,A-10
+Atlantic Coast Conference,ACC
+Atlantic Sun Conference,A. Sun
+Big 12 Conference,Big 12
+Big East Conference,Big East
+Big Sky Conference,Big Sky
+Big South Conference,Big South
+Big Ten Conference,Big Ten
+Big West Conference,Big West
 Colonial Athletic Association,CAA
-Conference USA,C-USA
-Great West,Great West
+Conference USA,CUSA
+Great West Conference,Great West
 Horizon League,Horizon
 Ivy League,Ivy
-MAAC,MAAC
-Mid-American,MAC
-MEAC,MEAC
-Missouri Valley,MVC
-Mountain West,MWC
-Northeast,NEC
-Ohio Valley,OVC
-Pac-12,Pac-12
+Metro Atlantic Athletic Conference,MAAC
+Mid-American Conference,MAC
+Mid-Eastern Athletic Conference,MEAC
+Missouri Valley Conference,MVC
+Mountain West Conference,MWC
+Northeast Conference,NEC
+Ohio Valley Conference,OVC
+Pacific-12 Conference,Pac-12
 Patriot League,Patriot
-SEC,SEC
-Southern,SoCon
-Southland,Southland
-SWAC,SWAC
-Summit League,Summit
-Sun Belt,Sun Belt
-West Coast,WCC
-WAC,WAC
+Southeastern Conference,SEC
+Southern Conference,Southern
+Southland Conference,Southland
+Southwestern Athletic Conference,SWAC
+The Summit League,Summit
+Sun Belt Conference,Sun Belt
+West Coast Conference,WCC
+Western Athletic Conference,WAC
+Big Eight Conference,Big 8
+Pacific-10 Conference,Pac-10
+Mid-Continent Conference,Mid-Cont
+Great Midwest Conference,GMWC
+Metropolitan Collegiate Athletic Conference,Metro
+Southwest Conference,SWC
+Division I Independents,Ind
+Pacific Coast Athletic Association,PCAA
