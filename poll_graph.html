@@ -51,21 +51,16 @@
 </head>
 <body>
 <table>
-<!-- <tr>
-<td> -->
-<!-- <form>
-<label><input type="radio" name="pollSelect" value="ap" onClick='displayPoll("ap")'> Associated Press</label>
-<label><input type="radio" name="pollSelect" value="coaches" onClick='displayPoll("coaches")'/> Coaches/USA Today</label>
-</form> -->
-<!-- </td>
-<td></td>
-</tr> -->
+<tr>
+<td colspan="2" align="center">
+<h1>Exploring College Basketball's Top 25</h1>
+</td>
+</tr>
 <tr>
 <td rowspan="2">
 <form>
 <label><input type="radio" name="pollSelect" value="ap" id="radioap" onClick='displayPoll("AP")' checked> Associated Press</label>
 <label><input type="radio" name="pollSelect" value="coaches" id="radiocoaches" onClick='displayPoll("coaches")'/> Coaches/USA Today</label>
-<!-- <label><input type="radio" name="pollSelect" value="rpi" onClick='displayPoll("rpi")'/> RPI</label> -->
 &nbsp;&nbsp;
 <select id="yearselect" autofocus>
 	<option value="1980-81">1980-81</option>
@@ -105,10 +100,10 @@
 </select>
 </form>
 <div id="pollgraph"></div></td>
-<td valign="top"><div id="confBar"></div></td>
+<td valign="top" align="center"><h3>Number of Ranked Teams Per Conference</h3><div id="confBar"></div></td>
 </tr>
 <tr>
-<td valign="top"><div id="movers"></div></td>
+<td valign="top" align="center"><h3>Biggest Weekly Movers<div id="movers"></div></td>
 </tr>
 </table>
 <script type="text/javascript">
@@ -166,8 +161,6 @@ var pathHighlighted = 0;
 origStroke = 2;
 hoverStroke = 2;
 
-// var svg = d3.select("body").append("svg");
-
 var canvas = d3.select("#pollgraph").append("svg").attr({
 	width: bbPoll.w + margin.left + margin.right,
 	height: bbPoll.h + margin.top + margin.bottom
@@ -183,7 +176,6 @@ var tip = d3.tip()
 			.attr("class", "d3-tip")
 			.offset([-10,0])
 			.html(function(d) {
-				//console.log("d", d);
 				friendly_full = getIDsBy(d).friendly_full;
 				retVal = "";
 				retVal += '<img src="data/logos/' + friendly_full + '.gif" width="75" height="50"/><br />' + friendly_full;
@@ -243,12 +235,8 @@ var missingCoaches = {
 }
 
 function displayPoll(thePoll, year) {
-	//console.log(thePoll);
-	//console.log(currentPoll);
-	//console.log(thePoll);
 	baseUrl = "data/poll-data/";
 	if (thePoll === undefined) {
-		//console.log("undefined");
 		thePoll = currentPoll;
 	} else {
 		currentPoll = thePoll;
@@ -265,7 +253,6 @@ function displayPoll(thePoll, year) {
 		document.getElementById('radioap').checked = true;
 	}
 	thePollPath = baseUrl + year + "-" + thePoll + ".csv";
-	// thePollPath = polls[thePoll];
 
 d3.csv(thePollPath, function(error, data) {
 	teams = {};
@@ -276,9 +263,6 @@ d3.csv(thePollPath, function(error, data) {
 	maxRk = 0;
 	allNodes = [];
 
-	//d3.selectAll("path#teampath").exit().remove();
-	//console.log(dataset);
-
 	for (var i=0;i<dataset.length;i++) {
 		if (dataset[i].Wk === "Wk") {
 			dataset.splice(i,1);
@@ -286,16 +270,8 @@ d3.csv(thePollPath, function(error, data) {
 	}
 
 	for (var i=0;i<dataset.length;i++) {
-		/*if (dataset[i].School.indexOf("Gonzaga") !== -1) {
-			console.log(dataset[i].Wk, dataset[i].Rk);
-
-		}*/
 		line = dataset[i];
 		school = line.School;
-		// if (/'/g.test(school)) {
-		// 	school = school.replace(/'/g,"\'");
-		// }
-		//if (i == 4) externalschool = school;
 		strWeek = line.Wk;
 		week = parseInt(strWeek);
 		line.Wk = week;
@@ -346,7 +322,6 @@ d3.csv(thePollPath, function(error, data) {
 
 		// Find max rank
 		if (line.Rk > maxRk) {
-			//console.log("maxRk", line.Rk);
 			maxRk = line.Rk;
 		}
 	}
@@ -372,7 +347,6 @@ d3.csv(thePollPath, function(error, data) {
 					diff.push(weeks[i]);
 				}
 			}
-			//console.log(school, diff);
 			diff.forEach(function(d) {
 				teams[school].push({"Wk": d, "Rk": (maxRk + 2)});
 			})
@@ -400,11 +374,6 @@ d3.csv(thePollPath, function(error, data) {
 
 	maxWk = d3.max(weeks, function(d) { return d; });
 
-	//console.log(teams);
-
-/*	xscale = d3.scale.linear().domain([1,maxWk]).range([50,1600]);
-	yscale = d3.scale.linear().domain([1,25]).range([50,700]);*/
-
 	xscale = d3.scale.linear().domain([1,maxWk]).range([bbPoll.x,bbPoll.w-100]);
 	brushscale = d3.scale.linear().domain([1,maxWk]).range([bbPoll.x,bbPoll.w-100]);
 	yscale = d3.scale.linear().domain([1,maxRk + 1]).range([bbPoll.y+20,bbPoll.h]);
@@ -421,11 +390,6 @@ d3.csv(thePollPath, function(error, data) {
 
 	teamline = d3.svg.line().x(function(d) { return xscale(d.Wk); })
 								.y(function(d) { return yscale(d.Rk); })
-								//.interpolate("cardinal");
-
-	//colorScale = d3.scale.linear().domain([1,25]).range(["red", "green"]);
-
-	//svg = d3.select("svg").transition();
 
 	svg.selectAll("defs").remove();
 
@@ -450,12 +414,9 @@ d3.csv(thePollPath, function(error, data) {
 		.remove();
 
 	for (var school in teams) {
-		//console.log(school);
 		espnid = getIDsBy(undefined,undefined,undefined,school,undefined).espn_id;
 		espnid = "x" + espnid.toString();
-		//console.log(espnid);
 
-		//svg.append("path")
 		svg.append("g").classed("teampath", true).append("path")
 			.attr("d", teamline(teams[school]))
 			.classed(espnid, true)
@@ -465,23 +426,13 @@ d3.csv(thePollPath, function(error, data) {
 			.style("stroke", searchColor(school))
 			.on("click", function(d) {
 				var thePath = d3.select(this);
-				//thepath.style("stroke-width", hoverStroke);
 				theClass = getClassFromPath(thePath);
-				//console.log(theClass);
-				//tip.show(theClass);
 				showCircles(theClass,thePath);
-				//return highlightPath(thePath);
 			})
 			.on("mouseover", function(d) {
 				d3.select("body").style("cursor", "pointer");
 			})
 			.on("mouseout", function(d) {
-				var thePath = d3.select(this);
-				//thepath.style("stroke-width", origStroke);
-				theClass = getClassFromPath(thePath);
-				//tip.hide(theClass);
-				//hideCircles(theClass);
-				//return backToNormal();
 				d3.select("body").style("cursor", "default");
 			})
 			.style("clip-path", "url(#clip)")
@@ -494,18 +445,7 @@ d3.csv(thePollPath, function(error, data) {
 				.attr("transform", "translate("+(bbPoll.w-90)+","+yscale(lastRk)+")")
 				.attr("dy", ".25em")
 				.attr("text-anchor", "start")
-				.style("fill", searchColor(school)
-)				// .on("mouseover", function() {
-				// 	//thisSchool = this.indexOf
-				// 	theSchool = this.innerHTML;
-				// 	//console.log(theSchool);
-				// 	theSchool = theSchool.substring((theSchool.indexOf(" ")+1));
-				// 	//console.log(theSchool);
-				// 	return highlightPath(null,theSchool);
-				// })
-				// .on("mouseout", function() {
-				// 	return backToNormal();
-				// })
+				.style("fill", searchColor(school))
 				.text(lastRk + ": " + school);
 		}
 
@@ -520,18 +460,15 @@ d3.csv(thePollPath, function(error, data) {
 					.attr("r", 5)
 					.attr("fill", function(d) { return searchColor(d.School); })
 					.style("display", "none")
-					//.classed("circ", true)
 					.attr("class", function(d) { return "x" + d.espnid + " circ"; })
 					.attr("transform", function(d) {
 						return "translate("+xscale(d.Wk)+","+yscale(d.Rk)+")";
 					})
 					.on("mouseover", function(d) {
 						nodetip.show(d);
-						//highlightPath(null,d.School);
 					})
 					.on("mouseout", function(d) {
 						nodetip.hide(d);
-						//backToNormal();
 					})
 
 	if (brush !== undefined) {
@@ -565,19 +502,24 @@ d3.csv(thePollPath, function(error, data) {
 				return updateMoversTable(d);
 			})
 
+	svg.append("text")
+		.attr("transform", "translate(360,640)")
+		.style("text-anchor", "middle")
+		.text("Week");
+
 	svg.append("g")
 		.attr("class", "axis")
 		.attr("transform", "translate("+margin.left+",0)")
 		.call(yaxis);
 
+	svg.append("text")
+		.attr("transform", "translate(0,300) rotate(-90)")
+		.style("text-anchor", "middle")
+		.text("Rank");
+
 	updateMoversTable(1);
 	updateConfBar(1);
-/*	svg.append("path")
-		.attr("d", teamline(teams["Gonzaga"]))
-		.style("fill", "none")
-		.style("stroke", "black");*/
 
-	//console.log(dataset);
 }) // end d3.csv
 } // end function
 
@@ -613,34 +555,16 @@ function brushed() {
 				.attr("dy", ".25em")
 				.attr("text-anchor", "start")
 				.style("fill", searchColor(school))
-				// .on("mouseover", function() {
-				// 	//thisSchool = this.indexOf
-				// 	theSchool = this.innerHTML;
-				// 	//console.log(theSchool);
-				// 	theSchool = theSchool.substring((theSchool.indexOf(" ")+1));
-				// 	//console.log(theSchool);
-				// 	return highlightPath(null,theSchool);
-				// })
-				// .on("mouseout", function() {
-				// 	return backToNormal();
-				// })
 				.text(lastRk + ": " + school);
 		}
 	}
-	// svg.selectAll(".circ").attr({
-	// 	"cx":function(d) { return xscale(d.Wk); },
-	// 	"cy":function(d) { return yscale(d.Rk); }
-	// })
 	svg.selectAll(".circ").attr("transform", function(d) { return "translate("+xscale(d.Wk) + "," + yscale(d.Rk) + ")"; })
-	//xsvg.call(xaxis);
 }
 
 function getClassFromPath(thePath) {
 	theClass = thePath[0][0].className.animVal;
-	//console.log(theClass);
 	tpi = theClass.indexOf("teampath");
 	theClass = theClass.substring(1,(tpi-1));
-	//console.log(theClass);
 	return theClass;
 }
 
@@ -653,15 +577,10 @@ function highlightPath(thePath,school) {
 	if (thePath) {
 		thePath.style("stroke-width", hoverStroke)
 				.style("opacity", 1);
-		// classes = thePath[0][0].className.animVal;
-		// tpi = classes.indexOf("teampath");
-		// classes = classes.substring(0,(tpi-1));
-		// console.log(classes);
 	}
 	if (school) {
 		school = getIDsBy(undefined,undefined,undefined,school,undefined).espn_id;
 		school = "x" + school.toString();
-		//console.log(school);
 		thePath = d3.select("path."+school);
 		thePath.style("stroke-width", hoverStroke)
 				.style("opacity", 1);
@@ -669,8 +588,6 @@ function highlightPath(thePath,school) {
 }
 
 function showCircles(espnid,thePath) {
-	// console.log(school);
-	// espnid = getIDsBy(undefined,undefined,undefined,school,undefined).espn_id;
 	if (pathHighlighted === 0) {
 		highlightPath(thePath);
 		d3.selectAll("circle.x"+espnid)
@@ -694,7 +611,6 @@ function showCircles(espnid,thePath) {
 }
 
 function hideCircles() {
-	//espnid = getIDsBy(undefined,undefined,undefined,school,undefined).espn_id;
 	d3.selectAll("circle.x"+pathHighlighted)
 		.style("display", "none");
 	pathHighlighted = 0;
@@ -745,17 +661,6 @@ function createMoversTable() {
 				.data(dummydata)
 				.enter()
 				.append("tr");
-
-	// moversCells = moversRows.selectAll("td")
-	// 			.data(function(row) {
-	// 				return moversColumns.map(function(column) {
-	// 					return {column: column, value: row[column]};
-	// 				})
-	// 			})
-	// 			.enter()
-	// 			.append("td")
-	// 				.html(function(d) { return d.value; })
-	// 				.attr("align", function(d,i) { return i===0?"left":"right"; })
 
 	return moversTable;
 }
@@ -831,7 +736,6 @@ function updateConfBar(week) {
 	for (var conf in conferences) {
 		if (conferences[conf][week]) {
 			currConfs.push(conf);
-			//confCounts.push(conferences[conf][week]["count"]);
 			theConfObj = conferences[conf][week];
 			theConfObj["conf"] = conf;
 			confCounts.push(theConfObj);
@@ -843,7 +747,6 @@ function updateConfBar(week) {
 	confXsvg.call(confXAxis)
 		.selectAll("text")
 			.style("font-size", "7pt");
-	//maxCount = d3.max(confCounts, function(d) { return d; });
 	maxCount = d3.max(confCounts, function(d) { return d.count; });
 	confYScale.domain([0,maxCount]);
 
@@ -880,7 +783,13 @@ function updateConfBar(week) {
 			})
 			.attr("y", function(d) {
 				return (confYScale(d.count) + 24);
-			});
+			})
+			.on("mouseover", function(d) {
+				conftip.show(d);
+			})
+			.on("mouseout", function(d) {
+				conftip.hide(d);
+			})
 }
 
 function backToNormal() {
@@ -892,20 +801,13 @@ function backToNormal() {
 d3.select("#yearselect").on("change", change)
 function change() {
 	displayPoll(undefined,d3.select("#yearselect").property("value"));
-	//console.log(d3.select("#yearselect").property("value"));
 }
-
-//d3.select("input[value=\"ap\"]").on("click", displayPoll("ap"));
-//d3.select("input[value=\"coaches\"]").on("click", displayPoll("coaches"));
-
 
 createConfBar();
 createMoversTable();
 displayPoll("AP", "2013-14");
 
-//d3.select("body").append("div").attr("class", "d3-slider d3-slider-horizontal")//.style("margin-left", "35px");
-//d3.select("div.d3-slider").call(d3.slider().axis(true).min(1).max(20).step(1).on("slide", function(evt, value) { updateConfBar(value); updateMoversTable(value); } ));
-//displayPoll("coaches");
+
 
 </script>
 
