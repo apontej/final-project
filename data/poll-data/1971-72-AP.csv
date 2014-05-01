@@ -14,7 +14,7 @@ Wk,Date,Rk,School,Prev,Chng,Conf
 16,Final,13,Memphis R,11,2,MVC
 16,Final,14,Maryland,13,1,ACC
 16,Final,15,Villanova*,,,Ind
-16,Final,16,Oral Roberts R,17,1,Ind
+16,Final,16,Oral Roberts,17,1,Ind
 16,Final,17,Indiana,20,3,Big Ten
 16,Final,18,Kentucky* R,,,SEC
 16,Final,19,Ohio State,,,Big Ten
@@ -36,7 +36,7 @@ Wk,Date,Rk,School,Prev,Chng,Conf
 15,1972-03-07,14,Florida State* F,10,4,Ind
 15,1972-03-07,15,Virginia,12,3,ACC
 15,1972-03-07,16,Minnesota* R,,,Big Ten
-15,1972-03-07,17,Oral Roberts R,17,NC,Ind
+15,1972-03-07,17,Oral Roberts,17,NC,Ind
 15,1972-03-07,18,Missouri,19,1,Big 8
 15,1972-03-07,19,Houston*,13,6,Ind
 15,1972-03-07,20,Indiana,,,Big Ten
@@ -57,7 +57,7 @@ Wk,Date,Rk,School,Prev,Chng,Conf
 14,1972-02-29,14,Ohio State,15,1,Big Ten
 14,1972-02-29,15,Hawaii*,17,2,Ind
 14,1972-02-29,16,Michigan,,,Big Ten
-14,1972-02-29,17,Oral Roberts R,20,3,Ind
+14,1972-02-29,17,Oral Roberts,20,3,Ind
 14,1972-02-29,18,Maryland,12,6,ACC
 14,1972-02-29,19,Missouri,14,5,Big 8
 14,1972-02-29,20,Memphis R,19,1,MVC
@@ -81,7 +81,7 @@ Wk,Date,Rk,School,Prev,Chng,Conf
 13,1972-02-22,17,Hawaii*,16,1,Ind
 13,1972-02-22,18,Kentucky* R,17,1,SEC
 13,1972-02-22,19,Memphis R,18,1,MVC
-13,1972-02-22,20,Oral Roberts R,,,Ind
+13,1972-02-22,20,Oral Roberts,,,Ind
 Wk,Date,Rk,School,Prev,Chng,Conf
 12,1972-02-15,1,UCLA* RFN,1,NC,Pac-8
 12,1972-02-15,2,Marquette*,2,NC,Ind

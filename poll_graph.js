@@ -10,6 +10,9 @@ var mapteams = {
 				"College of Charleston": "Charleston",
 				"Loyola (IL)": "Loyola Chicago",
 				"Texas Christian": "TCU",
+				"Detroit Mercy": "Detroit",
+				"Virginia Military Institute": "Virginia Military",
+				"California-Irvine": "UC Irvine",
 				"Mississippi": "Ole Miss"};
 
 // Margins
@@ -163,9 +166,7 @@ function displayPoll(thePoll, year) {
 			if (starIndex > 0) {
 				school = school.substring(0,starIndex);
 				line.School = school;
-			} 
-			// Special case where there is no star but want to remove text after school name
-			else if (/\sR/g.test(school)) {
+			} else if (/\sR/g.test(school)) { // Special case where there is no star but want to remove text after school name
 				if (!/\sR[a-z]/g.test(school)) {
 					lastIndex = school.lastIndexOf("R");
 					school = school.substring(0,lastIndex-1);
@@ -420,7 +421,7 @@ function displayPoll(thePoll, year) {
 			.call(yaxis)
 			.selectAll("text")
 				.style("display", function(d) {
-					if (d === 26) {
+					if (d === (maxRk+1)) {
 						return "none";
 					} else {
 						return "block";
