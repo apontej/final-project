@@ -348,7 +348,18 @@ function displayPoll(thePoll, year) {
 					.attr("dy", ".25em")
 					.attr("text-anchor", "start")
 					.style("fill", searchColor(school))
-					.text(lastRk + ": " + school);
+					.text(lastRk + ": " + school)
+					.on("click", function() {
+						theSchool = this.innerHTML;
+						theSchool = theSchool.substring((theSchool.indexOf(" ")+1));
+						return showCircles(undefined,undefined,theSchool);
+					})
+					.on("mouseover", function(d) {
+						d3.select("body").style("cursor", "pointer");
+					})
+					.on("mouseout", function(d) {
+						d3.select("body").style("cursor", "default");
+					})
 			}
 
 		}
@@ -478,7 +489,18 @@ function brushed() {
 				.attr("dy", ".25em")
 				.attr("text-anchor", "start")
 				.style("fill", searchColor(school))
-				.text(lastRk + ": " + school);
+				.text(lastRk + ": " + school)
+				.on("click", function() {
+					theSchool = this.innerHTML;
+					theSchool = theSchool.substring((theSchool.indexOf(" ")+1));
+					return showCircles(undefined,undefined,theSchool);
+				})
+				.on("mouseover", function(d) {
+					d3.select("body").style("cursor", "pointer");
+				})
+				.on("mouseout", function(d) {
+					d3.select("body").style("cursor", "default");
+				})
 		}
 	}
 	// Move all the circles to their new scaled positions based on the brushed scale
@@ -514,7 +536,11 @@ function highlightPath(thePath,school) {
 }
 
 // Show the circles for a selected school
-function showCircles(espnid,thePath) {
+function showCircles(espnid,thePath,schoolname) {
+	if (schoolname !== undefined) {
+		espnid = getIDsBy(undefined,undefined,undefined,schoolname,undefined).espn_id;
+		thePath = d3.select(".x"+espnid);
+	}
 	if (pathHighlighted === 0) {
 		highlightPath(thePath);
 		d3.selectAll("circle.x"+espnid)
