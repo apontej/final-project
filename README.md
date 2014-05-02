@@ -8,5 +8,5 @@ The visualization is hosted on Github pages at [this link]. Instructions for usi
 The project video can be found on [YouTube].
 
 
-[this link]:http://apontej.github.io
+[this link]:http://apontej.github.io/final-project
 [YouTube]:http://youtu.be/7Vt2NGeXGzY
